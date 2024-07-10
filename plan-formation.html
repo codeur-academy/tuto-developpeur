@@ -1,0 +1,26 @@
+---
+layout : chapitre
+---
+
+<style>
+    a {
+        color: black !important;
+    }
+</style>
+
+<h1>Plan de formation</h1>
+{%- assign parties = site.parties | sort: "order" -%}
+<ol>
+    {% for partie in parties  %}
+    <li> <a href="#{{partie.title}}">{{partie.title}}</a> </li>
+    {% endfor %}
+</ol>
+
+
+
+
+{% for partie in parties %}
+<h2 id="{{partie.title}}">{{partie.title}}</h2>
+<q>{{partie.description}}</q>
+<p>{{partie.content}}</p>
+{% endfor %}

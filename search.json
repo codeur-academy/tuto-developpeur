@@ -1,0 +1,43 @@
+---
+layout: null
+---
+{
+{% for chapitre in site.chapitres -%}
+  {%- assign nodes = chapitre.content | split: '<h2' -%}
+  {%- assign first_node = true -%}
+{% for node in nodes %}
+
+  {%- if first_node -%}
+    {%- assign first_node = false -%}
+    {%- capture node_id -%}{{ chapitre.url | slugify }}{%- endcapture -%}
+    {%- capture node_title -%}{{ chapitre.title | xml_escape }}{%- endcapture -%}
+    {%- capture node_url -%}{{site.baseurl}}{{ chapitre.url  }}{%- endcapture -%}
+    {%- capture node_content -%}{{ node }}{%- endcapture -%}
+    
+  {%- else -%}
+    {%- assign _h_content = node | split: '</h2' -%}
+    {%- assign _h_id = _h_content[0] | split: 'id="' -%}
+    {%- assign _h_id = _h_id[1] | split: '"' -%}
+    {%- assign h_id = _h_id[0] -%}
+    {%- capture _hAttrToStrip -%}{{ _h_content[0] | split: '>' | first }}>{%- endcapture -%}
+    {%- assign header = _h_content[0] | replace: _hAttrToStrip, '' -%}
+   
+    {%- capture node_id -%}{{ chapitre.url | slugify }}#{{h_id}}{%- endcapture -%}
+    {%- capture node_title -%}{{ header | xml_escape }}  ({{chapitre.title}}){%- endcapture -%}
+    {%- capture node_url -%}{{site.baseurl}}{{ chapitre.url  }}#{{h_id}}{%- endcapture -%}
+    {%- capture node_content -%}<h2 {{ node }}{%- endcapture -%}
+ 
+  {%- endif-%}
+    
+    "{{node_id}}": {
+      "title": "{{ node_title }}",
+      "content"	 : "{{node_content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url": "{{ node_url  }}",
+      "author": "{{ chapitre.author | xml_escape }}",
+      "categories": "{%- for category in chapitre.categories -%}{{ category }}{%- unless forloop.last -%}, {%- endunless -%}{%- endfor -%}"
+    }
+    {%- unless forloop.last -%},{% endunless %}
+{% endfor %}
+    {%- unless forloop.last -%},{% endunless %}
+{% endfor %}
+}

@@ -1,0 +1,1363 @@
+{
+"index-html": {
+      "title": "1.introduction",
+      "content"	 : "Apprendre HTML5 et CSS3 par projetsVous voulez apprendre le HTML5 et le CSS3 en développant des projets simples ? Vous voulez construire un portfolio mais vous n’avez pas d’idée de projet ?Alors vous êtes au bon endroit !La réalisation des projets est le meilleur moyen de vous améliorer en code, surtout si vous êtes débutant. En plus, ces projets constitueront votre portfolio qui vous permettra de vous créer plus d’opportunité en tant que développeur HTML5 et CSS3.Nous allons réaliser dans cette formation des projets pour apprendre et s’améliorer en HTML5 et CSS3 avec des propositions des orientations, des conseils avant et après la réalisation avec possibilité du téléchargement du code source.Au début de chaque projet, nous allons commencer par la présentation de travail à faire.Dans un deuxième temps, nous analysons le projet techniquement afin de proposer le plan que nous allons suivre pour créer le projet. Nous commençons par diviser le projet en petits travaux pratiques simples à faire pour arriver à la réalisation totale du projet sans blocage. Ensuite, nous réalisons le projet étapes par étapes. Enfin, nous vous proposerons une démonstration complète de la réalisation avec le code source à télécharger.Ces projets sont le fruit d’une expérience de 10 ans en formation et initiation des adultes au développement Web avec HTML et CSS.",
+      "url": "/html5-css3/index.html",
+      "author": "",
+      "categories": "introduction"
+    },
+"index-html#ce-que-vous-apprendrez": {
+      "title": "Ce que vous apprendrez  (1.introduction)",
+      "content"	 : "Ce que vous apprendrez  Apprendre HTML5 à partir de zéro  Apprendre CSS3 à partir de zéro  Réalisation des projets du monde réel  Création des pages responsive",
+      "url": "/html5-css3/index.html#ce-que-vous-apprendrez",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"pr-c3-a9sentation-formateur-html": {
+      "title": "Présentation du formateur",
+      "content"	 : "Présentation du formateur ",
+      "url": "/html5-css3/pr%C3%A9sentation-formateur.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"plan-formation-html": {
+      "title": "Plan du formation",
+      "content"	 : "Plan du formationLa formation est divisée en deux sections :  Notions préliminaires  Réalisation des projetsDans la première section, nous découvrirons certaines notions préliminaires que vous devez savoir avant de commencer à apprendre le développement Web avec HTML5 et CSS3. Nous allons voir dans la première partie,  le concept du Web et d’Internet. Cela va vous donne une compréhension claire du concept d’une page web et sa fonctionnement. La deuxième partie décrit comment installer l’environnement de développement nécessaire pour démarrer les travaux pratiques.La deuxième section a pour objectif la mise en oeuvre de nos projets Web. Nous commencerons par le projet 0, dans lequel nous apprendrons les notions de base de HTML5 et CSS3. À la fin de chaque projet, nous résumons ce que nous avons appris et présentons le projet suivant. Si une tâche d’auto-apprentissage est incluse, chaque projet peut être divisé en plusieurs parties de formation qui se terminent par la réalisation d’une partie du projet.",
+      "url": "/html5-css3/plan-formation.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"introduction-dev-web-introduction-html": {
+      "title": "Notion du Web et et Internet - Introduction",
+      "content"	 : "Notions préliminaires : Web et Internet",
+      "url": "/html5-css3/introduction-dev-web/introduction.html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-introduction-html#section--notion-préliminaire": {
+      "title": "Section : Notion préliminaire  (Notion du Web et et Internet - Introduction)",
+      "content"	 : "Section : Notion préliminaireNous commençons notre formation par la section des notions préliminaire dont laquelle nous allons voir la notion du Web, d’Internet et la différence entre eux.",
+      "url": "/html5-css3/introduction-dev-web/introduction.html#section--notion-préliminaire",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-introduction-html#partie--web-et-internet": {
+      "title": "Partie : Web et Internet  (Notion du Web et et Internet - Introduction)",
+      "content"	 : "Partie : Web et InternetNous allons découvrir dans cette partie de formation :  Ce que c’est une page web et la notion d’internet  Les trois langages web ( HTML, CSS et JavaScript) qui vous permettent de construire une page web.Ces éléments théoriques ne sont pas strictement nécessaires pour commencer à faire du développement web dans un premier temps. Cependant, ils seront plus utiles pour mieux comprendre comment le Web fonctionne en arrière-plan.",
+      "url": "/html5-css3/introduction-dev-web/introduction.html#partie--web-et-internet",
+      "author": "",
+      "categories": "introduction-dev-web"
+    }
+,
+"introduction-dev-web-fonctionnement-internet-html": {
+      "title": "Qu'est ce qu'Internet ?",
+      "content"	 : "Qu’est ce qu’Internet ?Dans cette session, nous découvrons ce qu’est l’Internet et comment il fonctionne.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#définition": {
+      "title": "Définition  (Qu'est ce qu'Internet ?)",
+      "content"	 : "DéfinitionL’Internet est l’épine dorsale du Web. Il s’agit de l’infrastructure technique  qui soutient le Web.De façon simple, l’Internet est un vaste réseau d’ordinateurs qui communiquent les uns avec les autres.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#définition",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#comment-fonctionne-internet-": {
+      "title": "Comment fonctionne internet ?  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Comment fonctionne internet ?Pour répondre à cette question, je vous propose de voir d’abord le fonctionnement d’un réseau entre deux ordinateurs, puis un réseau entre dix ordinateurs jusqu’à voir un réseaux entre les villes et les pays.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#comment-fonctionne-internet-",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#réseau-local--entre-deux-ordinateurs": {
+      "title": "Réseau local : entre deux ordinateurs  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Réseau local : entre deux ordinateursPour que deux ordinateurs puissent communiquer entre eux, ils doivent être liés soit par un lien physique (généralement par un câble Ethernet), soit par un lien sans fil (par exemple, via le WiFi). Tous ces types de connexions sont possibles sur les ordinateurs modernes.Cette connexion entre deux ordinateurs s’appelle réseau local.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#réseau-local--entre-deux-ordinateurs",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#réseau-entre-plusieurs-ordinateurs": {
+      "title": "Réseau entre plusieurs ordinateurs  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Réseau entre plusieurs ordinateursUn réseau n’est pas limité à deux ordinateurs. Vous pouvez y connecter autant d’ordinateurs que vous souhaitez, mais le tout se complique très rapidement. Ainsi, si vous voulez relier, disons, dix ordinateurs entre eux, vous aurez besoin de neuf prises sur chaque ordinateur et de 45 câbles !",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#réseau-entre-plusieurs-ordinateurs",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#réseau-entre-plusieurs-ordinateurs-avec-routeur": {
+      "title": "Réseau entre plusieurs ordinateurs avec routeur  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Réseau entre plusieurs ordinateurs avec routeurAfin de résoudre ce problème, chaque ordinateur du réseau est relié à un petit ordinateur bien spécial que l’on appelle routeur.Ce routeur n’a qu’une seule fonction : tout comme un signaleur de gare de train, il s’assure que les messages transmis par un ordinateur donné se rendent au bon ordinateur destinataire. Ainsi, pour envoyer un message à l’ordinateur B, l’ordinateur A transmet d’abord le message au routeur, qui s’assure alors de transférer le message à l’ordinateur B et non à l’ordinateur C.Vous voyez donc que lorsque nous ajoutons un routeur dans notre structure, notre réseau de dix ordinateurs ne requiert alors que de dix câbles, d’une prise par ordinateur et d’un routeur de 10 ports.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#réseau-entre-plusieurs-ordinateurs-avec-routeur",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#un-réseau-de-réseaux": {
+      "title": "Un réseau de réseaux  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Un réseau de réseauxJusqu’ici tout est beau, mais comment fait-on pour relier des centaines, des milliers ou même des millards d’ordinateurs entre eux ? Bien évidemment, un seul routeur ne pourrait suffire pour tant de connexions. Cependant, si vous m’avez suivi attentivement, vous aurez constaté qu’un routeur n’est en réalité qu’un ordinateur. Serait-il alors possible de lier deux routeurs ? Oui, absolument, et en voici le résultat!En liant les ordinateurs à des routeurs, puis les routeurs entre eux, nous avons la capacité d’étendre le réseau indéfiniment.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#un-réseau-de-réseaux",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#un-réseau-de-réseaux-avec-fournisseur-daccès": {
+      "title": "Un réseau de réseaux avec fournisseur d’accès  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Un réseau de réseaux avec fournisseur d’accèsUn tel réseau s’apparente de près à ce que nous appelons l’Internet, mais il y a un élément manquant. Ce réseau a été conçu pour répondre à nos besoins personnels, mais d’autres réseaux existent également. Vos amis, vos voisins et plein d’autres gens peuvent avoir leurs propres réseaux d’ordinateurs. Cependant, il vous est plutôt impossible de brancher des câbles entre votre maison et le reste de la planète, alors que faire ?Eh bien, il se trouve que votre maison est déjà câblée et liée aux réseaux téléphonique. L’infrastructure téléphonique, qui lie déjà votre maison au reste de la planète, répond parfaitement à nos besoins. Afin de lier notre réseau à l’infrastructure téléphonique, nous devons utiliser un appareil spécialisé appelé modem. Ce modem convertit l’information de notre réseau en information décodable par l’infrastructure téléphonique et vice-versa.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#un-réseau-de-réseaux-avec-fournisseur-daccès",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#un-réseau-de-réseaux-avec-fournisseur-daccès-1": {
+      "title": "Un réseau de réseaux avec fournisseur d’accès  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Un réseau de réseaux avec fournisseur d’accèsNotre réseau est donc lié à l’infrastructure téléphonique. La prochaine étape consiste alors à transmettre avec succès nos messages au réseau cible. À cette fin, nous allons lier notre réseau à un Fournisseur d’accès à Internet (FAI).Un FAI est une entreprise qui gère des routeurs qui sont liés entre eux et qui ont des droits d’accès aux routeurs d’autres FAI. Le message transmis par notre réseau est ainsi transporté à travers le réseau de FAI afin d’atteindre le réseau cible.Voilà en quoi consiste l’Internet : il s’agit de toute cette infrastructure de réseaux",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#un-réseau-de-réseaux-avec-fournisseur-daccès-1",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#localiser-un-ordinateur": {
+      "title": "Localiser un ordinateur  (Qu'est ce qu'Internet ?)",
+      "content"	 : "Localiser un ordinateurLorsque nous souhaitons transmettre un message à un ordinateur, nous devons préciser de quel ordinateur il s’agit. Par conséquent, chaque ordinateur lié à un réseau possède une adresse unique appelée « adresse IP » (où « IP » signifie Internet Protocol) qui sert à localiser l’ordinateur. Cette adresse est composée d’une série de nombres séparés par des points, par exemple : 192.168.1.3.C’est une méthode très efficace pour les ordinateurs, mais les humains ont un peu plus de difficulté à retenir de telles adresses numériques. Afin de se faciliter la tâche, un libellé alphabétique, appelé nom de domaine, est souvent associé aux adresses IP. Par example, google.com est le nom de domaine associé à l’adresse IP 173.194.121.32. L’utilisation d’un nom de domaine est ainsi le moyen le plus facile d’atteindre un ordinateur via l’Internet.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#localiser-un-ordinateur",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#linternet-et-le-web": {
+      "title": "L’Internet et le web  (Qu'est ce qu'Internet ?)",
+      "content"	 : "L’Internet et le webVous aurez peut-être constaté que lorsque nous naviguons sur le Web avec un navigateur Web, nous utilisons un nom de domaine pour rejoindre un site web. Est-ce donc dire qu’Internet et Web réfèrent à une seule et même notion ? La réponse n’est pas si simple. Comme nous l’avons vu, l’Internet est une infrastructure technique qui lie des milliards d’ordinateurs entre eux. Parmi ces ordinateurs, certains ordinateurs (appelés serveurs Web) peuvent transmettre des messages décodables par les navigateurs Web. Ainsi, l’Internet est une infrastructure, alors que le Web est un service installer sur un serveur en  utilisant l’infrastructure de l’Internet.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#linternet-et-le-web",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-internet-html#références": {
+      "title": "Références  (Qu'est ce qu'Internet ?)",
+      "content"	 : "RéférencesLe fonctionnement de l’InternetHow the Internet Works in 5 Minutes",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-internet.html#références",
+      "author": "",
+      "categories": "introduction-dev-web"
+    }
+,
+"introduction-dev-web-qu-est-ce-que-le-web-html": {
+      "title": "Qu'est-ce que le Web ?",
+      "content"	 : "Qu’est-ce que le Web ?Dans cette session, nous allons voir de façon simplifiée, ce que c’est le web et sa différence avec internet .",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Qu'est-ce que le Web ?)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#définition-1--web-et-page-web": {
+      "title": "Définition 1 : Web et page web  (Qu'est-ce que le Web ?)",
+      "content"	 : "Définition 1 : Web et page webVous pouvez voir le web comme un ensemble des pages d’informations publiés (accessible en public) dans plusieurs machines sur internet. Un tel page est appelé page web.La caractéristique principale d’une page web est qu’il est écrit en format hypertexte qui nous permet de relier les pages web entre elles à l’aide des liens.",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#définition-1--web-et-page-web",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#document-hypertexte-et-lien-hypertexte": {
+      "title": "Document hypertexte et lien hypertexte  (Qu'est-ce que le Web ?)",
+      "content"	 : "Document hypertexte et lien hypertexteUn document texte est un ensemble d’informations écrites de façon linéaire, c’est-à-dire, une information après l’autre. Par contre, un hypertexte est un document ou plusieurs documents contenant des unités d’information liées entre elles par des liens.Lorsqu’on consulte le lien, il nous amène à un autre document.Ce système permet à l’utilisateur d’aller directement à l’unité qui l’intéresse d’une façon non linéaire.Le lien dans un hypertexte est appelé : lien hypertexte.",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#document-hypertexte-et-lien-hypertexte",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#définition-2--toile-daraignée": {
+      "title": "Définition 2 : toile d’araignée  (Qu'est-ce que le Web ?)",
+      "content"	 : "Définition 2 : toile d’araignéeLe web est un système hypertexte public fonctionnant sur internet.L’image de la toile d’araignée qui représente le web vient des hyperliens qui lient les pages web entre elles.Le Web est l’abréviation de World Wide Web. il est aussi désigné par de nombreux abréviations et synonymes. Parmi les plus connues sont :  WWW  Toile d’araignée mondiale  Toile mondiale",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#définition-2--toile-daraignée",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#page-web-et-langage-html": {
+      "title": "Page web et langage HTML  (Qu'est-ce que le Web ?)",
+      "content"	 : "Page web et langage HTMLLa page web est écrite en langage HTML (HyperText Markup Language) qui est un langage informatiques permettant de décrire le contenu d’un document (titres, paragraphes, disposition des images, etc.) et d’y inclure des hyperliens.Un document HTML est un document texte brut structuré par des éléments. Les éléments sont encadrés par des balises ouvrantes et fermantes associées. Chaque balise commence et se termine par les caractères inférieur et supérieur (&amp;lt;&amp;gt;)Un fichier HTML est généralement enregistré avec une extension .htm ou .html.Il est mis à disposition par un une machine connecté à internet appelé serveur, et le rendu est réalisé par un navigateur Web.",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#page-web-et-langage-html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#différence-entre-web-et-internet": {
+      "title": "Différence entre Web et Internet  (Qu'est-ce que le Web ?)",
+      "content"	 : "Différence entre Web et InternetInternet est un réseaux qui relié les ordinateurs entre eux par contre le Web est une fonction ou une façon d’utiliser internet pour consulter des milions des pages web en relation avec des hyperliens.",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#différence-entre-web-et-internet",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-qu-est-ce-que-le-web-html#références": {
+      "title": "Références  (Qu'est-ce que le Web ?)",
+      "content"	 : "Références  HTML  Le fonctionnement des liens sur le Web",
+      "url": "/html5-css3/introduction-dev-web/qu-est-ce-que-le-web.html#références",
+      "author": "",
+      "categories": "introduction-dev-web"
+    }
+,
+"introduction-dev-web-fonctionnement-du-web-html": {
+      "title": "Comment fonctionne le Web ?",
+      "content"	 : "Comment fonctionne le Web ?Dans cette session de formation nous allons découvrir ce que se passe quand on affiche une page web.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Comment fonctionne le Web ?)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#communication-client-serveur": {
+      "title": "Communication client serveur  (Comment fonctionne le Web ?)",
+      "content"	 : "Communication client serveurSur internet, l’affichage d’une page web nécessite l’intervention de deux machine. La machîne A qui affiche la page Web et la machine B qui serve la page à la machîne A.Dans cette communication, on dit que la machîne A est le client et la machîne B est le serveur. on parle ici d’une communication client-serveur.Dans la machine A, le navigateur joue le rôle de client, et dans la machîne B, une application dit serveur web joue le rôle de serveur.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#communication-client-serveur",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#adresse-ip": {
+      "title": "Adresse IP  (Comment fonctionne le Web ?)",
+      "content"	 : "Adresse IPChaque machine dans le réseaux internet est identifié par une adresse IP.Par exemple la machine A: est identifier par l’adresse : 192.168.1.19et la machine B par l’adresse : 185.199.108.153",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#adresse-ip",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#nom-de-domaine": {
+      "title": "Nom de domaine  (Comment fonctionne le Web ?)",
+      "content"	 : "Nom de domainePour consulter la première page web de notre site internet, nous avons utilisé le nom codeur-academy.com. Ce nom s’appelle nom de domaine.Ce nom permet de situer le serveur sur internet grâce à un équipement, appelé DNS (Domain Name System) qui permet d’associer une adresse IP un nom de domaine.Les noms de domaine ont été conçus pour simplifier l’utilisation de l’internet : il est plus facile de retenir et taper un nom de domaine qu’une adresse IP.Pour récupérer l’adresse IP de notre serveur Web, vous pouvez utiliser la commande ping sur la console.123456 PS C:Usersessarraj&amp;gt; ping codeur-academy.comEnvoi d’une requête &#39;ping&#39; sur codeur-academy.com [185.199.108.153]  :Réponse de 185.199.108.153 : octets=32 temps=114 ms TTL=52Réponse de 185.199.108.153 : octets=32 temps=82 ms TTL=52",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#nom-de-domaine",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#protocole-de-communication": {
+      "title": "Protocole de communication  (Comment fonctionne le Web ?)",
+      "content"	 : "Protocole de communicationPour communique deux ordinateur sur internet nous avons besoin d’un protocole de communication. Il définisse le language et les règles de communication entre le client et le serveur.Un exemple d’un protocole de communication dans notre vie réel est le code de la route. c’est un ensemble des règles relatif à l’utilisation des voies publiques.Par exemple, un carrefour est commandé par un contrôleur de feux, appareil électronique de contrôle/commande. Les feux sont généralement déclinés à partir de deux couleurs de base : le rouge pour fermer, le vert pour ouvrir. Le jaune-orangé est également utilisé et sert à signaler le passage du feu vert au feu rouge.Pour la consultation de la page web, les deux ordinateur A et B ont utilisé le protocule http que nous allons découvrir dans cette session de formation.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#protocole-de-communication",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#numéro-de-port": {
+      "title": "Numéro de Port  (Comment fonctionne le Web ?)",
+      "content"	 : "Numéro de PortDans un réseau nous pouvons installer plusieurs application serveur comme le serveur Web, en utilisant un seul adresse IP. Pour que cela soit possible, la notion de Port est inventé. Comme ça, pour demander le service web dans la machîne B nous devons déterminer le numéro du port de service Web qui prend la valeur par défaut : 80.Par exemple, pour consulter, la page d’accueil de site web google.com, nous devons déterminer le numéro du port qui prend la valeur par défaut 80 en cas d’absence du numéro de port.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#numéro-de-port",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#échange-des-ressources": {
+      "title": "Échange des ressources  (Comment fonctionne le Web ?)",
+      "content"	 : "Échange des ressourcesUne ressource du World Wide Web est une entité informatique (texte, image, vidéo, fichier PDF, ..).Le client et le serveur peuvent s’échanger ces ressources. Dans la plupart des cas ces échanges ne sont pas “symétriques” : en effet le client va souvent se contenter de demander des ressources (fichiers contenant du texte, photos, vidéos, sons…) à l’ordinateur serveur.Le serveur va contenter de fournir les ressources demandés à tous les ordinateurs client qui ont fait la demande.",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#échange-des-ressources",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#protocole---http": {
+      "title": "Protocole - HTTP  (Comment fonctionne le Web ?)",
+      "content"	 : "Protocole - HTTPHTTP (pour HyperText Transfer Protocol) est le protocole de communication  utilisé pour transférer les ressources du Web.Chaque ressource fait l’objet d’un échange demande/réponse entre le client et le serveur.En HTTP, la communication tourne autour d’un concept appelé requête-réponse. Le client envoie au serveur une requête pour faire quelque chose et le serveur envoie en retour une réponse au client disant si oui ou non il est en mesure de faire ce que le client lui demande.HTTPS est la combinaison du HTTP avec une couche de chiffrement. Il permet au visiteur de vérifier l’identité du site web auquel il accède, grâce à un certificat d’authentification",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#protocole---http",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#url---adresse-web": {
+      "title": "URL - adresse web  (Comment fonctionne le Web ?)",
+      "content"	 : "URL - adresse webUne URL (pour Uniform Resource Locator) est une chaîne de caractères décrivant l’emplacement d’une ressource.Elle contient généralement dans l’ordre :  le nom du protocole,  un deux-points (:),  deux barres obliques (//),  un nom d’hôte,  une barre oblique (/),  et un chemin composé de texte séparés par des barres obliques.1https://codeur-academy.com/index.html",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#url---adresse-web",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#comment-fonctionne-le-web": {
+      "title": "Comment fonctionne le Web  (Comment fonctionne le Web ?)",
+      "content"	 : "Comment fonctionne le WebLorsque vous saisissez une adresse web dans votre navigateur :  le navigateur demande l’adresse IP à un serveur spécial nommé “DNS”.  le navigateur envoie une requête HTTP au serveur pour lui demander d’envoyer une copie du site web au client. Ce message, et les autres données envoyées entre le client et le serveur, sont échangés par l’intermédiaire de la connexion internet.  si le serveur accepte la requête émise par le client, le serveur envoie un message « 200 OK » au client qui signifie : « Pas de problème, tu peux consulter ce site web, le voici ». Ensuite le serveur commence à envoyer les fichiers du site web au navigateur.  le navigateur affiche la page web sur votre écran",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#comment-fonctionne-le-web",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-fonctionnement-du-web-html#références": {
+      "title": "Références  (Comment fonctionne le Web ?)",
+      "content"	 : "Références  Protocole de communication  Client-serveur  Modèle client / serveur  HTTP — an Application-Level Protocol  Hypertext Transfer Protocol  Comprendre les URL et leur structure  How does the web work?  Le fonctionnement du Web  HTML  What is a URL?  What is a Domain Name?  Un aperçu de HTTP",
+      "url": "/html5-css3/introduction-dev-web/fonctionnement-du-web.html#références",
+      "author": "",
+      "categories": "introduction-dev-web"
+    }
+,
+"introduction-dev-web-html-css-javascript-html": {
+      "title": "Langages Web",
+      "content"	 : "Langages Web : HTML, CSS et JavascriptHTML, CSS et JavaScript sont 3 langages différents. Ensemble, ils permettent de créer des pages web et chacun contribue à des aspects particuliers d’une page web moderne. Dans cet session de formation, nous verrons comment chacun des langages contribue à la réalisation d’une page web.",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-html-css-javascript-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Langages Web)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-html-css-javascript-html#cest-quoi-html-": {
+      "title": "C’est quoi HTML ?  (Langages Web)",
+      "content"	 : "C’est quoi HTML ?HTML est un acronyme qui signifie Hypertext Markup Langage. En bon français on pourrait dire langage de balisage d’hypertexte.HTML est très utile pour expliquer à une machine quelle est la fonction et le sens sémantique des différents éléments d’une page.Comme par exemple : les titres, les paragraphes, les listes, les citations, … Il permet aussi d’intégrer des images, du son et de la vidéo et la chose la plus importante : des liens entre différentes pages.HTML sert donc à organiser le contenu d’une page web. À lui tout seul, il ne permet pas de créer une belle présentation ni d’offrir des fonctions interactives. C’est la raison pour laquelle il y a d’autres langages.",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html#cest-quoi-html-",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-html-css-javascript-html#cest-quoi-css-": {
+      "title": "C’est quoi CSS ?  (Langages Web)",
+      "content"	 : "C’est quoi CSS ?CSS est un acronyme qui signifie Cascading Style Sheet (feuille de style en cascade). Il permet de changer la présentation du contenu d’un document HTML.Le mot clé dans cette expression est style et il n’est pas un langage de programmation.La fonction principale de CSS est de rédiger des règles qui déterminent la présentation des éléments d’une page web. Par exemple, qu’est-ce qui sera centré, qu’est-ce qui sera en caractère gras, comment un titre de page s’affichera, quelle sera la taille d’une image, etc.Si HTML a pour fonction de structurer le contenu d’une page web, CSS s’occupe de la présentation de ce contenu. Et bien que CSS permettent aussi le mouvement des objets (fondu, transition, déplacement, etc.), les interactions sophistiquées se font à l’aide d’un troisième langage.page HTML sans CSSpage HTML avec CSS",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html#cest-quoi-css-",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-html-css-javascript-html#quest-ce-que-javascript-": {
+      "title": "Qu’est-ce que JavaScript ?  (Langages Web)",
+      "content"	 : "Qu’est-ce que JavaScript ?Contrairement à HTML et CSS, Javascript est un langage de programmation. Et contrairement à ce qu’on pourrait croire à cause de son nom, JavaScript n’a rien à voir avec Java.JavaScript est un langage de programmation qui s’exécute du côté client.Ce qui veut dire que le programme est donné par le serveur en même temps que la page web et c’est l’ordinateur du visiteur (par l’entremise du navigateur) qui éxécutera le programme.Je vous donne un exemple  d’un réalisation très simple  d’une calculatrice avec Javascript, just pour avoir une idée de ce que vous pouvez faire avec Javascript.Le programme permet de réaliser la somme et la soustraction de deux nombres.",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html#quest-ce-que-javascript-",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-html-css-javascript-html#html-et-css-ne-sont-pas-pour-programmer": {
+      "title": "HTML et CSS ne sont pas pour programmer  (Langages Web)",
+      "content"	 : "HTML et CSS ne sont pas pour programmerHTML et CSS ont une structure et une syntaxe et ils sont cohérents mais contrairement à Javascript, ce ne sont pas des langages de programmation.Les langages de programmation permettent l’utilisation d’algorithme.Ensemble, HTML, CSS et Javascript permettent de créer des pages web qui se chargent rapidement et qui, avec un navigateur récent, offre une expérience riche et très interactive.",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html#html-et-css-ne-sont-pas-pour-programmer",
+      "author": "",
+      "categories": "introduction-dev-web"
+    },
+"introduction-dev-web-html-css-javascript-html#références": {
+      "title": "Références  (Langages Web)",
+      "content"	 : "RéférencesQuelle est la différence entre HTML, CSS et JavaScriptDifférence entre HTML, CSS et JavaScriptQuelle est la différence entre HTML, CSS et JavaScript ?",
+      "url": "/html5-css3/introduction-dev-web/html-css-javascript.html#références",
+      "author": "",
+      "categories": "introduction-dev-web"
+    }
+,
+"introduction-dev-web-r-c3-a9sum-c3-a9-html": {
+      "title": "Résumé",
+      "content"	 : "Résumé : Web et InternetDans cette partie de formation, nous avons vue que l’Internet est un réseaux qui relié les ordinateurs entre eux par contre le Web est une fonction ou une façon d’utiliser internet pour consulter des milions des pages web en relation avec des hyperliens.Nous avons découvert aussi, les deux langage web HTML, CSS qui nous permet de créer un site web professionnelle.Le langage HTMl permet de définir la structure d’une page web et la sémantique de chaque élément de la page.par contre le CSS permet de changer la présentation de chaque élément de la page.Dans la partie suivante, nous allons découvrir et installer les outils que nous avons besoin dans la formation.",
+      "url": "/html5-css3/introduction-dev-web/r%C3%A9sum%C3%A9.html",
+      "author": "",
+      "categories": "introduction-dev-web"
+    }
+,
+"installation-des-outils-html": {
+      "title": "Installation des outils",
+      "content"	 : "Installation des outilsDans cette partie de formation, je vais vous montrer les outils dont vous aurez besoin pour développer un site web simple.Je vais vous proposer le minimum à installer :  Navigateurs web modernes : Google Chrome  Éditeur de texte : Visual Studio Code",
+      "url": "/html5-css3/installation-des-outils.html",
+      "author": "",
+      "categories": "installation-outils"
+    }
+,
+"installation-google-chrome-html": {
+      "title": "Navigateur web moderne",
+      "content"	 : "Installation d’un navigateur moderne",
+      "url": "/html5-css3/installation-google-chrome.html",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-google-chrome-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Navigateur web moderne)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/installation-google-chrome.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-google-chrome-html#installation-et-utilisation-de-chrome": {
+      "title": "Installation et utilisation de Chrome  (Navigateur web moderne)",
+      "content"	 : "Installation et utilisation de ChromeIl existe plusieurs navigateur moderne que nous pouvons utiliser dans notre développement à savoir Firefox et Chrome.Je vous conseille d’utiliser Google Chrome.",
+      "url": "/html5-css3/installation-google-chrome.html#installation-et-utilisation-de-chrome",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-google-chrome-html#pratique---installation-et-utilisation-de-chrome": {
+      "title": "Pratique - Installation et utilisation de Chrome  (Navigateur web moderne)",
+      "content"	 : "Pratique - Installation et utilisation de ChromeLien d’installation de Google Chrome",
+      "url": "/html5-css3/installation-google-chrome.html#pratique---installation-et-utilisation-de-chrome",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-google-chrome-html#références": {
+      "title": "Références  (Navigateur web moderne)",
+      "content"	 : "RéférencesInstallation des outils de base",
+      "url": "/html5-css3/installation-google-chrome.html#références",
+      "author": "",
+      "categories": "installation-outils"
+    }
+,
+"installation-et-utilisation-de-visual-studio-code-html": {
+      "title": "Éditeur de code",
+      "content"	 : "Éditeur de code - Visual Studio CodeNous allons découvrir dans cette session de formation l’éditeur de code que nous allons utiliser durant notre formation.",
+      "url": "/html5-css3/installation-et-utilisation-de-visual-studio-code.html",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-et-utilisation-de-visual-studio-code-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Éditeur de code)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/installation-et-utilisation-de-visual-studio-code.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-et-utilisation-de-visual-studio-code-html#éditeur-de-code--visual-studio-code": {
+      "title": "Éditeur de code : Visual Studio Code  (Éditeur de code)",
+      "content"	 : "Éditeur de code : Visual Studio CodeVous avez probablement un éditeur de texte basique sur votre ordinateur. Par défaut Windows propose Bloc-note.Pour le développement web, vous trouverez surement mieux que Bloc-note. Je vous recommande de commencer avec Visual Studio Code,  qui est un éditeur libre offrant des aperçus en direct et des conseils de code.",
+      "url": "/html5-css3/installation-et-utilisation-de-visual-studio-code.html#éditeur-de-code--visual-studio-code",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-et-utilisation-de-visual-studio-code-html#pratique---téléchargement-et-installation": {
+      "title": "Pratique - Téléchargement et installation  (Éditeur de code)",
+      "content"	 : "Pratique - Téléchargement et installation",
+      "url": "/html5-css3/installation-et-utilisation-de-visual-studio-code.html#pratique---téléchargement-et-installation",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-et-utilisation-de-visual-studio-code-html#pratique---quelques-fonctionnalités-de-base": {
+      "title": "Pratique - Quelques fonctionnalités de base  (Éditeur de code)",
+      "content"	 : "Pratique - Quelques fonctionnalités de base",
+      "url": "/html5-css3/installation-et-utilisation-de-visual-studio-code.html#pratique---quelques-fonctionnalités-de-base",
+      "author": "",
+      "categories": "installation-outils"
+    },
+"installation-et-utilisation-de-visual-studio-code-html#références": {
+      "title": "Références  (Éditeur de code)",
+      "content"	 : "RéférencesInstallation des outils de base",
+      "url": "/html5-css3/installation-et-utilisation-de-visual-studio-code.html#références",
+      "author": "",
+      "categories": "installation-outils"
+    }
+,
+"r-c3-a9sum-c3-a9-installation-outils-html": {
+      "title": "Résumé",
+      "content"	 : "Résumé - Installation des outilsJe vous ai montré dans cette partie de formation la navigateur web Google Chrome et l’éditeur de code Visual Studio Code que nous allons utiliser durant notre formation.Dans la partie Bien utiliser les outils qui vient après la parties de la section bien démarrer, je vous montrerai comment utiliser éfficassement, vos outils de façons plus efficaces.",
+      "url": "/html5-css3/r%C3%A9sum%C3%A9-installation-outils.html",
+      "author": "",
+      "categories": "installation-outils"
+    }
+,
+"cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html": {
+      "title": "Travail à faire",
+      "content"	 : "Projet 0 : Création d’une page webProjet de démarrage et d’initiation à HTML5 et CSS3",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-travail-%C3%A0-faire.html",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Travail à faire)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-travail-%C3%A0-faire.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html#description-du-projet": {
+      "title": "Description du projet  (Travail à faire)",
+      "content"	 : "Description du projetAvant de commencer la réalisation de nos projets, je vous conseil, si vous êtes totalement débutant, de commencer votre apprentissage pour une auto-formation rapide du langage HTML et CSS. Just pour découvrir la syntaxe générale et de réaliser votre première page web. Je nomme cette étape d’initialisation : Bien démarrer avec HTML 5 et CSS3.Le projet consiste à réaliser un article sur le sujet : Ordinateur.L’objectif est d’abord découvrir la syntaxe des langages HTML5 et CSS3, ensuit apprendre les notions de base qui vous amène à comprendre comment réaliser les projets suivants de notre formation.",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-travail-%C3%A0-faire.html#description-du-projet",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html#travail-à-faire": {
+      "title": "Travail à faire  (Travail à faire)",
+      "content"	 : "Travail à faireNous vous demandons de réaliser la page suivant :",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-travail-%C3%A0-faire.html#travail-à-faire",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-travail-c3-a0-faire-html#objectifs-pédagogiques": {
+      "title": "Objectifs pédagogiques  (Travail à faire)",
+      "content"	 : "Objectifs pédagogiquesLa réalisation de ce projet vous permettez de :  Savoir la notion de Web et Internet  Découvrir la syntaxe de HTML5  Découvrir la syntaxe de CSS3  Réaliser votre première page web avec HTML5 et CSS3",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-travail-%C3%A0-faire.html#objectifs-pédagogiques",
+      "author": "",
+      "categories": "projet0"
+    }
+,
+"cr-c3-a9ation-page-web-avec-html-css-orientation-html": {
+      "title": "Conseils et orientation",
+      "content"	 : "Projet 0 : Conseils et orientationPour vous aidez à réaliser votre projet, nous vous proposons une orientation et quelques conseils à suivre.",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-orientation.html",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-orientation-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Conseils et orientation)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-orientation.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-orientation-html#division-du-projet-en-prototypes": {
+      "title": "Division du projet en prototypes  (Conseils et orientation)",
+      "content"	 : "Division du projet en prototypesPour simplifier la réalisation du projet, nous vous proposons de le diviser en plusieurs partie simple à réaliser. Par exemple, nous pouvons diviser le projet en deux partie :  Partie 1 : Page d’article seulement en HTML  Partie 2 : Page d’article avec HTML et CSSJe nomme chaque partie : Prototype. Il sert à nous montrer comment réaliser une partie de notre projet.",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-orientation.html#division-du-projet-en-prototypes",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-orientation-html#prototype-1--article-en-html": {
+      "title": "Prototype 1 : Article en HTML  (Conseils et orientation)",
+      "content"	 : "Prototype 1 : Article en HTMLPour réaliser le prototype 1, je vous propose la référence suivante :  Bien démarrer avec HTML",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-orientation.html#prototype-1--article-en-html",
+      "author": "",
+      "categories": "projet0"
+    },
+"cr-c3-a9ation-page-web-avec-html-css-orientation-html#prototype-2--article-en-html-et-css": {
+      "title": "Prototype 2 : Article en HTMl et CSS  (Conseils et orientation)",
+      "content"	 : "Prototype 2 : Article en HTMl et CSSPour réaliser ce travail, nous vous proposons la référence suivante :  Bien démarrer avec CSS",
+      "url": "/html5-css3/cr%C3%A9ation-page-web-avec-html-css-orientation.html#prototype-2--article-en-html-et-css",
+      "author": "",
+      "categories": "projet0"
+    }
+,
+"bien-d-c3-a9marrer-avec-html-html": {
+      "title": "Bien démarrer avec HTML",
+      "content"	 : "Bien démarrer avec HTMLNous allons voir dans cette partie de formation le minimum sur le langage HTML pour lancer l’apprentissage et assurer que vous pouviez me suivre dans les parties suivantes de notre formation.",
+      "url": "/html5-css3/bien-d%C3%A9marrer-avec-html.html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"bien-d-c3-a9marrer-avec-html-html#objectifs": {
+      "title": "Objectifs  (Bien démarrer avec HTML)",
+      "content"	 : "ObjectifsNous allons découvrir :  Ce que c’est HTML et son utilité pour les moteurs de recherche  La syntaxe de HTML : élément, balise et attribut  La structure d’une page HTMl valide.Nous terminons par un travail pratique dont lequel nous allons  Créer de notre première page web complet en HTML.  Découvrir quelques éléments HTML que nous utiliserons pendant les travaux pratiques.",
+      "url": "/html5-css3/bien-d%C3%A9marrer-avec-html.html#objectifs",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    }
+,
+"qu-est-ce-que-html-html": {
+      "title": "Qu'est ce que le HTML ?",
+      "content"	 : "Qu’est ce que le HTML ?",
+      "url": "/html5-css3/qu-est-ce-que-html.html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Qu'est ce que le HTML ?)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/qu-est-ce-que-html.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#quest-ce-que-le-html--1": {
+      "title": "Qu’est ce que le HTML ?  (Qu'est ce que le HTML ?)",
+      "content"	 : "Qu’est ce que le HTML ?HTML (HyperText Markup Language) n’est pas un langage de programmation : c’est un langage de balisage qui sert à indiquer au navigateur comment structurer et afficher une page web visitée.Le HTML se compose d’une série d’éléments avec lesquels vous pouvez encadrer, envelopper ou baliser différentes parties du contenu pour les faire apparaître ou agir d’une certaine manière.Par exemple, dans la page web d’exemple, nous avons envelopper ou baliser le texte qui décrire les deux parties d’un ordinateur par une balise qui indique au navigateur de les afficher comme une liste.Une balise encadrante peut transformer une petite partie de contenu en liste ordonnée, mettre des mots en gras, etc.",
+      "url": "/html5-css3/qu-est-ce-que-html.html#quest-ce-que-le-html--1",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#exemple-dune-balise": {
+      "title": "Exemple d’une balise  (Qu'est ce que le HTML ?)",
+      "content"	 : "Exemple d’une balisePar exemple, prenons la phrase suivante :1Qu&#39;est-ce que l&#39;ordinateurSi nous voulons que cette ligne se présente comme un titre d’un article, nous pouvons dire qu’il s’agit d’un titre de niveau 1 en l’enveloppant d’un élément de titre de niveau 1  ( &amp;lt;h1&amp;gt; ) :1&amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;",
+      "url": "/html5-css3/qu-est-ce-que-html.html#exemple-dune-balise",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#pratique---élément--h1": {
+      "title": "Pratique - élément : h1  (Qu'est ce que le HTML ?)",
+      "content"	 : "Pratique - élément : h1",
+      "url": "/html5-css3/qu-est-ce-que-html.html#pratique---élément--h1",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#les-éléments-html-sont-insensibles-à-la-casse": {
+      "title": "Les éléments HTML sont insensibles à la casse  (Qu'est ce que le HTML ?)",
+      "content"	 : "Les éléments HTML sont insensibles à la casseLes éléments en HTML sont insensibles à la casse, c’est-à-dire qu’ils peuvent être écrits en majuscules ou en minuscules.Par exemple12&amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;&amp;lt;H1&amp;gt;Titre 2 &amp;lt;/H1&amp;gt;un élément &amp;lt;h1&amp;gt; peut être écrit &amp;lt;h1&amp;gt; ou &amp;lt;H1&amp;gt;. et il fonctionnera parfaitement. La meilleure pratique, cependant, est d’écrire tous les éléments en minuscules pour des raisons de cohérence et de lisibilité.",
+      "url": "/html5-css3/qu-est-ce-que-html.html#les-éléments-html-sont-insensibles-à-la-casse",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#pratique---insensibilité-à-la-casse": {
+      "title": "Pratique - insensibilité à la casse  (Qu'est ce que le HTML ?)",
+      "content"	 : "Pratique - insensibilité à la casse",
+      "url": "/html5-css3/qu-est-ce-que-html.html#pratique---insensibilité-à-la-casse",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"qu-est-ce-que-html-html#références": {
+      "title": "Références  (Qu'est ce que le HTML ?)",
+      "content"	 : "RéférencesLes bases du HTML",
+      "url": "/html5-css3/qu-est-ce-que-html.html#références",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    }
+,
+"c3-a9l-c3-a9ment-balise-attribut-html": {
+      "title": "Élément, balise et attribut",
+      "content"	 : "Élément, balise et attribut",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Élément, balise et attribut)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#élément-balise-et-attribut-1": {
+      "title": "Élément, balise et attribut  (Élément, balise et attribut)",
+      "content"	 : "Élément, balise et attributLes objectifs de cette session de formation sont les suivants :  Découvrir les différents parties d’un élément HTML,  Comprendre le rôle d’un attribut pour un élément HTML  Apprendre à utiliser les attributs dans un élément HTML  Apprendre à imbriquer un élément dans un autre élément,  Découvrir ce que c’est un élément vide.Regardons notre élément paragraphe d’un peu plus près :Constatez qu’il est composé de trois parties :  La balise ouvrante : il s’agit du nom de l’élément (dans ce cas, p), encadré par un chevron ouvrant (&amp;lt;) et un chevron fermant (&amp;gt;). Elle indique où l’élément commence ;  La balise fermante : c’est la même que la balise ouvrante, sauf qu’elle comprend une barre oblique (/) avant le nom de l’élément. Elle indique la fin de l’élément ;  Le contenu : il s’agit du contenu de l’élément. Dans notre cas, c’est le texte : “Un ordinateur est un appareil électronique” ;",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#élément-balise-et-attribut-1",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#pratique---création-dun-élément-html": {
+      "title": "Pratique - Création d’un élément HTML  (Élément, balise et attribut)",
+      "content"	 : "Pratique - Création d’un élément HTML",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#pratique---création-dun-élément-html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#attributs": {
+      "title": "Attributs  (Élément, balise et attribut)",
+      "content"	 : "AttributsLes éléments peuvent aussi avoir des attributs, qui comme suit:1&amp;lt;p id=&quot;définition&quot; &amp;gt;Un ordinateur est un appareil électronique&amp;lt;/p&amp;gt;Les attributs contiennent des informations supplémentaires sur l’élément sans qu’elles n’apparaissent dans le contenu réel. Dans ce cas, l’attribut id vous permet de donner à l’élément un nom d’identification qui peut ensuite être utilisé pour cibler l’élément afin de lui attribuer un style d’affichage en utilisant le code CSS par exemple.Pour créer un attribut, il faut :  insérer un espace entre cet attribut et le nom de l’élément ;  donner un nom à l’attribut, puis ajouter le signe égal ;  donner une valeur à l’attribut, entourée par des guillemets d’ouverture et de fermeture.",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#attributs",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#éléments-vides": {
+      "title": "Éléments vides  (Élément, balise et attribut)",
+      "content"	 : "Éléments videsTous les éléments ne suivent pas le modèle ci-dessus d’ouverture de balise, puis contenu, puis fermeture de balise. Certains éléments ne sont composés que d’une balise. Ils servent généralement à insérer / incorporer quelque chose dans le document à l’endroit où ils sont mis. Par exemple, l’élément &amp;lt;img /&amp;gt; ou &amp;lt;img&amp;gt; insère une image dans une page à l’endroit où il est placé (la balise auto-fermante &amp;lt;img /&amp;gt; est à privilégier) :1&amp;lt;img src=&quot;image.png&quot; /&amp;gt;Pratiquement la barre oblique peuvent ne pas être utiliser, dans une balise vide, dans notre exemple, l’image va s’afficher correctement sans la base oblique, mais la syntaxe de la balise auto-fermante est privilégiée.1&amp;lt;img src=&quot;image.png&quot; &amp;gt;",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#éléments-vides",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#pratique---éléments-vides": {
+      "title": "Pratique - Éléments vides  (Élément, balise et attribut)",
+      "content"	 : "Pratique - Éléments vides",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#pratique---éléments-vides",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#exemple-dun-élément-html--input": {
+      "title": "Exemple d’un élément HTML : input  (Élément, balise et attribut)",
+      "content"	 : "Exemple d’un élément HTML : inputAvant de continuer notre anatomie d’un élément HTML, je vous propose de découvrir un nouveau élément qui s’appelle input. Il vous permet d’insérer une zone de saisie de texte dans votre document HTML.Nous allons utiliser deux parmis ces attributs : le première s’appelle type qui précise la nature de la zone de saisie, dons notre cas text qui indiquer la saisie de texte. Le deuxième attribut s’appelle disabled, qui vous permet de  désactiver la saisie de texte.12&amp;lt;input type=&quot;text&quot; /&amp;gt;&amp;lt;input type=&quot;text&quot; disabled=&quot;disabled&quot; /&amp;gt;",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#exemple-dun-élément-html--input",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#les-attributs-booléens": {
+      "title": "Les attributs booléens  (Élément, balise et attribut)",
+      "content"	 : "Les attributs booléensVous verrez parfois des attributs sans valeur définie : c’est tout à fait autorisé. Ils sont appelés attributs booléens ; ils ne peuvent avoir qu’une seule valeur, généralement la même que le nom de l’attribut. Par exemple,  l’attribut disabled peut s’écrit sans valeur. dans ce cas il prend la valeur par défaut qui généralement le non de l’attribut.12&amp;lt;input type=&quot;text&quot; /&amp;gt;&amp;lt;input type=&quot;text&quot; disabled /&amp;gt;",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#les-attributs-booléens",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#exemple-délément--attribut-placeholder": {
+      "title": "Exemple d’élément : attribut placeholder  (Élément, balise et attribut)",
+      "content"	 : "Exemple d’élément : attribut placeholderDans la partie suivante, nous allons voir l’attribut placeholder de l’élément input qui permet d’afficher des informations sur la valeur à saisir dans la zone de texte.Par exemple, nous avons afficher à l’utilisation une information sur la valeur qu’il peut saisir dans la zone de saisie. Nous avons lui demander de saisir son prénom en.1&amp;lt;input type=&quot;text&quot; placeholder=&quot;Votre prénom&quot; &amp;gt;",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#exemple-délément--attribut-placeholder",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#omettre-des-guillemets-autour-dattribut": {
+      "title": "Omettre des guillemets autour d’attribut  (Élément, balise et attribut)",
+      "content"	 : "Omettre des guillemets autour d’attributSi vous regardez ce qui se passe sur le Web, vous rencontrerez tous types de styles de balises étranges, y compris des valeurs d’attribut sans guillemets. C’est permis dans certaines circonstances, mais cela va briser votre balisage dans d’autres.Par exemple, si nous voyons notre exemple, nous pourrons écrire la valeur de l’attribut type sans guillemets et ça va s’exécuter correctement dans le navigateur.1&amp;lt;input type=text placeholder=&quot;Votre prénom&quot; &amp;gt;Cependant, si nous ajoutons l’attribut placeholder dans ce même style, c’est à dir sans les guillemets, cela devient incorrect :12&amp;lt;input type=text placeholder=&quot;Nom&quot; &amp;gt;&amp;lt;input type=text placeholder=Votre prénom &amp;gt;En effet, le navigateur interprétera mal la balise, pensant que l’attribut placeholder est en fait deux attributs — un attribut placeholder avec la valeur « Votre » et deuxième attributs booléens, « prénom ». Ce n’est évidemment pas ce qui était prévu et cela provoquera des erreurs ou un comportement inattendu dans le code, comme on le voit dans l’exemple.Nous vous recommandons de toujours inclure les guillemets afin d’éviter ce type de problèmes, mais aussi pour que le code soit plus lisible.",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#omettre-des-guillemets-autour-dattribut",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#guillemets-simples-ou-doubles-": {
+      "title": "Guillemets simples ou doubles ?  (Élément, balise et attribut)",
+      "content"	 : "Guillemets simples ou doubles ?Dans cette session de formation, vous remarquerez que les valeurs des attributs sont toutes entre des guillemets doubles (“ “). Vous pouvez cependant voir des guillemets simples (‘ ‘) dans le code HTML de certaines personnes. C’est purement une question de style, et vous êtes libre de choisir la solution que vous préférez. Les deux balise suivantes sont équivalentes :12&amp;lt;input type=&quot;text&quot; placeholder=&quot;Votre nom&quot; &amp;gt;&amp;lt;input type=&quot;text&quot; placeholder=&#39;Votre nom&#39; &amp;gt;Vous devez cependant vous assurer de ne pas les mélanger. Ce qui suit n’est pas correct :12&amp;lt;input type=&quot;text&quot; placeholder=&quot;Votre nom&#39; &amp;gt;&amp;lt;input type=&quot;text&quot; placeholder=&#39;Votre nom&#39; &amp;gt;",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#guillemets-simples-ou-doubles-",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#eléments-imbriqués": {
+      "title": "Eléments imbriqués  (Élément, balise et attribut)",
+      "content"	 : "Eléments imbriquésVous pouvez mettre des éléments à l’intérieur d’autres éléments — cela s’appelle l’imbrication. Si vous voulez mettre en valeur le texte “éléctronique” vous pouvez le mettre dans l’élément &amp;lt;strong&amp;gt;, pour qu’il soit fortement mis en valeur :1&amp;lt;p&amp;gt;Un ordinateur est un appareil &amp;lt;strong&amp;gt;électronique&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;Vous devez toutefois vous assurer que vos éléments sont correctement imbriqués : dans l’exemple ci-dessus, nous avons ouvert l’élément p en premier, puis l’élément strong, donc nous devons fermer l’élément strong d’abord, puis l’élément p. Ce qui suit est incorrect :1&amp;lt;p&amp;gt;Un ordinateur est un appareil &amp;lt;strong&amp;gt;électronique&amp;lt;/p&amp;gt;&amp;lt;/strong&amp;gt;Les éléments doivent être ouverts et fermés correctement afin d’être clairement à l’intérieur ou à l’extérieur l’un de l’autre. Si les balises se chevauchent comme dans l’exemple ci-dessus, votre navigateur web essaiera de deviner ce que vous vouliez dire, et vous pourrez obtenir des résultats inattendus.",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#eléments-imbriqués",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#conclusion": {
+      "title": "Conclusion  (Élément, balise et attribut)",
+      "content"	 : "ConclusionVoilà tous pour cette session de formation. Nous avons vu les trois composant d’un élément HTML",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#conclusion",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"c3-a9l-c3-a9ment-balise-attribut-html#références": {
+      "title": "Références  (Élément, balise et attribut)",
+      "content"	 : "RéférencesLes bases du HTMLCommencer avec le HTML",
+      "url": "/html5-css3/%C3%A9l%C3%A9ment-balise-attribut.html#références",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    }
+,
+"document-html-valide-html": {
+      "title": "Document HTML valide",
+      "content"	 : "Document HTML valide",
+      "url": "/html5-css3/document-html-valide.html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Document HTML valide)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/document-html-valide.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#document-html-valide-1": {
+      "title": "Document HTML valide  (Document HTML valide)",
+      "content"	 : "Document HTML valideDans cette session de formation, nous allons apprendre comment écrire un document HTML Valide.Les éléments HTML basiques ne sont pas très utiles si on les prend séparément. Nous allons voir comment combiner ces éléments individuels pour former une page HTML entière valide.L’exemple de code suivant représente une page HTMl valide et contient plusieurs éléments que nous allons découvrir dans cette session de formation.12345678910&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;    &amp;lt;title&amp;gt;Ma page test&amp;lt;/title&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;    &amp;lt;p&amp;gt;Voici ma page web&amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#document-html-valide-1",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#type-de-document---doctype-html": {
+      "title": "Type de document :  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/code&gt;  (Document HTML valide)",
+      "content"	 : "Type de document :  &amp;lt;!DOCTYPE html&amp;gt;Quand HTML était jeune (vers 1991/2), les doctypes  étaient censés agir comme des liens vers un ensemble de règles que la page HTML devait suivre pour être considérée comme un bon HTML, ce qui pouvait signifier la vérification automatique des erreurs et d’autres choses utiles. Habituellement, ils ressemblaient à ceci :12&amp;lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&amp;gt;Cependant, de nos jours personne ne se soucie vraiment d’eux, et ils sont juste un artefact historique qui doit être inclus pour que tout fonctionne bien.&amp;lt;!DOCTYPE html&amp;gt; est la chaîne de caractères la plus courte qui soit un doctype valide. C’est tout ce que vous avez vraiment besoin de savoir.1&amp;lt;!DOCTYPE html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#type-de-document---doctype-html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#lélément-htmlhtml-": {
+      "title": "L’élément &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;html&amp;gt;&amp;lt;/html&amp;gt;&lt;/code&gt; :  (Document HTML valide)",
+      "content"	 : "L’élément &amp;lt;html&amp;gt;&amp;lt;/html&amp;gt; :Cet élément est le contenant de tout le code de la page et il est parfois connu comme l’élément racine.123&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#lélément-htmlhtml-",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#lélément-headhead": {
+      "title": "L’élément &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&amp;lt;/head&amp;gt;&lt;/code&gt;.  (Document HTML valide)",
+      "content"	 : "L’élément &amp;lt;head&amp;gt;&amp;lt;/head&amp;gt;.Cet élément a le rôle de conteneur pour toute chose que vous souhaitez inclure dans la page HTML qui ne soit pas du contenu à afficher aux visiteurs de la page :  mots clés, description de page que vous souhaitez voir apparaître dans les résultats de recherche, style CSS, déclarations de jeu de caractères et plus encore. Je vous en dis plus à ce sujet dans les sessions suivants.12345&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;  &amp;lt;/head&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#lélément-headhead",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#meta-charsetutf-8-": {
+      "title": "&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;&lt;/code&gt; :  (Document HTML valide)",
+      "content"	 : "&amp;lt;meta charset=&quot;utf-8&quot;&amp;gt; :Cet élément définit que le jeu de caractères à utiliser pour votre document qui est UTF-8. Ce jeu comporte la quasi‑totalité des caractères de toutes les écritures de langues humaines connues.Actuellement, il peut pour l’essentiel gérer tout contenu textuel que vous y pourriez mettre. Il n’y a aucune raison de ne pas définir cela et il peut permettre d’éviter certains problèmes plus tard.123456&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;  &amp;lt;/head&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#meta-charsetutf-8-",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#lélément-title--titletitle": {
+      "title": "L’élément title : &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;&lt;/code&gt;  (Document HTML valide)",
+      "content"	 : "L’élément title : &amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;Il définit le titre de la page, celui qui s’affiche dans l’onglet du navigateur dans lequel la page est chargée et qui est utilisé pour décrire la page lorsque vous la marquez ou l’ajoutez aux favoris.1234567&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;    &amp;lt;title&amp;gt;Ma page test&amp;lt;/title&amp;gt;  &amp;lt;/head&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#lélément-title--titletitle",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#lélément--bodybody-": {
+      "title": "l’élément  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&amp;lt;/body&amp;gt;&lt;/code&gt; :  (Document HTML valide)",
+      "content"	 : "l’élément  &amp;lt;body&amp;gt;&amp;lt;/body&amp;gt; :Il contient tout le contenu que vous souhaitez afficher aux internautes lorsqu’ils visitent votre page, que ce soit du texte, des images, des vidéo ou autre.12345678910&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;    &amp;lt;title&amp;gt;Ma page test&amp;lt;/title&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;    &amp;lt;p&amp;gt;Voici ma page web&amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#lélément--bodybody-",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#pratique---création-dun-document-html-valide": {
+      "title": "Pratique - Création d’un document html valide  (Document HTML valide)",
+      "content"	 : "Pratique - Création d’un document html valideConclusionNous avons vu comment créer un document html valide. Il contient l’élément racine html, l’élément head contenant les métas informations de notre document, et l’élément body qui contient le contenue visuel de la page.12345678910&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;    &amp;lt;title&amp;gt;Ma page test&amp;lt;/title&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;    &amp;lt;p&amp;gt;Voici ma page web&amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/document-html-valide.html#pratique---création-dun-document-html-valide",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"document-html-valide-html#références": {
+      "title": "Références  (Document HTML valide)",
+      "content"	 : "RéférencesLes bases du HTML",
+      "url": "/html5-css3/document-html-valide.html#références",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    }
+,
+"tp-quelques-c3-a9l-c3-a9ments-html-html": {
+      "title": "Projet 0 - réalisation de la partie HTML",
+      "content"	 : "Projet 0 : réalisation de la partie HTML",
+      "url": "/html5-css3/tp-quelques-%C3%A9l%C3%A9ments-html.html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"tp-quelques-c3-a9l-c3-a9ments-html-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Projet 0 - réalisation de la partie HTML)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/tp-quelques-%C3%A9l%C3%A9ments-html.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"tp-quelques-c3-a9l-c3-a9ments-html-html#tp---quelques-éléments--html": {
+      "title": "TP - Quelques éléments  HTML  (Projet 0 - réalisation de la partie HTML)",
+      "content"	 : "TP - Quelques éléments  HTMLDans ce travail pratique nous allons découvrir quelques  éléments HTML que nous utiliserons dans les exemples et travaux pratiques des parties suivants de notre formation.Aussi, nous allons développer notre premier page web seulement en HTML.",
+      "url": "/html5-css3/tp-quelques-%C3%A9l%C3%A9ments-html.html#tp---quelques-éléments--html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"tp-quelques-c3-a9l-c3-a9ments-html-html#élements-html": {
+      "title": "Élements HTML  (Projet 0 - réalisation de la partie HTML)",
+      "content"	 : "Élements HTMLNous allons découvrir les éléments suivants :  Titres  Image  Liste ordonnée  Liste non ordonée.",
+      "url": "/html5-css3/tp-quelques-%C3%A9l%C3%A9ments-html.html#élements-html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    },
+"tp-quelques-c3-a9l-c3-a9ments-html-html#pratique": {
+      "title": "Pratique  (Projet 0 - réalisation de la partie HTML)",
+      "content"	 : "Pratique",
+      "url": "/html5-css3/tp-quelques-%C3%A9l%C3%A9ments-html.html#pratique",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    }
+,
+"r-c3-a9sum-c3-a9-bien-d-c3-a9marrer-avec-html-html": {
+      "title": "Résumé - bien démarrer avec HTML",
+      "content"	 : "Résumé - bien démarrer avec HTMLNous avons découvert dans cette partie de formation le langage HTMlNous avons appris la syntaxe et la structure d’un document HTML Valide.12345678910&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;    &amp;lt;title&amp;gt;Ma page test&amp;lt;/title&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;    &amp;lt;p&amp;gt;Voici ma page web&amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;Nous avons découvert, aussi,  par pratique, quelques éléments HTML utile, à utiliser dans nos exemples et travaux pratiques avant de les étudier en détails.Nous avons vue comment structure le le texte en :  Titre : en utilisant les éléments  h1 et h2  Paragraphe : p  Image : img  Liste ( ordonée et non ordonée ) : ol, ul et liDans la partie suivante, Nous allons démarrer l’apprentissage du langage CSS. Dans l’objectif de comprendre les base de ce langage afin de commencer la réalisation de nos mini-projet sur des cas réel de réalistion des site web professionnel.",
+      "url": "/html5-css3/r%C3%A9sum%C3%A9-bien-d%C3%A9marrer-avec-html.html",
+      "author": "",
+      "categories": "bien-démarrer-html"
+    }
+,
+"bien-d-c3-a9marrer-avec-css3-html": {
+      "title": "Bien démarrer avec CSS3",
+      "content"	 : "Bien démarrer avec CSS3Dans cette partie de formation, je vous propose d’apprendre juste les notions de base de CSS nécessaire pour commencer nos projets pratiques.Nous allons découvrir la syntaxe de CSS et seulement le fonctionnement de base de quelques propriétés CSS indispensable pour commencer la pratique. C’est pour ça je nomme cette partie : Bien démarrer avec CSS3.Cette technique de démarrage, vous permet de libérer vos cerveaux de la complexité d’assimiler la multitude d’informations dont nous n’avons pas besoin au début pour commencer à réaliser nos projet pratiques. Nous allons traiter les détails importants pour maîtriser le CSS dans la partie : Notion de base de CSS.Nous allons commencer par découvrir la syntaxe de CSS. Ensuite, nous découvrirons le modèle d’affichage en boîte d’un élément HTML. Nous étudierons enfin, en détail, la syntaxe d’une règle CSS.Nous terminerons notre partie par un travail pratique pour valider notre apprentissage.",
+      "url": "/html5-css3/bien-d%C3%A9marrer-avec-css3.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"syntaxe-utilit-c3-a9-css-html": {
+      "title": "Syntaxe et utilité",
+      "content"	 : "Syntaxe et utilitéDans cette session de formation, nous allons apprendre ce que c’est le CSS.Nous allons découvrir :  la syntaxe,  quelques termes clé du langage,  et comment applique le CSS à un document HTML",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#à-quoi-sert-css-": {
+      "title": "À quoi sert CSS ?  (Syntaxe et utilité)",
+      "content"	 : "À quoi sert CSS ?Dans la partie Bien démarrer avec HTML, nous avons présenté le langage HTML afin de rédiger des documents structurés et consultables par un navigateur ou un moteur de recherche.Par défaut :  Les titres apparaîtront dans une police plus grande que le corps de texte,  la rupture entre deux paragraphes sera marquée par un saut de ligne.  Les liens seront soulignés et colorés pour les distinguer du reste du texte.L’image que vous voyez montre comment un navigateur affiche un document HTML sans CSS. La mise en forme par défaut garantit un minimum de lisibilité, même si l’auteur de la page n’a spécifié aucune règle de style.Affichage d’une page HTML sans CSSLe Web serait d’un ennui terrible si tous les sites ressemblaient à la page de notre exemple.Grâce à CSS, vous pouvez contrôler et paramétrer l’affichage de chaque élément HTML dans le navigateur et  présenter vos documents HTML avec la mise en forme de votre choix.Affichage d’une page HTML avec CSS",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#à-quoi-sert-css-",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#syntaxe-et-règle-css": {
+      "title": "Syntaxe et règle css  (Syntaxe et utilité)",
+      "content"	 : "Syntaxe et règle cssCSS est un langage basé sur des règles. On définit des règles de styles destinées à des éléments ou des groupes d’éléments particuliers dans la page.Par exemple “Je veux que le titre principal de ma page s’affiche en rouge”Dans le code suivant, une règle CSS élémentaire réalise cette mise en forme peut être insérer dans un élément nommé style à déposer à l’intérieur de l’élément head  :123456789&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            color:red        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;Regardons un peu plus en détails ce que nous avons écrit en CSS :  La règle commence par un sélecteur, qui détermine l’élément HTML mis en forme. Ici le style s’applique aux titres de niveau 1 (&amp;lt;h1&amp;gt;).  Ensuite, une paire d’accolades { } à l’intérieur lesquelles on trouve une ou plusieurs déclarations, sous la forme d’une paire propriété : valeur.  Chaque paire précise une propriété de l’élément sélectionné, suivie de la valeur choisie pour cette propriété ; la propriété et la valeur sont séparées par deux points.  Chaque déclaration se termine par un point-virgule.  À chaque propriété définie par CSS correspondent différentes valeurs possibles.Dans l’exemple, la propriété color peut prendre différentes valeurs de type color.Une feuille de style CSS peut  être constituée d’une succession de telles règles :1234567891011&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            color: red        }        p {            color: grey;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#syntaxe-et-règle-css",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#feuille-de-style-interne": {
+      "title": "Feuille de style interne  (Syntaxe et utilité)",
+      "content"	 : "Feuille de style interneLes règles CSS peuvent être écrites directement dans l’en-tête HTML &amp;lt;head&amp;gt; dans l’élément &amp;lt;style&amp;gt;. On parle alors de feuille de style interne.Le code HTML suivant illustre cette technique :12345678910&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            color:red        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt; ... &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;Dans un site web, avec la méthode de styles internes, le CSS doit être recopié dans chaque page : la mise à jour des styles nécessite donc de modifier chaque fichier.",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#feuille-de-style-interne",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#pratique--feuille-de-style-interne": {
+      "title": "Pratique : Feuille de style interne  (Syntaxe et utilité)",
+      "content"	 : "Pratique : Feuille de style interneObjectifs  Apprendre la syntaxe de css  Création de notre première règle css  Apprendre à utiliser les feuilles de style interneCode source12345678910111213141516171819202122&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;UTF-8&quot;&amp;gt;    &amp;lt;style&amp;gt;        h1{            color:red        }        p {        color: grey;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;        Un ordinateur est un appareil électronique capable de         réaliser rapidement des opérations mathématiques,         logiques, des manipulations de chaînes de caractères         ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#pratique--feuille-de-style-interne",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#feuille-de-style-externe": {
+      "title": "Feuille de style externe  (Syntaxe et utilité)",
+      "content"	 : "Feuille de style externeDans le cas d’une feuille de style externe, les règles CSS sont écrites dans un fichier séparé, avec l’extension .css. Un élément HTML  fait référence à ce fichier.C’est la méthode la plus utile pour appliquer CSS à un document : dans la plupart des cas, les différentes pages d’un site ont un peu près la même apparence, on peut donc utiliser le même jeu de règles pour l’apparence de base.Il est dans ce cas commode d’écrire ces règles une seule fois dans une feuille de style commune à toutes les pages.123456&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt; .. &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;L’attribut href de l’élément &amp;lt;link&amp;gt; doit pointer vers un fichier dans votre système de fichiers.Le fichier CSS devrait ressembler à cela :123456        h1{            color:red        }        p {        color: grey;        }Dans notre exemple, le fichier CSS et le document HTML sont dans le même dossier, mais vous pouvez le placer ailleurs et ajuster le chemin, par exemple :  Dans un sous-répertoire nommé styles dans le répertoire courant  Dans un sous-répertoire nommé general, lui-même dans un sous-répertoire nommé styles, dans le répertoire courant  Dans un sous-répertoire nommé styles, un niveau plus haut123&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;styles/style.css&quot;&amp;gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;styles/general/style.css&quot;&amp;gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;../styles/style.css&quot;&amp;gt;",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#feuille-de-style-externe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#pratique--feuille-de-style-externe": {
+      "title": "Pratique : Feuille de style externe  (Syntaxe et utilité)",
+      "content"	 : "Pratique : Feuille de style externeObjectifs  découvrir les feuilles de style externe.Code source1234567891011121314151617&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;    &amp;lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot;&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;      &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;      &amp;lt;p&amp;gt;          Un ordinateur est un appareil électronique capable de           réaliser rapidement des opérations mathématiques,           logiques, des manipulations de chaînes de caractères           ou des recherches. Il est composé de deux grandes parties :      &amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#pratique--feuille-de-style-externe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#styles-en-ligne": {
+      "title": "Styles en ligne  (Syntaxe et utilité)",
+      "content"	 : "Styles en ligneLes styles en ligne sont des déclarations CSS qui n’affectent qu’un seul élément, elles sont déclarées grâce à l’attribut style:123456&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;&amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;      &amp;lt;h1 style=&quot;color: red;&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;Cette approche est vraiment à éviter ! Le code produit n’est pas maintenable (les modifications ne doivent plus se faire pour chaque page, mais dans chaque page, élément par élément !).Par ailleurs, mélanger le CSS avec le HTML rend la lecture du code plus difficile. En plus d’une meilleure lisibilité du code, séparer le fond de la forme rend le travail d’équipe plus facile.Il existe quelques endroits où les styles en ligne sont utils, voire recommandés. Vous les verrez beaucoup utilisés dans les e-mails HTML afin d’être compatibles avec autant de clients de messagerie que possible.",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#styles-en-ligne",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#pratique--styles-en-ligne": {
+      "title": "Pratique : Styles en ligne  (Syntaxe et utilité)",
+      "content"	 : "Pratique : Styles en ligneObjectifs  Découvrir les style en ligneCode source123456789101112131415&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;  &amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;  &amp;lt;/head&amp;gt;  &amp;lt;body&amp;gt;      &amp;lt;h1 style=&quot;color: red;&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;      &amp;lt;p style=&quot;color: red;&quot;&amp;gt;          Un ordinateur est un appareil électronique capable de           réaliser rapidement des opérations mathématiques,           logiques, des manipulations de chaînes de caractères           ou des recherches. Il est composé de deux grandes parties :      &amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#pratique--styles-en-ligne",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#commentaire": {
+      "title": "Commentaire  (Syntaxe et utilité)",
+      "content"	 : "CommentaireLes commentaire peut  être ajouté au code CSS en utilisant /* et */1234        /* Exemple d&#39;une règle CSS */        h1{            color:red        }",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#commentaire",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"syntaxe-utilit-c3-a9-css-html#références": {
+      "title": "Références  (Syntaxe et utilité)",
+      "content"	 : "Références  Comment CSS est structuré  Qu’est ce que CSS ?",
+      "url": "/html5-css3/syntaxe-utilit%C3%A9-css.html#références",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"display-block-inline-html": {
+      "title": "Élément block et inline",
+      "content"	 : "Élément block et inlineDans cette session de formation nous allons découvrir la propriété Display qui nous permet de changer la disposition d’affichage des élément HTML.",
+      "url": "/html5-css3/display-block-inline.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"display-block-inline-html#disposition-en-flux": {
+      "title": "Disposition en flux  (Élément block et inline)",
+      "content"	 : "Disposition en fluxLe flux normal ou « disposition en flux » (Flow Layout) correspond à la façon dont les éléments de bloc et les éléments en ligne sont disposés avant tout changement apporté à leur disposition.Avec un flux normal, les éléments en ligne (inline elements) sont affichés selon le sens dans lequel les mots sont écrits.Les éléments de bloc sont affichés les uns après les autres, à la façon des paragraphes.Par exemple, pour un document français, les éléments en ligne sont affichés les uns à la suite des autres de gauche à droite et les éléments de bloc sont affichés les uns en dessous des autres.Dans l’exemple suivant, on peut voir des boîtes de bloc et des boîtes en ligne. Les deux éléments correspondants aux paragraphes sont des éléments de bloc. Ces deux éléments s’affichent l’un en dessous de l’autre.Le deuxième paragraphe contient également des éléments . C’est un élément en ligne qui s’affiche donc de gauche à droit.123456789&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Titre&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;Paragraphe 1&amp;lt;/p&amp;gt;    &amp;lt;p&amp;gt;        Paragraphe 2 :         &amp;lt;span&amp;gt;Phrase 1&amp;lt;/span&amp;gt;        &amp;lt;span&amp;gt;Phrase 2&amp;lt;/span&amp;gt;    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;",
+      "url": "/html5-css3/display-block-inline.html#disposition-en-flux",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"display-block-inline-html#display--block-et-inline": {
+      "title": "Display : block et inline  (Élément block et inline)",
+      "content"	 : "Display : block et inlineLa propriété display définit :  le type d’affichage utilisée pour le rendu d’un élément (de bloc ou en ligne)  et la disposition utilisée pour ses éléments fils.Nous allons ce concentrer dans notre session de formation sur le rendu d’un élément en bloc ou en ligne.Nous allons traiter les valeurs  block,  inline  et inline-block.      La valeur block génère une boîte de bloc qui ajoute des passages à la ligne avant et après l’élément dans le flux normal.        la valeur inline génère une ou plusieurs boîtes en lignes qui n’ajoutent pas de passages à la ligne avant ou après. Dans un flux normal, le prochain élément sera sur la même ligne si l’espace le permet.. Les propriétés de hauteur et de largeur n’auront aucun effet        la valeur inline-block : affiche un élément en tant que conteneur de blocs de niveau en ligne. L’élément lui-même est formaté comme un élément en ligne, mais vous pouvez appliquer des valeurs de hauteur et de largeur1.  ",
+      "url": "/html5-css3/display-block-inline.html#display--block-et-inline",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"display-block-inline-html#pratique--display-block-et-inline": {
+      "title": "Pratique : display block et inline  (Élément block et inline)",
+      "content"	 : "Pratique : display block et inlineLes objectifs de ce travail paratique :  Découvrir les styles par défaut  Changer la propritété display  Découvrir la valeur : none  Apprendre la différence entre inline, block et incline-block  Savoir comment utiliser la documentation officiel.Code source123456789101112131415161718192021222324252627282930&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html lang=&quot;en&quot;&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            display: inline;        }        p{            background-color:pink;            display: inline-block;            width: 400px;            height: 150px;        }        a{            display: inline-block;            width: 100px;            text-align: center;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;Résultat",
+      "url": "/html5-css3/display-block-inline.html#pratique--display-block-et-inline",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html": {
+      "title": "Modèle de Boîtes CSS",
+      "content"	 : "Modèle de Boîtes CSSEn CSS, tout élément est inclus dans une boîte (“box” en anglais). Comprendre le fonctionnement de ces boîtes est essentiel pour maîtriser la mise en page CSS ainsi que le positionnement des éléments d’une page HTML.C’est pour cette raison que l’architecture de CSS est principalement basée sur un modèle de boîtes. Chacun de ces blocs prend un certain espace sur la page, de cette façon :  padding : l’espace autour, proche du contenu (remplissage)  border : la ligne qui est juste autour du padding (bordure)  margin :  l’espace extérieur, autour de l’élément (marge)",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#pratique---découvrir-le-modèle-de-boite": {
+      "title": "Pratique :  Découvrir le modèle de boite  (Modèle de Boîtes CSS)",
+      "content"	 : "Pratique :  Découvrir le modèle de boiteLes objectives de ce TP :  Découvrir les propriété : border, margin, padding  Utiliser l’inspecteur de code pour voir le modèle de boîte  La modification des règle de style directement dans le navigateurRésultatCode source123456789101112131415161718192021222324252627&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            border-style: dotted;            margin: 10px;            padding: 30px;        }        p{            border-style: solid;            margin: 10px;            padding: 10px;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#pratique---découvrir-le-modèle-de-boite",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#les-bordures": {
+      "title": "Les bordures  (Modèle de Boîtes CSS)",
+      "content"	 : "Les borduresLa bordure se situe entre la marge et le remplissage (padding) d’une boîte. la taille de la bordure s’ajoute à la largeur (width) et la hauteur (height) de la boîte.Pour modifier la taille, le style ou la couleur de tous les côtés en même temps, nous utilisons les propriétés suivantes :12345 h1{            border-width: 2px;            border-style: dotted;            border-color: indigo;}Pour agir sur le style d’une bordure, il existe de nombreuses propriétés qui permettent de régler le style, la taille et la couleur pour chacun des quatre côtés de la bordure.Vous pouvez naturellement fixer la forme taille et couleur des quatre côtés en une seule fois, par le biais de la propriété border.123 h1{    border : 2px dotted indigo}Pour régler ces propriétés individuellement pour chacun des côtés, vous pouvez utiliser :  border-top  border-right  border-bottom  border-left123p{    border-bottom : 2px dotted grey}",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#les-bordures",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#pratique--bordures": {
+      "title": "Pratique : bordures  (Modèle de Boîtes CSS)",
+      "content"	 : "Pratique : borduresLes objectif de ce TP :  Apprendre la propriété borderCode source1234567891011121314151617181920212223242526&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            border-width: 2px;            border-style: dotted;            border-color: indigo;            /* border : 2px dotted indigo */        }        p{            border-bottom : 2px dotted grey        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#pratique--bordures",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#le-padding-remplissage": {
+      "title": "Le padding (remplissage)  (Modèle de Boîtes CSS)",
+      "content"	 : "Le padding (remplissage)Le padding (ou remplissage) se situe entre la bordure et le contenu. on ne peut pas attribuer une valeur numérique négative à un padding, la valeur ne peut être que 0 ou bien une valeur positive.On peut une fois de plus configurer le padding pour tous les côtés à la fois à l’aide de la propriété padding, ou bien chaque côté indépendamment des autres en utilisant les variantes plus précises suivantes :  padding-top  padding-right  padding-bottom  padding-left123456789h1{     background-color: indigo; color: white;    padding-top: 20px;    padding-bottom: 10px;    padding-left: 10px;    padding-right: 5px; }p{      background-color: pink;    padding: 20px 10px 10px 5px }",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#le-padding-remplissage",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#pratique--padding": {
+      "title": "Pratique : padding  (Modèle de Boîtes CSS)",
+      "content"	 : "Pratique : paddingL’objectif de ce tp :  Apprendre à utiliser la propriété padding.Code source1234567891011121314151617181920212223242526272829&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            background-color: indigo;            color: white;            padding-top: 20px;            padding-bottom: 10px;            padding-left: 10px;            padding-right: 5px;        }        p{            background-color: pink;            padding: 20px 10px 10px 5px        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#pratique--padding",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#les-marges": {
+      "title": "Les marges  (Modèle de Boîtes CSS)",
+      "content"	 : "Les margesLa marge est une zone d’espacement invisible qui encadre votre boîte (une marge extérieure). La marge repousse les éléments alentours de la boîte. On peut de plus lui donner une valeur numérique positive ou bien même négative !Lorsque cette valeur est négative, cela peut cependant engendrer des superpositions entre votre boîte et d’autres éléments. La marge est toujours décomptée en surplus de la taille totale de la boîte.On peut fixer les quatre marges d’une boîte d’un seul coup à l’aide de la propriété margin, ou bien régler chaque côté individuellement avec les propriétés équivalentes suivantes :  margin-top  margin-right  margin-bottom  margin-left123456789h1{    background-color: indigo;color: white;    padding: 10px;    margin-top: 20px; margin-bottom: 10px;    margin-left: 30px; margin-right: 30px;}p{    background-color: pink;     padding: 10px;    margin: 5px; }",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#les-marges",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#pratique--margin": {
+      "title": "Pratique : margin  (Modèle de Boîtes CSS)",
+      "content"	 : "Pratique : marginLes objectifs de ce tp sont :  découvrir les propriété pour modifier les marques d’une boite  apprendre la fusion entre les marges  apprendre les marge négativeCode source1234567891011121314151617181920212223242526272829303132333435&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        h1{            background-color: indigo;            color: white;            padding: 10px;            margin-top: 20px;            margin-bottom: 10px;            margin-left: 30px;            margin-right: 30px;        }        p{            background-color: pink;            padding: 10px;            margin: 5px;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;    &amp;lt;p&amp;gt;        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa, a.    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#pratique--margin",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-mod-c3-a8le-de-bo-c3-aetes-css-html#références": {
+      "title": "Références  (Modèle de Boîtes CSS)",
+      "content"	 : "Références  Le modèle de boîte",
+      "url": "/html5-css3/initiation-mod%C3%A8le-de-bo%C3%AEtes-css.html#références",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"initiation-police-texte-html": {
+      "title": "Police et texte",
+      "content"	 : "Polices (fontes) et texteNous allons voir dans cette session de formation quelques propriété de font et de texte.",
+      "url": "/html5-css3/initiation-police-texte.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-police-texte-html#font-et-texte": {
+      "title": "Font et Texte  (Police et texte)",
+      "content"	 : "Font et TexteNous allons découvrir pratiquement les propiétés suivant :  font-family : permet de définir une liste, ordonnée par priorité, de polices à utiliser pour mettre en forme le texte de l’élément ciblé.  font-size : définit la taille de fonte à utilisée pour le texte.  line-height : définit la hauteur de la boîte d’une ligne.  letter-spacing : définit l’interlettre utilisée pour les caractères qui composent le texte.  text-align :  définit l’alignement horizontal d’un élément de bloc ou de la boîte d’une cellule de tableau.123456789html{     font-family: Calibri, sans-serif;    font-size: 14px }h1{    font-size: 40px;     text-align: center; }p{    font-size: 20px; line-height: 2;    letter-spacing: 1px; }",
+      "url": "/html5-css3/initiation-police-texte.html#font-et-texte",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-police-texte-html#pratique--polices-et-texte": {
+      "title": "Pratique : polices et texte  (Police et texte)",
+      "content"	 : "Pratique : polices et texteL’objectifs de ce TP :  découvrir de quelques propriétés de font et de texteCode source123456789101112131415161718192021222324252627282930&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        html{            font-family:&#39;Gill Sans&#39;, &#39;Gill Sans MT&#39;, Calibri, &#39;Trebuchet MS&#39;, sans-serif;            font-size: 14px        }        h1{            font-size: 40px;            text-align: center;        }        p{            font-size: 20px;            line-height: 2;            letter-spacing: 1px;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/initiation-police-texte.html#pratique--polices-et-texte",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-police-texte-html#google-font": {
+      "title": "Google font  (Police et texte)",
+      "content"	 : "Google fontGoogle Fonts est une bibliothèque de plus de 1000 familles de polices sous licence gratuites pour une utilisation pratique via CSS.La règle @import est utilisée afin d’importer des règles à partir d’autres feuilles de style. Ces règles @ doivent être utilisées avant toutes les autres règles123&amp;lt;style&amp;gt;    @import url(&#39;https://fonts.googleapis.com/css2?family=...&#39;);&amp;lt;/style&amp;gt;",
+      "url": "/html5-css3/initiation-police-texte.html#google-font",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-police-texte-html#pratique--google-font": {
+      "title": "Pratique : google font  (Police et texte)",
+      "content"	 : "Pratique : google fontL’objectifs de ce TP :  découvrir google fontCode source1234567891011121314151617181920212223242526272829303132333435&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html lang=&quot;en&quot;&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;meta charset=&quot;UTF-8&quot;&amp;gt;    &amp;lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&amp;gt;    &amp;lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&amp;gt;    &amp;lt;title&amp;gt;Police et Texte&amp;lt;/title&amp;gt;    &amp;lt;style&amp;gt;       @import url(&#39;https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&amp;amp;display=swap&#39;);       html{            font-family: &#39;Ubuntu&#39;, sans-serif;       }       h1{            font-size: 40px;            text-align: center;       }       p{            font-size: 20px;            line-height: 2;            letter-spacing: 1px;       }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/initiation-police-texte.html#pratique--google-font",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"initiation-police-texte-html#références": {
+      "title": "Références  (Police et texte)",
+      "content"	 : "Références  Initiation à la mise en forme du texte  Google Fonts",
+      "url": "/html5-css3/initiation-police-texte.html#références",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"unit-c3-a9s-de-longueur-html": {
+      "title": "Unités de longueur",
+      "content"	 : "Unités de longueurLe CSS offre de nombreuses unités pour exprimer les dimensions d’un élément.on peut classer les unités en deux grandes catégories : absolue et relative.",
+      "url": "/html5-css3/unit%C3%A9s-de-longueur.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"unit-c3-a9s-de-longueur-html#unité-absolues": {
+      "title": "Unité absolues  (Unités de longueur)",
+      "content"	 : "Unité absoluesLes unités absolues ne sont pas recommandées à l’écran, car les tailles d’écran varient énormément.Avec l’avènement des smartphones et des tablettes, les tailles de supports se démultiplient.On est très loin des trois grandes résolutions d’écrans qui ont régné pendant un moment :  800x600,  1024x768,  1280x1080.Cependant, elles peuvent être utilisées si le support de sortie est connu, comme pour la mise en page pour l’impression.Il existe plusieurs unité absolues comme  cm : centimètre  mm : millimétré  px : pixelMais généralement, on n’utilise pas le cm et le mm, nous utilisons seulement le pixel qui prend la dimension d’un pixel sur l’écran.Dans l’exemple suivant, nous avons changer la taille de police de titre et paragraphe en 32px.Nous avons aussi augmenter la hauteur du paragraphe en 150px.123456789h1{    font-size: 32px;    height: 50px;}p{    font-size: 32px;    height: 150px;    background-color: pink;}",
+      "url": "/html5-css3/unit%C3%A9s-de-longueur.html#unité-absolues",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"unit-c3-a9s-de-longueur-html#unité-relatives": {
+      "title": "Unité relatives  (Unités de longueur)",
+      "content"	 : "Unité relativesLes unités relatives se réfèrent toujours à un autre élément. Elles sont très utiles, notamment avec la multiplication des supports et pour gérer le responsive design ou l’affichage sur mobile.Il existe trois unité :  %     :Relatif à la taille de l’élément parent  em    :Relatif à la taille de police de l’élément parent  rem:   Relatif à la taille de police de l’élément racine HTML de la page.",
+      "url": "/html5-css3/unit%C3%A9s-de-longueur.html#unité-relatives",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"unit-c3-a9s-de-longueur-html#pratique---unité-relative--pourcentage": {
+      "title": "Pratique - Unité relative : pourcentage  (Unités de longueur)",
+      "content"	 : "Pratique - Unité relative : pourcentageLes objectives de travail pratique  Apprendre à utiliser l’unité relative : % (pourcentage).Code source123456789101112131415161718192021222324252627282930&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html lang=&quot;en&quot;&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        html{            height: 100%;          }        body{            font-size: 20px;            height: 100%;         }        p{            font-size: 100%;            width: 70%;            height: 30%;            background-color: pink;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;    ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;Résultat",
+      "url": "/html5-css3/unit%C3%A9s-de-longueur.html#pratique---unité-relative--pourcentage",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"unit-c3-a9s-de-longueur-html#pratique---unité-relative--em-et-rem": {
+      "title": "Pratique - Unité relative : em et rem  (Unités de longueur)",
+      "content"	 : "Pratique - Unité relative : em et remLes objectives de ce travail pratique sont les suivant :  Apprendre à utiliser les unité relative em et rem  comprendre la différence entre eux.Code source1234567891011121314151617181920212223242526272829303132&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html lang=&quot;en&quot;&amp;gt;&amp;lt;head&amp;gt;    &amp;lt;style&amp;gt;        html{            /* font-size: 16px;   */        }        body{            font-size: 24px;         }        h1{            font-size: 1em;        }        p{            font-size: 1rem;        }        a{            font-size: 1.2em;        }    &amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :    &amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;Résultat",
+      "url": "/html5-css3/unit%C3%A9s-de-longueur.html#pratique---unité-relative--em-et-rem",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"unit-c3-a9s-de-longueur-html#références": {
+      "title": "Références  (Unités de longueur)",
+      "content"	 : "Références  Valeurs et unités CSS  px, %, em, rem… quelle unité de mesure utiliser en CSS ?",
+      "url": "/html5-css3/unit%C3%A9s-de-longueur.html#références",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"s-c3-a9lecteurs-html": {
+      "title": "Sélecteurs",
+      "content"	 : "SélecteursLes sélecteurs sont utilisés pour cibler les éléments HTML à mettre en forme dans nos pages web.Dans cette session de formation, nous découvrirons les sélecteurs les plus simples qu’on puisse trouver, ce sont ceux que vous utiliserez le plus couramment dans votre travail de création des sites web.",
+      "url": "/html5-css3/s%C3%A9lecteurs.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#quest-ce-quun-sélecteur-": {
+      "title": "Qu’est-ce qu’un sélecteur ?  (Sélecteurs)",
+      "content"	 : "Qu’est-ce qu’un sélecteur ?Vous les avez déjà rencontrés : toute règle CSS commence par un sélecteur.Un sélecteur est une expression qui indique au navigateur à quel élément HTML à cibler pour applique la la déclaration CSS de la règle.123h1{    color:red}",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#quest-ce-quun-sélecteur-",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#lattribut-id-et-classe": {
+      "title": "L’attribut &lt;strong&gt;Id&lt;/strong&gt; et &lt;strong&gt;Classe&lt;/strong&gt;  (Sélecteurs)",
+      "content"	 : "L’attribut Id et ClasseLes attributs id et class sont particuliers en HTML puisqu’ils n’ont pas été créés pour préciser le fonctionnement d’un élément HTML en particulier (ce qui est normalement le rôle de tout attribut HTML) mais vont être principalement utilisés pour cibler certains éléments HTML et leur appliquer des styles en CSS.Les attributs HTML class et id sont des attributs dits globaux car on va pouvoir les ajouter dans la balise ouvrante de n’importe quel élément HTML.1234&amp;lt;h1 class=&quot;titre&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;&amp;lt;p id=&quot;definition&quot;&amp;gt;    Un ordinateur est un appareil ..&amp;lt;/p&amp;gt;",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#lattribut-id-et-classe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#sélecteur-de-type": {
+      "title": "Sélecteur de type  (Sélecteurs)",
+      "content"	 : "Sélecteur de typeUn sélecteur de type cible un élément HTML (une balise) de votre document, on parle aussi de sélecteur de balise ou d’élément. Dans notre exemple  nous utilisons les sélecteurs h1 et a. Chaque instance de la balise &amp;lt;h1&amp;gt; et &amp;lt;a&amp;gt; est ainsi mise en forme.12345&amp;lt;h1 class=&quot;titre&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;&amp;lt;p id=&quot;definition&quot;&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;    ordinateur&amp;lt;/a&amp;gt; est un ...&amp;lt;/p&amp;gt;1234h1 {    color:indigo;}a{ color: red }",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#sélecteur-de-type",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#le-sélecteur-universel": {
+      "title": "Le sélecteur universel  (Sélecteurs)",
+      "content"	 : "Le sélecteur universelLe sélecteur universel est indiqué par un astérisque (*) et sélectionne tout dans le document. Dans l’exemple suivant, nous avons utilisé le sélecteur universel pour supprimer les marges par défaut de tous les éléments.123* {    margin: 0px;}Cela signifie qu’au lieu du style par défaut ajouté par le navigateur, qui espace les en-têtes et les paragraphes avec des marges, tout est collé, la distinction des paragraphes est mal aisée.",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#le-sélecteur-universel",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#pratique-sélecteur-universel": {
+      "title": "Pratique :sélecteur universel  (Sélecteurs)",
+      "content"	 : "Pratique :sélecteur universelL’objectif de travail pratique :  Découvrir le sélecteur universel12345678910111213141516171819&amp;lt;style&amp;gt;    * {        margin: 0px;    }&amp;lt;/style&amp;gt;&amp;lt;h1 class=&quot;titre&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;&amp;lt;p id=&quot;definition&quot;&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;    ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de     réaliser rapidement des opérations mathématiques,     logiques, des manipulations de chaînes de caractères     ou des recherches. Il est composé de deux grandes parties :&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;    Lorem ipsum dolor sit amet consectetur adipisicing elit.     Labore nobis ea voluptatum doloribus debitis quis perferendis     quia id iste. Quasi?&amp;lt;/p&amp;gt;",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#pratique-sélecteur-universel",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#sélecteurs-de-classe": {
+      "title": "Sélecteurs de classe  (Sélecteurs)",
+      "content"	 : "Sélecteurs de classeLe sélecteur de classe commence par un point . et sélectionne tout élément du document auquel cette classe est appliquée.Dans l’exemple, nous avons créé une classe appelée .titre et nous l’avons appliquée à plusieurs élément de titre. Tous les éléments auxquels la classe est appliquée ont changé leurs apparence.123.titre {    color:red;}",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#sélecteurs-de-classe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#pratique--sélecteurs-de-classe": {
+      "title": "Pratique : Sélecteurs de classe  (Sélecteurs)",
+      "content"	 : "Pratique : Sélecteurs de classeL’objectif de travail pratique :  Découvrir le sélecteur de classe12345678910111213141516&amp;lt;style&amp;gt;.titre {    color:red;}&amp;lt;/style&amp;gt;&amp;lt;h1 class=&quot;titre&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;&amp;lt;p id=&quot;definition&quot;&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;    ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de réaliser     rapidement des opérations mathématiques, logiques, des manipulations     de chaînes de caractères ou des recherches.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Unité centrale &amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, nemo?&amp;lt;/p&amp;gt;&amp;lt;h2  class=&quot;titre&quot;&amp;gt;Périphériques d&#39;entrée ou de sortie&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, nemo?&amp;lt;/p&amp;gt;",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#pratique--sélecteurs-de-classe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#cibler-un-élément-appartenant-à-plus-dune-classe": {
+      "title": "Cibler un élément appartenant à plus d’une classe  (Sélecteurs)",
+      "content"	 : "Cibler un élément appartenant à plus d’une classeVous pouvez attribuer plusieurs classes à un même élément et les sélectionner individuellement, ou cibler l’élément seulement quand toutes les classes apparaissent dans le sélecteur. Cela peut s’avérer utile si vous créez des composants qui peuvent être combinés de différentes manières sur votre site.L’exemple suivant présente deux paragraphe. Si le paragraphe est dans la classe paragraphe elle a une arrière plan pink et padding 10px. Si de plus elle est dans la classe important on change la bordure et la graisse le texte en blod.On indique au navigateur la combinaison de classes ciblée en enchaînant les sélecteurs de classe sans laisser d’espace entre.12345678.paragraphe {     background-color: pink;     padding: 10px;}.important {    border: 2px solid black;    font-weight:bold}",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#cibler-un-élément-appartenant-à-plus-dune-classe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#pratique--plusieurs-classe": {
+      "title": "Pratique : plusieurs classe  (Sélecteurs)",
+      "content"	 : "Pratique : plusieurs classeL’objectif de travail pratique :  Découvrir le sélecteur avec plusieurs classeCode source123456789101112131415161718192021222324252627282930&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html lang=&quot;en&quot;&amp;gt;&amp;lt;head&amp;gt;&amp;lt;style&amp;gt;.paragraphe {     background-color: pink;     padding: 10px;}.important {    border: 2px solid black;    font-weight:bold}&amp;lt;/style&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;body&amp;gt;    &amp;lt;h1 class=&quot;important&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;    &amp;lt;p class=&quot;paragraphe&quot;&amp;gt;        Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;        ordinateur&amp;lt;/a&amp;gt; est un appareil électronique capable de réaliser         rapidement des opérations mathématiques, logiques, des manipulations         de chaînes de caractères ou des recherches.    &amp;lt;/p&amp;gt;    &amp;lt;h2 class=&quot;important&quot;&amp;gt;Unité centrale &amp;lt;/h2&amp;gt;    &amp;lt;p class=&quot;paragraphe important&quot;&amp;gt;        Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, nemo?    &amp;lt;/p&amp;gt;  &amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#pratique--plusieurs-classe",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#sélecteurs-did": {
+      "title": "Sélecteurs d’ID  (Sélecteurs)",
+      "content"	 : "Sélecteurs d’IDUn sélecteur d’ID commence par un # plutôt que par un point, mais est essentiellement utilisé de la même manière qu’un sélecteur de classe. Une ID ne peut cependant être utilisée qu’une seule fois par document.12345&amp;lt;h1 class=&quot;titre&quot;&amp;gt;Qu&#39;est-ce que l&#39;ordinateur&amp;lt;/h1&amp;gt;&amp;lt;p id=&quot;definition&quot;&amp;gt;    Un &amp;lt;a href=&quot;https://fr.wikipedia.org/wiki/Ordinateur&quot; target=&quot;_blank&quot;&amp;gt;    ordinateur&amp;lt;/a&amp;gt; est un ..&amp;lt;/p&amp;gt;12345#definition {    background-color: pink;    padding: 10px;    font-size: 24px;}",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#sélecteurs-did",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#listes-de-sélecteurs": {
+      "title": "Listes de sélecteurs  (Sélecteurs)",
+      "content"	 : "Listes de sélecteursQuand un groupe de déclarations CSS s’applique à plusieurs éléments distincts, on peut combiner les sélecteurs individuels en une liste. Par exemple, si j’ai le même CSS pour un h1 et pour une classe .special, je pourrais écrire deux règles :1234567h1 {  color: blue;}.special {  color: blue;}ou bien une seule règle en combinant les sélecteurs, séparés par une virgule :123h1, .special {  color: blue;}",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#listes-de-sélecteurs",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"s-c3-a9lecteurs-html#références": {
+      "title": "Références  (Sélecteurs)",
+      "content"	 : "Références  Sélecteurs CSS  Sélecteurs de type, de classe et d’ID",
+      "url": "/html5-css3/s%C3%A9lecteurs.html#références",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"tp-exemple-page-html5-avec-css3-html": {
+      "title": "Projet 0 - réalisation de la partie CSS",
+      "content"	 : "TP - Apparence d’un article avec CSSDans cette session de formation, nous allons réaliser ensemble un travail pratique qui résume ce que nous avons vue dans cette partie de formation intitulé **Bien démarrer avec CSS.Nous allons créer notre premier page web professionnel avec HTML et CSS.",
+      "url": "/html5-css3/tp-exemple-page-html5-avec-css3.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"tp-exemple-page-html5-avec-css3-html#objectifs": {
+      "title": "Objectifs  (Projet 0 - réalisation de la partie CSS)",
+      "content"	 : "Objectifs  Découvert de quelques balise HTMl sémantique  Découvert de structure d’une page en HTML  Découvert comment structure un article dans une page HTML  Apprendre la notion de normalisation des règles CSS par défaut  Appliquer ce que nous avons appris dans cette partie de bien démarrer avec CSS",
+      "url": "/html5-css3/tp-exemple-page-html5-avec-css3.html#objectifs",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    },
+"tp-exemple-page-html5-avec-css3-html#résultat-finale": {
+      "title": "Résultat finale  (Projet 0 - réalisation de la partie CSS)",
+      "content"	 : "Résultat finale",
+      "url": "/html5-css3/tp-exemple-page-html5-avec-css3.html#résultat-finale",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"r-c3-a9sum-c3-a9-bien-d-c3-a9marrer-avec-css3-html": {
+      "title": "Résumé - Bien démarrer avec CSS3",
+      "content"	 : "Résumé - Bien démarrer avec CSS3Nous avons découvert dans cette partie de formation, la syntaxe de CSS et les notions de base que vous avez besoin pour commencer l’apprentissage par projet.Nous avons appris le modèle de boîte et ces propriété  border  padding  margin  width et hieghtNous avons découvert comme fonctionne le sélecteur et comment cibler les élément HTML par Id et class.Nous avons vue les unités de longueur, notamment %, rm, rem.",
+      "url": "/html5-css3/r%C3%A9sum%C3%A9-bien-d%C3%A9marrer-avec-css3.html",
+      "author": "",
+      "categories": "bien-démarrer-css3"
+    }
+,
+"page-hommage-html": {
+      "title": "Travail à faire",
+      "content"	 : "Projet 1 : création d’une page d’hommageAprès le projet d’initiation et de démarrage avec les langages HTML et CSS, c’est le temps de commencer notre premier projet professionnel dans notre formation d’apprentissage de développement front-end.",
+      "url": "/html5-css3/page-hommage.html",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Travail à faire)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/page-hommage.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#description-du-projet": {
+      "title": "Description du projet  (Travail à faire)",
+      "content"	 : "Description du projetLe projet consiste à créer la page d’hommage sur Linus Torvalds.L’idée du projet est de réaliser une page web simple mais professionnel en utilisant le langage HTML5 et CSS3. Le terme professionnel désigne que nous devrons utiliser les mêmes techniques utilisées par un développeur web dans une agence de création des sites web.Lien de l’image sur figma",
+      "url": "/html5-css3/page-hommage.html#description-du-projet",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#travail-à-faire": {
+      "title": "Travail à faire  (Travail à faire)",
+      "content"	 : "Travail à faireNous vous demandons de créer votre projet en utilisant le langage HTML5 et CSS3.Tous d’abord, avant de commencer le codage, nous vous demandons choisir un style de font populaire sur Google Font. Puis, choisissez les couleurs à utiliser dans votre page web en extraire les couleurs utilisés sur le logo du linux ce-dessous. Nous vous proposons d’utiliser le site web : color.adobe.com qui vous permettez d’extraire les couleurs à parire d’une image.Dans un deuxième temps, vous écrivez le code HTML de la page en utilisant des balises sémantique pour structurer le contenue de la page.Enfin, vous écrivez le code CSS pour reproduire la maquette en utilisant la disposition avec la propriété float. Aussi, nous vous demandons d’utiliser la bibliothèque Normalize pour unifier les règles par défaut des navigateurs web avant de commencer la création de vos règles CSS.  Utilisation de Google Fonts  extraction des couleurs à partir du logo de linux  utilisation des balises sémantiques  disposition avec float  utilisation de la bibliothèque NormalizeLogo de linuxLiens utiles  color.adobe.com  fonts.google.com  necolas.github.io/normalize.css",
+      "url": "/html5-css3/page-hommage.html#travail-à-faire",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#contenue-de-la-page": {
+      "title": "Contenue de la page  (Travail à faire)",
+      "content"	 : "Contenue de la pagePour créer votre projet, vous pouvez utiliser ce contenue.123456789101112131415161718192021222324252627282930313233343536373839# Linus TorvaldsProgrammeur, développeurLinus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais.Il est notamment connu pour avoir créé en 1991 (à 21 ans) le noyau Linux, dont il continue de diriger le développement. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d&#39;enregistrement et de planification des plongées Subsurface.## Distinctions- EFF Pioneer Award (1998)- Docteur honoris causa de l&#39;université de Stockholm (1999)- Médaille Lovelace (2000)- Docteur honoris causa de l&#39;université d&#39;Helsinki (2000)- European of the Year (en) (2001)- Computer History Museum fellow (2008)- Temple de la renommée d&#39;Internet (2012)- Prix Millennium Technology (2012)- Computer Pioneer Award (2014)- IEEE Masaru Ibuka Consumer Electronics Award (2018)  # Travail  - Fondation Linux (depuis le 22 janvier 2007),   - Open Source Development Labs (juin 2003 - 22 janvier 2007)  - Transmeta (février 1997 - juin 2003),   - université d&#39;Helsinki (1992-1996)  ## Formation - Formation: Université d&#39;Helsinki (maîtrise) (1988-1996)## Œuvres principales- Noyau Linux- Git- SubsurfaceLa photoLien de téléchargement sur github",
+      "url": "/html5-css3/page-hommage.html#contenue-de-la-page",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html#objectifs-pédagogiques": {
+      "title": "Objectifs pédagogiques  (Travail à faire)",
+      "content"	 : "Objectifs pédagogiquesLa réalisation de ce projet vous permet de développer les connaissances suivantes :  Découvrir les balises sémantique de structuration  Découvrir la bibliothèque normalize  Apprendre à utiliser la disposition en utilisant la propriété Float  Découvrir l’utilisation de Google Fonts  Découvrir comment créer une palette de couleurs  Découvrir comment structurer les fichiers d’un site web.",
+      "url": "/html5-css3/page-hommage.html#objectifs-pédagogiques",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"cr-c3-a9ation-page-hommage-html": {
+      "title": "Présentation",
+      "content"	 : "Présentation",
+      "url": "/html5-css3/cr%C3%A9ation-page-hommage.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-analyse-technique-html": {
+      "title": "Analyse technique",
+      "content"	 : "Analyse techniqueAprès la présentation du projet, c’est le temps maintenant de vous proposer une méthode de réalisation pratique qui va vous aider à réaliser votre projet sans blocage.L’idée de notre méthode est très simple, c’est diviser le projet en plusieur parties afin de s’auto-former pour apprendre à réaliser chaque partie indépendamment de l’autre. Je nomme chaque partie : un prototype.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#extrait-de-la-formation-vidéo": {
+      "title": "Extrait de la formation vidéo  (Analyse technique)",
+      "content"	 : "Extrait de la formation vidéo",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#extrait-de-la-formation-vidéo",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#différence-entre-un-prototype-et-une-partie-de-projet": {
+      "title": "Différence entre un prototype et une partie de projet.  (Analyse technique)",
+      "content"	 : "Différence entre un prototype et une partie de projet.Pour réaliser votre projet, vous avez besoin d’utiliser plusieurs techniques de programmation.Une technique de programmation peut être :  L’utilisation d’un langage de programmation comme HTML et CSS  Le choix et l’utilisation des couleurs avec CSS  La structuration sémantique de contenue avec le langage HTMLUn prototype est une réalisation pratique qui vous montre comment combiner plusieurs techniques de programmation pour vous aider à réaliser une partie de projet.Ce n’est pas une partie de projet. Si vous regrouper les prototypes vous n’obtiendrez pas le projet. Vous construisez les prototypes pour apprendre comment réaliser chaque partie de votre projet.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#différence-entre-un-prototype-et-une-partie-de-projet",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#comment-trouver-les-prototypes": {
+      "title": "Comment trouver les prototypes  (Analyse technique)",
+      "content"	 : "Comment trouver les prototypesNous vous proposons de diviser le projet selon les techniques nécessaire à sa réalisation.L’idée principale est d’abord, trouver toutes les techniques que vous avez besoin pour réaliser votre projet. Cette étape est appelé : analyse technique du projet.Puis, vous triez les techniques en ordre selon les prérequis de chaque techniques. Puis les regroupes en sous-sembles selon par exemple la nature de travail ou la difficulté  d’apprentissage.Pour chaque sous-ensemble, vous essayez d’apprendre technique par technique. Pour chaque technique, vous réalisez un exemple simple d’utilisation pour valider votre apprentissage.Quand vous apprenez tous les techniques d’un sous-ensemble, vous essayer de regrouper ces techniques dans un prototype ou exemple pratique cohérent qui va vous aider à la réalisation d’une partie du projet.Pendant la phase de réalisation des prototype, vous devez ce concentrer sur l’apprentissage des techniques et non sur la réalisation du projet. Il faut favoriser l’organisation des techniques selon un ordre d’apprentissage qui respecte les prérequis de chaque technique de programmation plutôt des les organiser afin de réaliser rapidement votre projet.Le problème que vous pouvez rencontrer au début de votre formation est que vous n’avez pas assez de connaissance pour réaliser l’analyse technique et la conception des prototypes capable de vous amenez à réaliser votre projet. C’est pour cette raison que nous avons réalisé cette formation d’encadrement et d’accompagnement à la réalisation de 15 projets réels. C’est pour vous proposer l’analyse technique et la conceptions des prototypes simple et réalisable selon votre niveau avec la proposition des exemples de réalisation.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#comment-trouver-les-prototypes",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#analyse-technique-de-votre-projet": {
+      "title": "Analyse technique de votre projet  (Analyse technique)",
+      "content"	 : "Analyse technique de votre projetPour réaliser notre projet vous avez besoin de savoir les technique de programmation suivantes :  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  la syntaxe de base du langage CSS;  le modèle de Boîtes CSS;  l’utilisation de la bibliothèque normalize pour normaliser les valeurs par défaut des règles CSS entre les différent navigateurs web;  la réalisation de la disposition en utilisant la propriété Float  Comment trouver les couleurs à utiliser pour une page web  L’utilisation des balise HTML sémantiqueà partir cette analyse, nous pouvons regrouper les techniques en trois sous-ensemble selon l’ordre de son utilisation dans notre projet. Pour chaque sous-ensemble, nous vous proposons un prototype à réaliser.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#analyse-technique-de-votre-projet",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#prototype-1--création-dune-page-html-sémantique": {
+      "title": "Prototype 1 : Création d’une page HTML sémantique  (Analyse technique)",
+      "content"	 : "Prototype 1 : Création d’une page HTML sémantique  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  L’utilisation des balise HTML sémantiquePrototype 1 : Réalisation d’une page web qui ressemble à notre projet et qui intègre les technique de l’ensemble 1.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#prototype-1--création-dune-page-html-sémantique",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#prototype-2--création-dune-page-web-avec-css": {
+      "title": "Prototype 2 : Création d’une page web avec CSS  (Analyse technique)",
+      "content"	 : "Prototype 2 : Création d’une page web avec CSS  la syntaxe de base du langage CSS;  l’utilisation de la bibliothèque normalize pour normaliser les valeurs par défaut des règles CSS entre les différent navigateurs web;  l’utilisation du Google Fonts  Comment trouver les couleurs à utiliser pour une page webPrototype 2 : Réalisation d’une page web avec HTMl et CSS en utilisant seulement les trois éléments : paragraphe, liste et image.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#prototype-2--création-dune-page-web-avec-css",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-analyse-technique-html#prototype-3--disposition-dune-page-web-avec-float": {
+      "title": "Prototype 3 : Disposition d’une page web avec Float  (Analyse technique)",
+      "content"	 : "Prototype 3 : Disposition d’une page web avec Float  le modèle de Boîtes CSS;  la réalisation de la disposition en utilisant la propriété FloatPrototype 3 : Réalisation d’une page web qui présente une disposition similiare de notre projet.",
+      "url": "/html5-css3/page-hommage-analyse-technique.html#prototype-3--disposition-dune-page-web-avec-float",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-html-html": {
+      "title": "Prototype 1 - HTML",
+      "content"	 : "Prototype 1 : HTMLDans le prototype 1, nous allons réaliser une page web en utilisant les techniques suivantes :  La syntaxe de base du langage HTML : structure d’un document HTML valide;  l’utilisation des éléments HTML : paragraphe, liste et image;  L’utilisation des balise HTML sémantiqueVous pouvez réaliser ce travail en deux étapes :  Réalisation d’un exemple pratique pour apprendre chaque technique en se basant sur l’auto-formation.  Regrouper ce que nous allons apprendre dans un seul exemple.",
+      "url": "/html5-css3/page-hommage-html.html",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#technique-1--syntaxe-de-base-du-langage-html": {
+      "title": "Technique 1 : syntaxe de base du langage HTML  (Prototype 1 - HTML)",
+      "content"	 : "Technique 1 : syntaxe de base du langage HTMLl’objectif est d’abord, d’apprendre la syntaxe de base du langage HTML et la structure d’un document HTML valide. Ensuite, vous essayer de réaliser un exemple pratique qui regroupe ce que vous avez appris.Auto-formation  Élément, balise et attribut  Document HTML valideExemple pratique",
+      "url": "/html5-css3/page-hommage-html.html#technique-1--syntaxe-de-base-du-langage-html",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#technique-2--paragraphe-liste-et-image": {
+      "title": "Technique 2 : paragraphe, liste et image  (Prototype 1 - HTML)",
+      "content"	 : "Technique 2 : paragraphe, liste et imageAuto-formationExemple pratique",
+      "url": "/html5-css3/page-hommage-html.html#technique-2--paragraphe-liste-et-image",
+      "author": "",
+      "categories": "projet1"
+    },
+"page-hommage-html-html#technique-3--html-sémantique": {
+      "title": "Technique 3 : HTML sémantique  (Prototype 1 - HTML)",
+      "content"	 : "Technique 3 : HTML sémantiqueAuto-formationExemple pratique",
+      "url": "/html5-css3/page-hommage-html.html#technique-3--html-sémantique",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-css-html": {
+      "title": "Prototype 2 - CSS",
+      "content"	 : "Prototype 3 : CSS",
+      "url": "/html5-css3/page-hommage-css.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-s-c3-a9mantique-normalize-html": {
+      "title": "P3 - Sémantique et Normalize",
+      "content"	 : "Prototype 3 : HTML sémantique et normalize CSS",
+      "url": "/html5-css3/page-hommage-s%C3%A9mantique-normalize.html",
+      "author": "",
+      "categories": "projet1"
+    }
+,
+"page-hommage-r-c3-a9alisation-html": {
+      "title": "Réalisation",
+      "content"	 : "Réalisation",
+      "url": "/html5-css3/page-hommage-r%C3%A9alisation.html",
+      "author": "",
+      "categories": "projet1"
+    }
+
+
+}

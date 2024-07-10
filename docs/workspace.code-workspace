@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "./_chapitres"
+		},
+		{
+			"path": "./_parties"
+		},
+		{
+			"path": "./images"
+		}
+	],
+	"settings": {}
+}
