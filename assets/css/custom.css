@@ -45,7 +45,7 @@ em{
  
 .content img {
    
-    max-height: 400px;
+    /* max-height: 400px; */
     margin-left: auto;
     margin-right: auto;
     display: block;
