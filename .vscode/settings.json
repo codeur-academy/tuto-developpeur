@@ -1,0 +1,33 @@
+{
+    "files.exclude": {
+        "workspace.code-workspace": true,
+        "workspace-all.code-workspace": true,
+        "style.css": true,
+        "style-rtl.css": true,
+        "serve.ps1": true,
+        "search.json": true,
+        "plan-formation.html": true,
+        "index.md": true,
+        "Gemfile.lock": true,
+        "Gemfile": true,
+        "ebook.html": true,
+        "canvas.jpg": true,
+        "build.ps1": true,
+        "favicon.png": true,
+        "boom.css": true,
+        "404.html": true,
+        ".gitignore": true,
+        "_config.yml": true,
+        "_config.dev.yml": true,
+        "vendor": true,
+        "assets": true,
+        ".vscode": true,
+        "_docs_development": true,
+        "_includes": true,
+        "_layouts": true,
+        "_posts": true,
+        "_sass": true,
+        "_sections": true,
+        "docs": true
+    }
+}
