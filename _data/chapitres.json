@@ -1,0 +1,274 @@
+[
+    {
+      "titre_fr": "HTML HOME",
+      "titre_an": "HTML HOME",
+      "reference": "html-home",
+      "reference_categorie": "Introduction"
+    },
+    {
+      "titre_fr": "Introduction au HTML",
+      "titre_an": "Introduction to HTML",
+      "reference": "introduction-to-html",
+      "reference_categorie": "Introduction"
+    },
+    {
+      "titre_fr": "Éditeurs HTML",
+      "titre_an": "HTML Editors",
+      "reference": "html-editors",
+      "reference_categorie": "Introduction"
+    },
+    {
+      "titre_fr": "HTML de base",
+      "titre_an": "Basic HTML",
+      "reference": "basic-html",
+      "reference_categorie": "Structure de base"
+    },
+    {
+      "titre_fr": "Éléments HTML",
+      "titre_an": "HTML Elements",
+      "reference": "html-elements",
+      "reference_categorie": "Structure de base"
+    },
+    {
+      "titre_fr": "Attributs HTML",
+      "titre_an": "HTML Attributes",
+      "reference": "html-attributes",
+      "reference_categorie": "Structure de base"
+    },
+    {
+      "titre_fr": "En-têtes HTML",
+      "titre_an": "HTML Headings",
+      "reference": "html-headings",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Paragraphes HTML",
+      "titre_an": "HTML Paragraphs",
+      "reference": "html-paragraphs",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Tableaux HTML",
+      "titre_an": "HTML Tables",
+      "reference": "html-tables",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Listes HTML",
+      "titre_an": "HTML Lists",
+      "reference": "html-lists",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Éléments HTML bloc et inline",
+      "titre_an": "HTML Block and Inline Elements",
+      "reference": "html-block-and-inline-elements",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Div HTML",
+      "titre_an": "HTML Div",
+      "reference": "html-div",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Classes HTML",
+      "titre_an": "HTML Classes",
+      "reference": "html-classes",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "ID HTML",
+      "titre_an": "HTML ID",
+      "reference": "html-id",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Sémantique HTML",
+      "titre_an": "HTML Semantics",
+      "reference": "html-semantics",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Mise en page HTML",
+      "titre_an": "HTML Layout",
+      "reference": "html-layout",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Design réactif HTML",
+      "titre_an": "Responsive HTML Design",
+      "reference": "responsive-html-design",
+      "reference_categorie": "Contenu et structure de la page"
+    }, 
+
+
+    {
+      "titre_fr": "Couleurs HTML",
+      "titre_an": "HTML Colors",
+      "reference": "html-colors",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Liens HTML",
+      "titre_an": "HTML Links",
+      "reference": "html-links",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Images HTML",
+      "titre_an": "HTML Images",
+      "reference": "html-images",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Formulaires HTML",
+      "titre_an": "HTML Forms",
+      "reference": "html-forms",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Frames HTML",
+      "titre_an": "HTML Frames",
+      "reference": "html-frames",
+      "reference_categorie": "Contenu et structure de la page"
+    },
+    {
+      "titre_fr": "Introduction au CSS",
+      "titre_an": "Introduction to CSS",
+      "reference": "introduction-to-css",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Sélecteurs CSS",
+      "titre_an": "CSS Selectors",
+      "reference": "css-selectors",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Propriétés CSS",
+      "titre_an": "CSS Properties",
+      "reference": "css-properties",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Mise en page CSS",
+      "titre_an": "CSS Layout",
+      "reference": "css-layout",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Typographie CSS",
+      "titre_an": "CSS Typography",
+      "reference": "css-typography",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Couleurs CSS",
+      "titre_an": "CSS Colors",
+      "reference": "css-colors",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Arrière-plans CSS",
+      "titre_an": "CSS Backgrounds",
+      "reference": "css-backgrounds",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Bordures CSS",
+      "titre_an": "CSS Borders",
+      "reference": "css-borders",
+      "reference_categorie": "CSS"
+    },{
+      "titre_fr": "Marges et paddings CSS",
+      "titre_an": "CSS Margins and Padding",
+      "reference": "css-margins-and-padding",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Positionnement CSS",
+      "titre_an": "CSS Positioning",
+      "reference": "css-positioning",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Animations CSS",
+      "titre_an": "CSS Animations",
+      "reference": "css-animations",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Transitions CSS",
+      "titre_an": "CSS Transitions",
+      "reference": "css-transitions",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Pseudo-éléments CSS",
+      "titre_an": "CSS Pseudo-elements",
+      "reference": "css-pseudo-elements",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Médias CSS",
+      "titre_an": "CSS Media Queries",
+      "reference": "css-media-queries",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Boîtes flexibles CSS",
+      "titre_an": "CSS Flexbox",
+      "reference": "css-flexbox",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Grillage CSS",
+      "titre_an": "CSS Grid",
+      "reference": "css-grid",
+      "reference_categorie": "CSS"
+    },
+    {
+      "titre_fr": "Accessibilité HTML",
+      "titre_an": "HTML Accessibility",
+      "reference": "html-accessibility",
+      "reference_categorie": "Accessibilité"
+    },
+    {
+      "titre_fr": "Sécurité Web",
+      "titre_an": "Web Security",
+      "reference": "web-security",
+      "reference_categorie": "Sécurité"
+    },
+    {
+      "titre_fr": "Optimisation des performances Web",
+      "titre_an": "Web Performance Optimization",
+      "reference": "web-performance-optimization",
+      "reference_categorie": "Performance"
+    },
+    {
+      "titre_fr": "Outils de développement Web",
+      "titre_an": "Web Development Tools",
+      "reference": "web-development-tools",
+      "reference_categorie": "Outils"
+    },
+    {
+      "titre_fr": "Déploiement d'un site Web",
+      "titre_an": "Deploying a Website",
+      "reference": "deploying-a-website",
+      "reference_categorie": "Déploiement"
+    },
+    {
+      "titre_fr": "reference HTML",
+      "titre_an": "HTML Reference",
+      "reference": "html-reference",
+      "reference_categorie": "reference"
+    },
+    {
+      "titre_fr": "reference CSS",
+      "titre_an": "CSS Reference",
+      "reference": "css-reference",
+      "reference_categorie": "reference"
+    }
+]
+   

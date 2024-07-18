@@ -22,12 +22,10 @@
         "vendor": true,
         "assets": true,
         ".vscode": true,
-        "_docs_development": true,
         "_includes": true,
         "_layouts": true,
         "_posts": true,
         "_sass": true,
-        "_sections": true,
-        "docs": true
+        "_sections": true
     }
 }

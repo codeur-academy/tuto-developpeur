@@ -1,1 +1,1 @@
-Sitemap: https://codeur-academy.com/html5-css3/sitemap.xml
+Sitemap: https://codeur-academy.com/tuto-developpeur/sitemap.xml

@@ -1,0 +1,478 @@
+{
+    "html_tutorial": {
+      "introduction": {
+        "chapters": [
+          {
+            "en": "HTML HOME",
+            "fr": "HTML HOME"
+          },
+          {
+            "en": "HTML Introduction",
+            "fr": "Introduction au HTML"
+          },
+          {
+            "en": "HTML Editors",
+            "fr": "Éditeurs HTML"
+          }
+        ]
+      },
+      "basic_structure": {
+        "chapters": [
+          {
+            "en": "HTML Basic",
+            "fr": "HTML de base"
+          },
+          {
+            "en": "HTML Elements",
+            "fr": "Éléments HTML"
+          },
+          {
+            "en": "HTML Attributes",
+            "fr": "Attributs HTML"
+          }
+        ]
+      },
+      "page_content_structure": {
+        "chapters": [
+          {
+            "en": "HTML Headings",
+            "fr": "En-têtes HTML"
+          },
+          {
+            "en": "HTML Paragraphs",
+            "fr": "Paragraphes HTML"
+          },
+          {
+            "en": "HTML Tables",
+            "fr": "Tableaux HTML"
+          },
+          {
+            "en": "HTML Lists",
+            "fr": "Listes HTML"
+          },
+          {
+            "en": "HTML Block & Inline Elements",
+            "fr": "Éléments HTML bloc et inline"
+          },
+          {
+            "en": "HTML Div",
+            "fr": "Div HTML"
+          },
+          {
+            "en": "HTML Classes",
+            "fr": "Classes HTML"
+          },
+          {
+            "en": "HTML Id",
+            "fr": "ID HTML"
+          },
+          {
+            "en": "HTML Semantics",
+            "fr": "Sémantique HTML"
+          },
+          {
+            "en": "HTML Layout",
+            "fr": "Mise en page HTML"
+          },
+          {
+            "en": "HTML Responsive Design",
+            "fr": "Design réactif HTML"
+          }
+        ]
+      },
+      "visuals_multimedia": {
+        "chapters": [
+          {
+            "en": "HTML Colors",
+            "fr": "Couleurs HTML"
+          },
+          {
+            "en": "HTML Images",
+            "fr": "Images HTML"
+          },
+          {
+            "en": "HTML Favicon",
+            "fr": "Favicon HTML"
+          },
+          {
+            "en": "HTML Canvas",
+            "fr": "Canvas HTML"
+          },
+          {
+            "en": "HTML SVG",
+            "fr": "SVG HTML"
+          },
+          {
+            "en": "HTML Media",
+            "fr": "Média HTML"
+          },
+          {
+            "en": "HTML Video",
+            "fr": "Vidéo HTML"
+          },
+          {
+            "en": "HTML Audio",
+            "fr": "Audio HTML"
+          },
+          {
+            "en": "HTML YouTube",
+            "fr": "YouTube HTML"
+          }
+        ]
+      },
+      "interactivity": {
+        "chapters": [
+          {
+            "en": "HTML Links",
+            "fr": "Liens HTML"
+          },
+          {
+            "en": "HTML Forms",
+            "fr": "Formulaires HTML"
+          },
+          {
+            "en": "HTML Iframes",
+            "fr": "Iframes HTML"
+          },
+          {
+            "en": "HTML JavaScript",
+            "fr": "JavaScript HTML"
+          }
+        ],
+        "subchapters": {
+          "html_forms": {
+            "chapters": [
+              {
+                "en": "HTML Form Attributes",
+                "fr": "Attributs de formulaire HTML"
+              },
+              {
+                "en": "HTML Form Elements",
+                "fr": "Éléments de formulaire HTML"
+              },
+              {
+                "en": "HTML Input Types",
+                "fr": "Types d'entrée HTML"
+              },
+              {
+                "en": "HTML Input Attributes",
+                "fr": "Attributs d'
+  
+                {
+  "html_tutorial": {
+    "introduction": {
+      "chapters": [
+        {
+          "en": "HTML HOME",
+          "fr": "HTML HOME"
+        },
+        {
+          "en": "HTML Introduction",
+          "fr": "Introduction au HTML"
+        },
+        {
+          "en": "HTML Editors",
+          "fr": "Éditeurs HTML"
+        }
+      ]
+    },
+    "basic_structure": {
+      "chapters": [
+        {
+          "en": "HTML Basic",
+          "fr": "HTML de base"
+        },
+        {
+          "en": "HTML Elements",
+          "fr": "Éléments HTML"
+        },
+        {
+          "en": "HTML Attributes",
+          "fr": "Attributs HTML"
+        }
+      ]
+    },
+    "page_content_structure": {
+      "chapters": [
+        {
+          "en": "HTML Headings",
+          "fr": "En-têtes HTML"
+        },
+        {
+          "en": "HTML Paragraphs",
+          "fr": "Paragraphes HTML"
+        },
+        {
+          "en": "HTML Tables",
+          "fr": "Tableaux HTML"
+        },
+        {
+          "en": "HTML Lists",
+          "fr": "Listes HTML"
+        },
+        {
+          "en": "HTML Block & Inline Elements",
+          "fr": "Éléments HTML bloc et inline"
+        },
+        {
+          "en": "HTML Div",
+          "fr": "Div HTML"
+        },
+        {
+          "en": "HTML Classes",
+          "fr": "Classes HTML"
+        },
+        {
+          "en": "HTML Id",
+          "fr": "ID HTML"
+        },
+        {
+          "en": "HTML Semantics",
+          "fr": "Sémantique HTML"
+        },
+        {
+          "en": "HTML Layout",
+          "fr": "Mise en page HTML"
+        },
+        {
+          "en": "HTML Responsive Design",
+          "fr": "Design réactif HTML"
+        }
+      ]
+    },
+    "visuals_multimedia": {
+      "chapters": [
+        {
+          "en": "HTML Colors",
+          "fr": "Couleurs HTML"
+        },
+        {
+          "en": "HTML Images",
+          "fr": "Images HTML"
+        },
+        {
+          "en": "HTML Favicon",
+          "fr": "Favicon HTML"
+        },
+        {
+          "en": "HTML Canvas",
+          "fr": "Canvas HTML"
+        },
+        {
+          "en": "HTML SVG",
+          "fr": "SVG HTML"
+        },
+        {
+          "en": "HTML Media",
+          "fr": "Média HTML"
+        },
+        {
+          "en": "HTML Video",
+          "fr": "Vidéo HTML"
+        },
+        {
+          "en": "HTML Audio",
+          "fr": "Audio HTML"
+        },
+        {
+          "en": "HTML YouTube",
+          "fr": "YouTube HTML"
+        }
+      ]
+    },
+    "interactivity": {
+      "chapters": [
+        {
+          "en": "HTML Links",
+          "fr": "Liens HTML"
+        },
+        {
+          "en": "HTML Forms",
+          "fr": "Formulaires HTML"
+        },
+        {
+          "en": "HTML Iframes",
+          "fr": "Iframes HTML"
+        },
+        {
+          "en": "HTML JavaScript",
+          "fr": "JavaScript HTML"
+        }
+      ],
+      "subchapters": {
+        "html_forms": {
+          "chapters": [
+            {
+              "en": "HTML Form Attributes",
+              "fr": "Attributs de formulaire HTML"
+            },
+            {
+              "en": "HTML Form Elements",
+              "fr": "Éléments de formulaire HTML"
+            },
+            {
+              "en": "HTML Input Types",
+              "fr": "Types d'entrée HTML"
+            },
+            {
+              "en": "HTML Input Attributes",
+              
+{
+  "html_tutorial": {
+    "introduction": {
+      "chapters": [
+        {
+          "en": "HTML HOME",
+          "fr": "HTML HOME"
+        },
+        {
+          "en": "HTML Introduction",
+          "fr": "Introduction au HTML"
+        },
+        {
+          "en": "HTML Editors",
+          "fr": "Éditeurs HTML"
+        }
+      ]
+    },
+    "basic_structure": {
+      "chapters": [
+        {
+          "en": "HTML Basic",
+          "fr": "HTML de base"
+        },
+        {
+          "en": "HTML Elements",
+          "fr": "Éléments HTML"
+        },
+        {
+          "en": "HTML Attributes",
+          "fr": "Attributs HTML"
+        }
+      ]
+    },
+    "page_content_structure": {
+      "chapters": [
+        {
+          "en": "HTML Headings",
+          "fr": "En-têtes HTML"
+        },
+        {
+          "en": "HTML Paragraphs",
+          "fr": "Paragraphes HTML"
+        },
+        {
+          "en": "HTML Tables",
+          "fr": "Tableaux HTML"
+        },
+        {
+          "en": "HTML Lists",
+          "fr": "Listes HTML"
+        },
+        {
+          "en": "HTML Block & Inline Elements",
+          "fr": "Éléments HTML bloc et inline"
+        },
+        {
+          "en": "HTML Div",
+          "fr": "Div HTML"
+        },
+        {
+          "en": "HTML Classes",
+          "fr": "Classes HTML"
+        },
+        {
+          "en": "HTML Id",
+          "fr": "ID HTML"
+        },
+        {
+          "en": "HTML Semantics",
+          "fr": "Sémantique HTML"
+        },
+        {
+          "en": "HTML Layout",
+          "fr": "Mise en page HTML"
+        },
+        {
+          "en": "HTML Responsive Design",
+          "fr": "Design réactif HTML"
+        }
+      ]
+    },
+    "visuals_multimedia": {
+      "chapters": [
+        {
+          "en": "HTML Colors",
+          "fr": "Couleurs HTML"
+        },
+        {
+          "en": "HTML Images",
+          "fr": "Images HTML"
+        },
+        {
+          "en": "HTML Favicon",
+          "fr": "Favicon HTML"
+        },
+        {
+          "en": "HTML Canvas",
+          "fr": "Canvas HTML"
+        },
+        {
+          "en": "HTML SVG",
+          "fr": "SVG HTML"
+        },
+        {
+          "en": "HTML Media",
+          "fr": "Média HTML"
+        },
+        {
+          "en": "HTML Video",
+          "fr": "Vidéo HTML"
+        },
+        {
+          "en": "HTML Audio",
+          "fr": "Audio HTML"
+        },
+        {
+          "en": "HTML YouTube",
+          "fr": "YouTube HTML"
+        }
+      ]
+    },
+    "interactivity": {
+      "chapters": [
+        {
+          "en": "HTML Links",
+          "fr": "Liens HTML"
+        },
+        {
+          "en": "HTML Forms",
+          "fr": "Formulaires HTML"
+        },
+        {
+          "en": "HTML Iframes",
+          "fr": "Iframes HTML"
+        },
+        {
+          "en": "HTML JavaScript",
+          "fr": "JavaScript HTML"
+        }
+      ],
+      "subchapters": {
+        "html_forms": {
+          "chapters": [
+            {
+              "en": "HTML Form Attributes",
+              "fr": "Attributs de formulaire HTML"
+            },
+            {
+              "en": "HTML Form Elements",
+              "fr": "Éléments de formulaire HTML"
+            },
+            {
+              "en": "HTML Input Types",
+              "fr": "Types d'entrée HTML"
+            },
+            {
+              "en": "HTML Input Attributes",
+              "fr": "Attributs d'entrée HTML"

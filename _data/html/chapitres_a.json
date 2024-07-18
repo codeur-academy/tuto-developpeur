@@ -1,0 +1,54 @@
+{
+  "chapitres": [
+    "HTML HOME",
+    "Introduction au HTML",
+    "Éditeurs HTML",
+    "HTML de base",
+    "Éléments HTML",
+    "Attributs HTML",
+    "En-têtes HTML",
+    "Paragraphes HTML",
+    "Tableaux HTML",
+    "Listes HTML",
+    "Éléments HTML bloc et inline",
+    "Div HTML",
+    "Classes HTML",
+    "ID HTML",
+    "Sémantique HTML",
+    "Mise en page HTML",
+    "Design réactif HTML",
+
+
+    "Couleurs HTML",
+    "Liens HTML",
+    "Images HTML",
+    "Formulaires HTML",
+    "Frames HTML",
+    "Introduction au CSS",
+    "Sélecteurs CSS",
+    "Propriétés CSS",
+    "Mise en page CSS",
+    "Typographie CSS",
+    "Couleurs CSS",
+    "Arrière-plans CSS",
+    "Bordures CSS",
+
+
+    
+    "Marges et paddings CSS",
+    "Positionnement CSS",
+    "Animations CSS",
+    "Transitions CSS",
+    "Pseudo-éléments CSS",
+    "Médias CSS",
+    "Boîtes flexibles CSS",
+    "Grillage CSS",
+    "Accessibilité HTML",
+    "Sécurité Web",
+    "Optimisation des performances Web",
+    "Outils de développement Web",
+    "Déploiement d'un site Web",
+    "Référence HTML",
+    "Référence CSS"
+  ]
+}
