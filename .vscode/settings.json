@@ -22,7 +22,6 @@
         "vendor": true,
         "assets": true,
         ".vscode": true,
-        "_includes": true,
         "_layouts": true,
         "_posts": true,
         "_sass": true,
