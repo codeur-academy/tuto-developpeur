@@ -19,7 +19,11 @@ width: 90%;"  src="{{site.baseurl}}/images/formation-en-video.png" alt="devenir-
     {%- assign chapter_number = 1 -%}
     {%- assign parties = site.parties | where: "in_book" , true -%}
     {% for partie in parties %}
+
     {%- assign chapitres = site.chapitres | where: "categories", partie.slug | sort: "order"  -%}
+   
+    {% assign chapitres = chapitres | concat: site.data.apprendre-html %}
+
     <li class="chapter-item expanded affix"></li>
     <li class="part-title"> {{partie.title}}</li>
         {% for chapitre in chapitres %}

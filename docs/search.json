@@ -214,6 +214,14 @@
       "categories": "apprendre-css"
     }
 ,
+"css-selectors-html": {
+      "title": "css-selectors",
+      "content"	 : "css-selectors",
+      "url": "/tuto-developpeur/css-selectors.html",
+      "author": "",
+      "categories": "apprendre-css"
+    }
+,
 "apprendre-php-html": {
       "title": "apprendre-php",
       "content"	 : "",

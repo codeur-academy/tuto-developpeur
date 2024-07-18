@@ -22,7 +22,7 @@ module ChapitreGenerator
 
 
         dir = '.'
-        chapitres = site.data["chapitres"] || {}
+        chapitres = site.data["apprendre-html"] || {}
 
         chapitres.each do |chapitre|
 
@@ -36,9 +36,11 @@ module ChapitreGenerator
             # puts reference
             name = reference + ".html"
             site.pages << Jekyll::PageWithoutAFile.new(site, site.source, dir, name).tap do |file|
-                file.content = chapitre["titre_francais"]
+                file.content = chapitre["title"]
+
                 file.data.merge!(
-                    "layout"     => "home",
+                    "layout"     => "chapitre_autoformation",
+                    "title" => chapitre["title"] ,
                     "sitemap"    => false,
                 )
                 file.output
