@@ -4,7 +4,6 @@
         "workspace-all.code-workspace": true,
         "style.css": true,
         "style-rtl.css": true,
-        "serve.ps1": true,
         "search.json": true,
         "plan-formation.html": true,
         "index.md": true,
@@ -17,14 +16,14 @@
         "boom.css": true,
         "404.html": true,
         ".gitignore": true,
-        "_config.yml": true,
         "_config.dev.yml": true,
         "vendor": true,
         "assets": true,
         ".vscode": true,
-        "_layouts": true,
         "_posts": true,
         "_sass": true,
-        "_sections": true
+        "_sections": true,
+        "_docs_development": true,
+        "docs": true
     }
 }

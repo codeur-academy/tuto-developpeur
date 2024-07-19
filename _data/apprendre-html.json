@@ -3,9 +3,7 @@
       "title": "HTML HOME",
       "titre_an": "HTML HOME",
       "reference": "html-home",
-      "reference_categorie": "Introduction",
-      "categories" : ["découvrir-langages-web"],
-      "url" : "/html-home"
+      "reference_categorie": "Introduction"
     },
     {
       "title": "Introduction au HTML",

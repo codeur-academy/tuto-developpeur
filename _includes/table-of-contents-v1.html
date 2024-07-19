@@ -19,24 +19,24 @@ width: 90%;"  src="{{site.baseurl}}/images/formation-en-video.png" alt="devenir-
 
 <ol class="chapter">
     {%- assign chapter_number = 1 -%}
-    {%- assign parties = site.parties | where: "in_book" , true -%}
-    {% for partie in parties %}
+    {%- assign parts = site.parts | where: "in_book" , true -%}
+    {% for part in parts %}
 
-    {%- assign chapitres = site.chapitres | where: "categories", partie.slug | sort: "order"  -%}
+    {%- assign chapters = site.chapters | where: "categories", part.slug | sort: "order"  -%}
    
-    {% assign chapitres = chapitres | concat: site.data.apprendre-html %}
+    {% assign chapters = chapters | concat: site.data.apprendre-html %}
 
     <li class="chapter-item expanded affix"></li>
-    <li class="part-title"> {{partie.title}}</li>
-        {% for chapitre in chapitres %}
-        {%- if chapitre.categories contains partie.slug  -%}
+    <li class="part-title"> {{part.title}}</li>
+        {% for chapter in chapters %}
+        {%- if chapter.categories contains part.slug  -%}
     <li class="chapter-item expanded">
-        <a href="{{site.baseurl}}{{chapitre.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
+        <a href="{{site.baseurl}}{{chapter.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
             <strong aria-hidden="true">{{chapter_number}}.</strong>  
-            {%- if chapitre.title_in_part -%}
-            {{ chapitre.title_in_part | escape }}
+            {%- if chapter.title_in_part -%}
+            {{ chapter.title_in_part | escape }}
             {%- else -%}
-            {{ chapitre.title | escape }}
+            {{ chapter.title | escape }}
             {%- endif -%}
         </a>
         {%- if site.toc.enabled -%}

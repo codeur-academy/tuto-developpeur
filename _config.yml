@@ -20,15 +20,24 @@ toc:
 
 # Collections
 collections:
-  sections:
+  resources:
     output: true
-    permalink: /:collection/:name/
-  parties:
+    permalink: /:resources/:title/
+  tutorials:
     output: true
-    permalink: /parties/:title
-  chapitres:
+    permalink: /:tutorials/:title/
+  parts:
+    output: true
+    permalink: /parts/:title
+  chapters:
     output: true
     permalink: /:title.html
+  self_learnings:
+    output: true
+    permalink: /:self_learnings/:title/
+  concepts:
+    output: true
+    permalink: /:concepts/:title/
 
 # Authors
 authors:

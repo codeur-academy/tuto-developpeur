@@ -1,9 +1,9 @@
-module ChapitreGenerator
+module ChapterGenerator
     class MyPageGenerator < Jekyll::Generator
 
       def chapter_exists_by_reference?(site, reference)
-        # Access chapters using site.collections["chapitres"].docs
-        chapters = site.collections["chapitres"].docs
+        # Access chapters using site.collections["chapters"].docs
+        chapters = site.collections["chapters"].docs
         
         # Use `any?` with a corrected condition
         chapters.any? { 
@@ -14,19 +14,19 @@ module ChapitreGenerator
 
       def generate(site)
 
-        # Generation de chapitre s'il n'existe pas dans la collections chapitres
+        # Generation de chapter s'il n'existe pas dans la collections chapters
 
         # if self.chapter_exists_by_reference?(site,"Introduction")
-        #   puts "Chapitre introduction existe"
+        #   puts "Chapter introduction existe"
         # end
 
 
         dir = '.'
-        chapitres = site.data["apprendre-html"] || {}
+        chapters = site.data["apprendre-html"] || {}
 
-        chapitres.each do |chapitre|
+        chapters.each do |chapter|
 
-            reference =  chapitre["reference"]
+            reference =  chapter["reference"]
 
             if self.chapter_exists_by_reference?(site,reference)
               # puts reference + " existe"
@@ -36,11 +36,11 @@ module ChapitreGenerator
             # puts reference
             name = reference + ".html"
             site.pages << Jekyll::PageWithoutAFile.new(site, site.source, dir, name).tap do |file|
-                file.content = chapitre["title"]
+                file.content = chapter["title"]
 
                 file.data.merge!(
-                    "layout"     => "chapitre_autoformation",
-                    "title" => chapitre["title"] ,
+                    "layout"     => "chapter_autoformation",
+                    "title" => chapter["title"] ,
                     "sitemap"    => false,
                 )
                 file.output

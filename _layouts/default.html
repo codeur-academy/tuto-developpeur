@@ -5,8 +5,8 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        {% assign partie = site.parties | where: "slug", page.categories[0] | first -%}
-        <title>{{page.title}} | {{ partie.title }} - {{site.title}}</title>
+        {% assign part = site.parts | where: "slug", page.categories[0] | first -%}
+        <title>{{page.title}} | {{ part.title }} - {{site.title}}</title>
         {% seo title=false  %}
         <link rel="shortcut icon" href="{{site.baseurl}}/favicon.png">
         <link rel="stylesheet" href="{{site.baseurl}}/assets/css/variables.css">

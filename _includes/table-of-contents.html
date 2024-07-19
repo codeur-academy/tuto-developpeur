@@ -8,22 +8,22 @@
  
     <ol class="chapter">
         {%- assign chapter_number = 1 -%}
-        {%- assign parties = site.parties | where: "in_book" , true -%}
-        {% for partie in site.data["collection_menus"] %}
+        {%- assign parts = site.parts | where: "in_book" , true -%}
+        {% for part in site.data["collection_menus"] %}
 
-        {%- assign chapitres = partie[1]  -%}
+        {%- assign chapters = part[1]  -%}
        
      
         <li class="chapter-item expanded affix"></li>
-        <li class="part-title"> {{partie[0]}}</li>
-            {% for chapitre in chapitres %}
+        <li class="part-title"> {{part[0]}}</li>
+            {% for chapter in chapters %}
         <li class="chapter-item expanded">
-            <a href="{{site.baseurl}}{{chapitre.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
+            <a href="{{site.baseurl}}{{chapter.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
                 <strong aria-hidden="true">{{chapter_number}}.</strong>  
-                {%- if chapitre.title_in_part -%}
-                {{ chapitre.title_in_part | escape }}
+                {%- if chapter.title_in_part -%}
+                {{ chapter.title_in_part | escape }}
                 {%- else -%}
-                {{ chapitre.label | escape }}
+                {{ chapter.label | escape }}
                 {%- endif -%}
             </a>
         </li>  
