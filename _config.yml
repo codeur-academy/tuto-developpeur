@@ -23,6 +23,8 @@ collections:
   resources:
     output: true
     permalink: /resources/:title/
+  resource_category:
+    output: false
   tutorials:
     output: true
     permalink: /tutorials/:path/
@@ -38,10 +40,9 @@ collections:
   concepts:
     output: true
     permalink: /concepts/:title/
-  concept_category:
+  concept_categories:
     output: false
-  resource_category:
-    output: false
+
 
 # Authors
 authors:

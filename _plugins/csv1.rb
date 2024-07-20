@@ -4,7 +4,6 @@ require 'pp'
 require 'jekyll'
 require 'psych'
 require 'roo'
-# require 'roo-xls'
 
 module Jekyll
   module Csv1
@@ -18,13 +17,18 @@ module Jekyll
 
       def populate(site)
 
+        puts "Gneration des collections"
+
         file_name = '_data/collections.xlsx'
         workbook = Roo::Spreadsheet.open(file_name)
 
         # Loop through worksheets
         workbook.each_with_pagename  do |sheet_name, worksheet|
+      
+        # new if sheet is empty
+        is_worksheet_empty = worksheet.last_row == 0 ||  worksheet.last_row == nil
+        next if is_worksheet_empty 
 
-  
         collection_name = sheet_name
         titles = worksheet.row(1).compact 
         data = worksheet.parse(headers: true)
@@ -33,18 +37,25 @@ module Jekyll
 
         data.each do |item|
 
+          directory = item["directory"] || ""
+          # pp "directory"
+          # pp directory
           # Convert Roo::Link to string
           item.each do |key, value|
             if value.is_a?(Roo::Link)
               item[key] = value.href  # Access and store the link's href (URL)
             end
           end
-          pp item["reference"].class
-          pp item["link"].class
-
           
-          path = File.join(site.source, "_#{collection_name}", "#{Jekyll::Utils.slugify(item["reference"])}.md")
+          full_directory = File.join(site.source, "_#{collection_name}", directory)
+          path = File.join(site.source, "_#{collection_name}", directory, "#{Jekyll::Utils.slugify(item["reference"])}.md")
+         
+          create_directory_path(full_directory)
         
+          # Créer les dossier s'il nexiste pas 
+
+
+
           # Add layout attribut if collection layout exist
           if site.layouts.key?(collection_name)
             item = item.merge({'layout' => collection_name})
@@ -54,27 +65,14 @@ module Jekyll
           if File.exist?(path) 
             update_data_if_not_updated(path,item)
           else
+            puts "create path" 
+            pp path
             create_file_if_not_exist(path,item)
           end
         end
         end
 
-        # csv_data.each do |item|
-
-        #   path = File.join(site.source, "_#{collection_name}", "#{Jekyll::Utils.slugify(item[slug_field])}.md")
-        
-        #   # Add layout attribut if collection layout exist
-        #   if site.layouts.key?(collection_name)
-        #     item = item.merge({'layout' => collection_name})
-        #   end
-
-        #   if File.exist?(path) 
-        #     update_data_if_not_updated(path,item)
-        #   else
-        #     create_file_if_not_exist(path,item)
-        #   end
-      
-        # end
+       
 
       end
 
@@ -87,6 +85,17 @@ module Jekyll
             file.write(yaml_string)
             file.write("---\n")  # Add delimiters after content
           end
+        end
+      end
+
+      def create_directory_path(path)
+        # Convert path to Pathname object for easier manipulation
+        pathname = Pathname.new(path)
+      
+        # Check if the directory already exists
+        if !pathname.exist?
+          # Create the directory structure using mkpath (creates all missing parent directories)
+          pathname.mkpath
         end
       end
 
@@ -128,6 +137,11 @@ module Jekyll
           #  pp "changes_made:" + changes_made.to_s
 
           if changes_made
+
+            pp "change mode"
+
+            pp updated_front_matter
+            pp existing_front_matter
             # Combine updated front matter and document
             updated_content = Psych.dump(updated_front_matter) + "---\n" + (document ? document.to_s : "")
             

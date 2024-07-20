@@ -1,8 +1,9 @@
 ---
-reference: w3schools_html-tutorial
-title: HTML Forms
-title_en: HTML Forms
+reference: html-tutorial
+title: HTML Tutorial
+title_en: HTML Tutorial
 description:
-learning_order: 1
+learning_order: 2
 ressource: html-w3schools
+directory: html-w3schools
 ---

@@ -1,6 +1,6 @@
 ---
-layout: self_learning
+layout: self_learnings
 reference: apprendre-html
-title: apprendre-html
+title: Apprendre HTML
 description:
 ---
