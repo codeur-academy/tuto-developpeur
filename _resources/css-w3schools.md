@@ -1,5 +1,4 @@
 ---
-layout: ressource
 reference: css-w3schools
 title: Tutoriel CSS
 title_en: CSS Tutorial

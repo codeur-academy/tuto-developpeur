@@ -24,10 +24,7 @@ module Jekyll
         # Loop through worksheets
         workbook.each_with_pagename  do |sheet_name, worksheet|
 
-        pp sheet_name
-        pp worksheet
-
-
+  
         collection_name = sheet_name
         titles = worksheet.row(1).compact 
         data = worksheet.parse(headers: true)
@@ -35,7 +32,15 @@ module Jekyll
         data.shift
 
         data.each do |item|
-          # pp item
+
+          # Convert Roo::Link to string
+          item.each do |key, value|
+            if value.is_a?(Roo::Link)
+              item[key] = value.href  # Access and store the link's href (URL)
+            end
+          end
+          pp item["reference"].class
+          pp item["link"].class
 
           
           path = File.join(site.source, "_#{collection_name}", "#{Jekyll::Utils.slugify(item["reference"])}.md")
@@ -130,8 +135,6 @@ module Jekyll
             # Write the updated content to the file
             File.open(markdown_file_path, 'w') { |f| f.write(updated_content) }
             puts "Updated YAML front matter in #{markdown_file_path}"
-          else
-            puts "No changes to YAML front matter in #{markdown_file_path}"
           end
         else
           puts "Error: Markdown file #{markdown_file_path} does not exist."
