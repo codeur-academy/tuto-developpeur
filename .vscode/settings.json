@@ -23,7 +23,6 @@
         "_posts": true,
         "_sass": true,
         "_sections": true,
-        "_docs_development": true,
         "docs": true
     }
 }

@@ -22,10 +22,10 @@ toc:
 collections:
   resources:
     output: true
-    permalink: /:resources/:title/
+    permalink: /resources/:title/
   tutorials:
     output: true
-    permalink: /:tutorials/:title/
+    permalink: /tutorials/:path/
   parts:
     output: true
     permalink: /parts/:title
@@ -34,10 +34,14 @@ collections:
     permalink: /:title.html
   self_learnings:
     output: true
-    permalink: /:self_learnings/:title/
+    permalink: /self_learnings/:title/
   concepts:
     output: true
-    permalink: /:concepts/:title/
+    permalink: /concepts/:title/
+  concept_category:
+    output: false
+  resource_category:
+    output: false
 
 # Authors
 authors:

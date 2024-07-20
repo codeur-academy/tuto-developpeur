@@ -39,3 +39,9 @@ gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-archives", "~> 2.2"
 
 gem "jekyll-sitemap", "~> 1.4"
+
+
+gem 'csv'
+gem 'open-uri'
+# gem 'roo'
+gem 'roo-xls'

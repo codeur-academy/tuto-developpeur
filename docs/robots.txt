@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/tuto-developpeur/sitemap.xml
+Sitemap: https://codeur-academy.com/tuto-developpeur/sitemap.xml
