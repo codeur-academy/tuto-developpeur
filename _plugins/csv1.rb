@@ -65,8 +65,8 @@ module Jekyll
           if File.exist?(path) 
             update_data_if_not_updated(path,item)
           else
-            puts "create path" 
-            pp path
+            # puts "create path" 
+            # pp path
             create_file_if_not_exist(path,item)
           end
         end
@@ -138,10 +138,10 @@ module Jekyll
 
           if changes_made
 
-            pp "change mode"
+            # pp "change mode"
 
-            pp updated_front_matter
-            pp existing_front_matter
+            # pp updated_front_matter
+            # pp existing_front_matter
             # Combine updated front matter and document
             updated_content = Psych.dump(updated_front_matter) + "---\n" + (document ? document.to_s : "")
             

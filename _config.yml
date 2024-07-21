@@ -28,6 +28,9 @@ collections:
   tutorials:
     output: true
     permalink: /tutorials/:path/
+  modules:
+    output: true
+    permalink: /parts/:title
   parts:
     output: true
     permalink: /parts/:title
