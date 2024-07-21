@@ -19,27 +19,31 @@ module Jekyll
 
         puts "Gneration des collections"
 
+        # ouvrire le fichier excel
         file_name = '_data/collections.xlsx'
         workbook = Roo::Spreadsheet.open(file_name)
 
-        # Loop through worksheets
+
         workbook.each_with_pagename  do |sheet_name, worksheet|
       
-        # new if sheet is empty
+        # ne pas traiter la feuill s'il est vide
         is_worksheet_empty = worksheet.last_row == 0 ||  worksheet.last_row == nil
         next if is_worksheet_empty 
 
+        # trouver les donners de la feuill
         collection_name = sheet_name
         titles = worksheet.row(1).compact 
         data = worksheet.parse(headers: true)
-        # Delete titles
+        # Supprimer la première ligne qui représente les titre
         data.shift
 
+        # Pour chaque ligne de données
         data.each do |item|
 
+          # Chemin de l'enregistrement de fichier
           directory = item["directory"] || ""
-          # pp "directory"
-          # pp directory
+
+          # Solution de problème de lien Hypertexte
           # Convert Roo::Link to string
           item.each do |key, value|
             if value.is_a?(Roo::Link)
@@ -47,28 +51,26 @@ module Jekyll
             end
           end
           
-          full_directory = File.join(site.source, "_#{collection_name}", directory)
-          path = File.join(site.source, "_#{collection_name}", directory, "#{Jekyll::Utils.slugify(item["reference"])}.md")
          
+          # Chemin de fichier
+          path = file_path(site,collection_name,directory,item)
+
+          # Création des dossiers s'il n'exist pas 
+          full_directory = File.join(site.source, "_#{collection_name}", directory)
           create_directory_path(full_directory)
         
-          # Créer les dossier s'il nexiste pas 
-
-
-
           # Add layout attribut if collection layout exist
           if site.layouts.key?(collection_name)
             item = item.merge({'layout' => collection_name})
           end
 
-
+          # Création ou mettre de fichier
           if File.exist?(path) 
             update_data_if_not_updated(path,item)
           else
-            # puts "create path" 
-            # pp path
             create_file_if_not_exist(path,item)
           end
+
         end
         end
 
@@ -76,6 +78,22 @@ module Jekyll
 
       end
 
+      def file_path(site,collection_name,directory,item)
+
+        order = item.fetch("order",nil)
+
+        file_name = ""
+        file_name = "#{Jekyll::Utils.slugify(item["reference"])}.md"
+
+        # if order
+        #   file_name =  "#{order}.#{Jekyll::Utils.slugify(item["reference"])}.md" 
+        # else 
+        #   file_name = "#{Jekyll::Utils.slugify(item["reference"])}.md"
+        # end 
+
+        path = File.join(site.source, "_#{collection_name}", directory, "#{file_name}.md")
+        path
+      end
       def create_file_if_not_exist(path,data)
         yaml_string = Psych.dump(data)
 
@@ -112,17 +130,6 @@ module Jekyll
           front_matter_str = splided[1]
           document = splided[2]
 
-          # puts "front_matter_str"
-          # puts front_matter_str
-
-          # puts "document"
-          # puts document
-
-          # # puts "document"
-          # # puts document
-
-
-   
           # Parse existing front matter (if present)
           existing_front_matter = Psych.load(front_matter_str) if front_matter_str
           # pp "existing_front_matter"
