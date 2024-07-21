@@ -7,4 +7,5 @@ image:
 in_book: 'true'
 order: 0
 layout: parts
+module:
 ---

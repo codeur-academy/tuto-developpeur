@@ -91,7 +91,7 @@ module Jekyll
         #   file_name = "#{Jekyll::Utils.slugify(item["reference"])}.md"
         # end 
 
-        path = File.join(site.source, "_#{collection_name}", directory, "#{file_name}.md")
+        path = File.join(site.source, "_#{collection_name}", directory, "#{file_name}")
         path
       end
       def create_file_if_not_exist(path,data)

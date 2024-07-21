@@ -7,4 +7,5 @@ image: "../images/image.png"
 in_book: 'true'
 order: 6
 layout: parts
+module: création-bases-données-sql-mysql
 ---

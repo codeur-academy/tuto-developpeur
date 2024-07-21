@@ -8,4 +8,5 @@ image: "../images/image.png"
 in_book: 'true'
 order: 1
 layout: parts
+module: introduction-programmation-web
 ---

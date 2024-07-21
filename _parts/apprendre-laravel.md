@@ -7,4 +7,5 @@ image: "../images/image.png"
 in_book: 'true'
 order: 7
 layout: parts
+module: développement-applications-web-laravel
 ---
