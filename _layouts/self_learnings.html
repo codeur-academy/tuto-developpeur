@@ -1,7 +1,29 @@
 ---
-layout: chapter
+layout : chapters
 ---
 
 <h1>{{page.title}}</h1>
 
+
 {{content}}
+
+
+{% assign concept_categories = site.concept_categories | where: 'self_learning' , page.reference | sort: 'order' %}
+
+{% for concept_category in concept_categories  %}
+
+
+{% assign concepts = site.concepts | where: 'concept_categories' , concept_category.reference | sort: 'order' %}
+
+<h2>{{concept_category.title}}</h2>
+
+<ul>
+    {% for concept in concepts %}
+    <li>
+        <a href="{{site.baseurl}}{{concept.url}}"> {{concept.title}} </a>
+    </li>
+    {%- endfor -%}
+</ul>
+
+
+{%- endfor -%}
