@@ -90,6 +90,10 @@ kramdown:
     block:
       line_numbers: true
 
+
+exclude:
+  by_front_matter: !exclude
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -107,4 +111,5 @@ exclude:
   - EspaceTravail/
   - docs
   - README.md
+
 

@@ -7,7 +7,7 @@ module Jekyll
 
       def generate(site)
 
-        puts "Generate menu_items"
+        puts "plugun - génération de menu principale"
         #  collection = ["posts", #<Jekyll::Collection @label=posts docs=[]>]
         # pp site.collections
 

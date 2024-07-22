@@ -17,7 +17,7 @@ module Jekyll
 
       def populate(site)
 
-        puts "Gneration des collections"
+        puts "plugin : mettre à jour des collections"
 
         # ouvrire le fichier excel
         file_name = '_data/collections.xlsx'
