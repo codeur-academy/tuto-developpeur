@@ -3,16 +3,13 @@ require 'csv'
 require 'pp'
 require 'jekyll'
 require 'psych'
-require 'roo'
 
 module Jekyll
-  module Csv1
+  module LoadCollectionFromCsvFile
 
-    class CollectionFilesGenerator
-      attr_reader :conf
-
-      def initialize(conf)
-        @conf = conf
+    class FromCsvFile
+      
+      def initialize()
       end
 
       def populate(site)
@@ -20,24 +17,20 @@ module Jekyll
         puts "plugin : mettre à jour des collections"
 
         # ouvrire le fichier excel
-        file_name = '_data/collections.xlsx'
-        workbook = Roo::Spreadsheet.open(file_name)
+        base_url_sheet = url_menu_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
+        
+        menu_csv_data = get_all_collection_csv_files_if_notexist
 
+        menu_csv_data.each do |item|
+          collection_name = item[0]
+          update_data_to_files(site,collection_name,item)
+        end
+        
+    
+      end
 
-        workbook.each_with_pagename  do |sheet_name, worksheet|
-      
-        # ne pas traiter la feuill s'il est vide
-        is_worksheet_empty = worksheet.last_row == 0 ||  worksheet.last_row == nil
-        next if is_worksheet_empty 
+      def  update_data_to_files(site,data,collection_name)
 
-        # trouver les donners de la feuill
-        collection_name = sheet_name
-        titles = worksheet.row(1).compact 
-        data = worksheet.parse(headers: true)
-        # Supprimer la première ligne qui représente les titre
-        data.shift
-
-        # Pour chaque ligne de données
         data.each do |item|
 
           # Chemin de l'enregistrement de fichier
@@ -51,7 +44,7 @@ module Jekyll
             end
           end
           
-         
+        
           # Chemin de fichier
           path = file_path(site,collection_name,directory,item)
 
@@ -72,10 +65,6 @@ module Jekyll
           end
 
         end
-        end
-
-       
-
       end
 
       def file_path(site,collection_name,directory,item)
@@ -94,6 +83,7 @@ module Jekyll
         path = File.join(site.source, "_#{collection_name}", directory, "#{file_name}")
         path
       end
+
       def create_file_if_not_exist(path,data)
         yaml_string = Psych.dump(data)
 
@@ -163,6 +153,60 @@ module Jekyll
       end
 
 
+      def get_collection_csv_file(collection_name)
+        data_directory = "_data/collections"
+        sheet_name = collection_name
+        base_url_sheet = url_menu_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
+        url_sheet = base_url_sheet + sheet_name
+        csv_file_name = "#{data_directory}/#{sheet_name}.csv"
+        return if File.exist?(csv_file_name)
+        begin
+          URI.open(url_sheet) do |f|
+            File.open(csv_file_name, 'wb') do |local_file|
+              csv_string = f.read
+              local_file.write(csv_string)
+            end
+          end
+        rescue OpenURI::HTTPError => e
+          puts "Error downloading #{collection_name} CSV: #{e.message}"
+        rescue CSV::MalformedCSVError => e
+          puts "Error parsing #{collection_name} CSV: #{e.message}"
+        end
+      
+      end
+      
+      def get_all_collection_csv_files_if_notexist
+        data_directory = "_data/collections"
+        menu_csv_data = nil
+        base_url_sheet = url_menu_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
+        sheet_name = "menu"
+        url_sheet = base_url_sheet + sheet_name
+        csv_file_name = "#{data_directory}/#{sheet_name}.csv"
+      
+        csv_string = ""
+        if File.exist?(csv_file_name)
+          File.open(csv_file_name, "r") do |file|
+            csv_string = file.read
+          end
+        else
+          URI.open(url_sheet) do |f|
+            File.open(csv_file_name, 'wb') do |local_file|
+              csv_string = f.read
+              local_file.write(csv_string)
+            end
+          end
+        end
+      
+       
+        menu_csv_data = CSV.parse(csv_string)
+        menu_csv_data.shift
+        menu_csv_data.each do |row|
+          collection_name =  row[0]
+          get_collection_csv_file(collection_name)
+        end
+        return menu_csv_data
+      end
+
     end
 
     class Generator < ::Jekyll::Generator
@@ -172,7 +216,7 @@ module Jekyll
         # Return si le fichier excel n'existe pas dans la configuration
         # return unless site.config['csv']
 
-        CollectionFilesGenerator.new(nil).populate(site)
+        FromCsvFile.new().populate(site)
 
       end
     end
