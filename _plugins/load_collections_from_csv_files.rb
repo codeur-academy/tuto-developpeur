@@ -12,6 +12,15 @@ module Jekyll
       def initialize()
       end
 
+      def csv_to_hash(filename)
+        data = []
+        CSV.foreach(filename, headers: true) do |row|
+          data << row.to_h
+        end
+        data
+      end
+
+
       def populate(site)
 
         puts "plugin : mettre à jour des collections"
@@ -23,7 +32,12 @@ module Jekyll
 
         menu_csv_data.each do |item|
           collection_name = item[0]
-          update_data_to_files(site,collection_name,item)
+          data_directory = "_data/collections"
+          csv_file_name = "#{data_directory}/#{collection_name}.csv"
+          data = csv_to_hash(csv_file_name)
+
+          update_data_to_files(site,menu_csv_data,collection_name)
+
         end
         
     
@@ -33,6 +47,7 @@ module Jekyll
 
         data.each do |item|
 
+          
           # Chemin de l'enregistrement de fichier
           directory = item["directory"] || ""
 
