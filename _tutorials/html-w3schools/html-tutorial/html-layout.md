@@ -1,9 +1,9 @@
 ---
 reference: html-layout
-title:
+title: ''
 title_en: HTML Layout
-description:
-learning_order: 29
+description: ''
+learning_order: '29'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

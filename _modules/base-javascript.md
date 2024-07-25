@@ -1,7 +1,7 @@
 ---
 reference: base-javascript
 title: Les base de Javascript
-description:
+description: ''
 order: 5
 layout: modules
 ---

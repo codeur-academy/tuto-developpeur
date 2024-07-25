@@ -1,9 +1,9 @@
 ---
 reference: html-headings
-title:
+title: ''
 title_en: HTML Headings
-description:
-learning_order: 7
+description: ''
+learning_order: '7'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

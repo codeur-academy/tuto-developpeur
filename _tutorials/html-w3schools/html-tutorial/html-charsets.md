@@ -1,9 +1,9 @@
 ---
 reference: html-charsets
-title:
+title: ''
 title_en: HTML Charsets
-description:
-learning_order: 37
+description: ''
+learning_order: '37'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

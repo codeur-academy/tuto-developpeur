@@ -1,9 +1,9 @@
 ---
 reference: html-introduction
-title:
+title: ''
 title_en: HTML Introduction
-description:
-learning_order: 2
+description: ''
+learning_order: '2'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

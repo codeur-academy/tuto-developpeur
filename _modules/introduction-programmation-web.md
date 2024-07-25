@@ -1,7 +1,7 @@
 ---
 reference: introduction-programmation-web
 title: Introduction à la Programmation Web
-description:
+description: ''
 order: 1
 layout: modules
 ---

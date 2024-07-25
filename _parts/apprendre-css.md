@@ -1,11 +1,10 @@
 ---
 reference: apprendre-css
-slug: apprendre-css
 title: Développement de Sites Web Statiques avec CSS
-description:
+description: ''
 image: "../images/image.png"
 in_book: 'true'
 order: 3
-layout: parts
 module: base-css
+layout: parts
 ---

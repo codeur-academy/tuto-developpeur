@@ -1,9 +1,9 @@
 ---
 reference: html-semantics
-title:
+title: ''
 title_en: HTML Semantics
-description:
-learning_order: 32
+description: ''
+learning_order: '32'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

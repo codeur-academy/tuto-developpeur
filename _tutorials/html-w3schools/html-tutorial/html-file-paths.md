@@ -1,9 +1,9 @@
 ---
 reference: html-file-paths
-title:
+title: ''
 title_en: HTML File Paths
-description:
-learning_order: 27
+description: ''
+learning_order: '27'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

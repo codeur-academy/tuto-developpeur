@@ -10,13 +10,19 @@ module Jekyll
     class FromCsvFile
       
       def initialize()
+        @data_directory = "_data/collections"
+        @base_url_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
       end
 
       def csv_to_hash(filename)
         data = []
         CSV.foreach(filename, headers: true) do |row|
-          data << row.to_h
-        end
+
+          row_hash = row.to_h
+          row_hash["order"] = row_hash["order"].to_i if row_hash.has_key?("order")
+          data << row_hash
+          
+         end
         data
       end
 
@@ -25,18 +31,15 @@ module Jekyll
 
         puts "plugin : mettre à jour des collections"
 
-        # ouvrire le fichier excel
-        base_url_sheet = url_menu_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
-        
-        menu_csv_data = get_all_collection_csv_files_if_notexist
+        menu_csv_data = download_all_collection_csv_files_if_notexist
 
         menu_csv_data.each do |item|
           collection_name = item[0]
-          data_directory = "_data/collections"
-          csv_file_name = "#{data_directory}/#{collection_name}.csv"
+        
+          csv_file_name = "#{@data_directory}/#{collection_name}.csv"
           data = csv_to_hash(csv_file_name)
 
-          update_data_to_files(site,menu_csv_data,collection_name)
+          update_data_to_files(site,data,collection_name)
 
         end
         
@@ -169,11 +172,11 @@ module Jekyll
 
 
       def get_collection_csv_file(collection_name)
-        data_directory = "_data/collections"
+        
         sheet_name = collection_name
-        base_url_sheet = url_menu_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
-        url_sheet = base_url_sheet + sheet_name
-        csv_file_name = "#{data_directory}/#{sheet_name}.csv"
+       
+        url_sheet = @base_url_sheet + sheet_name
+        csv_file_name = "#{@data_directory}/#{sheet_name}.csv"
         return if File.exist?(csv_file_name)
         begin
           URI.open(url_sheet) do |f|
@@ -190,13 +193,12 @@ module Jekyll
       
       end
       
-      def get_all_collection_csv_files_if_notexist
-        data_directory = "_data/collections"
+      def download_all_collection_csv_files_if_notexist
+       
         menu_csv_data = nil
-        base_url_sheet = url_menu_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
         sheet_name = "menu"
-        url_sheet = base_url_sheet + sheet_name
-        csv_file_name = "#{data_directory}/#{sheet_name}.csv"
+        url_sheet = @base_url_sheet + sheet_name
+        csv_file_name = "#{@data_directory}/#{sheet_name}.csv"
       
         csv_string = ""
         if File.exist?(csv_file_name)

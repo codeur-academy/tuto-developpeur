@@ -1,9 +1,9 @@
 ---
 reference: html-vs--xhtml
-title:
+title: ''
 title_en: HTML vs. XHTML
-description:
-learning_order: 39
+description: ''
+learning_order: '39'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

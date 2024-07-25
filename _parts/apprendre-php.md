@@ -1,11 +1,10 @@
 ---
 reference: apprendre-php
-slug: apprendre-php
 title: Développement de Sites Web Dynamiques avec PHP
-description:
+description: ''
 image: "../images/image.png"
 in_book: 'true'
 order: 5
-layout: parts
 module: développement-sites-dynamiques-php
+layout: parts
 ---

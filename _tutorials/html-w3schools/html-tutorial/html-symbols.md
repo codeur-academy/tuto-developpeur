@@ -1,9 +1,9 @@
 ---
 reference: html-symbols
-title:
+title: ''
 title_en: HTML Symbols
-description:
-learning_order: 35
+description: ''
+learning_order: '35'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

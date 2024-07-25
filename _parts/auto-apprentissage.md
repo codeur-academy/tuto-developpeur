@@ -1,11 +1,10 @@
 ---
 reference: auto-apprentissage
-slug: auto-apprentissage
 title: Auto apprentissage
 description: Liste des auto apprentissage
-image:
+image: ''
 in_book: 'true'
 order: 9
-module:
+module: ''
 layout: parts
 ---

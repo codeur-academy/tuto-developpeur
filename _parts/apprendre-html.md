@@ -1,11 +1,10 @@
 ---
 reference: apprendre-html
-slug: apprendre-html
 title: Développement de Sites Web Statiques avec HTML
-description:
+description: ''
 image: "../images/image.png"
 in_book: 'true'
 order: 2
-layout: parts
 module: base-html
+layout: parts
 ---

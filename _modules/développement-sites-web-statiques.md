@@ -1,7 +1,7 @@
 ---
 reference: développement-sites-web-statiques
 title: Développement de Sites Web Statiques avec HTML et CSS
-description:
+description: ''
 order: 4
 layout: modules
 ---

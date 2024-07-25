@@ -1,9 +1,9 @@
 ---
 reference: html-classes
-title:
+title: ''
 title_en: HTML Classes
-description:
-learning_order: 23
+description: ''
+learning_order: '23'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

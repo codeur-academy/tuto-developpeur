@@ -1,9 +1,9 @@
 ---
 reference: html-id
-title:
+title: ''
 title_en: HTML Id
-description:
-learning_order: 24
+description: ''
+learning_order: '24'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

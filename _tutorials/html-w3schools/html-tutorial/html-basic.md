@@ -1,9 +1,9 @@
 ---
 reference: html-basic
-title:
+title: ''
 title_en: HTML Basic
-description:
-learning_order: 4
+description: ''
+learning_order: '4'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

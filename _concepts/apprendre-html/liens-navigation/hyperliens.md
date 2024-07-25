@@ -1,0 +1,14 @@
+---
+reference: hyperliens
+self_learning: apprendre-html
+concept_categories: liens-navigation
+title: Hyperliens
+title_en: Hyperlinks
+sujet: Lier des pages web ou des sections
+description: Intégrer des hyperliens dans les pages HTML pour permettre aux utilisateurs
+  de naviguer entre différentes pages ou sections d'une même page.
+learning_order: ''
+ordre: '9'
+directory: apprendre-html/liens-navigation
+layout: concepts
+---

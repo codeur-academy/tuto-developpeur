@@ -1,7 +1,7 @@
 ---
 reference: apprendre-css
 title: Apprendre CSS
-description:
-layout: self_learnings
+description: Apprendre le CSS en toute autonomie
 order: 2
+layout: self_learnings
 ---

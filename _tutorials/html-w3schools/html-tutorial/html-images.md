@@ -1,9 +1,9 @@
 ---
 reference: html-images
-title:
+title: ''
 title_en: HTML Images
-description:
-learning_order: 16
+description: ''
+learning_order: '16'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

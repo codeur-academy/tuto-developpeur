@@ -1,9 +1,9 @@
 ---
 reference: html-entities
-title:
+title: ''
 title_en: HTML Entities
-description:
-learning_order: 34
+description: ''
+learning_order: '34'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

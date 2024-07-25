@@ -1,9 +1,9 @@
 ---
 reference: html-comments
-title:
+title: ''
 title_en: HTML Comments
-description:
-learning_order: 12
+description: ''
+learning_order: '12'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

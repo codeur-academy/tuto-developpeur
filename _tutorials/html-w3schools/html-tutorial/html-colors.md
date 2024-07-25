@@ -1,9 +1,9 @@
 ---
 reference: html-colors
-title:
+title: ''
 title_en: HTML Colors
-description:
-learning_order: 13
+description: ''
+learning_order: '13'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

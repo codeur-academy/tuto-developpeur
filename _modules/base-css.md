@@ -1,7 +1,7 @@
 ---
 reference: base-css
 title: Les base de CSS
-description:
+description: ''
 order: 3
 layout: modules
 ---

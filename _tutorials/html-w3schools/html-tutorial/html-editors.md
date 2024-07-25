@@ -1,9 +1,9 @@
 ---
 reference: html-editors
-title:
+title: ''
 title_en: HTML Editors
-description:
-learning_order: 3
+description: ''
+learning_order: '3'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials

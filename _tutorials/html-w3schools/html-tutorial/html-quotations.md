@@ -1,9 +1,9 @@
 ---
 reference: html-quotations
-title:
+title: ''
 title_en: HTML Quotations
-description:
-learning_order: 11
+description: ''
+learning_order: '11'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials
