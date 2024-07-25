@@ -1,5 +1,5 @@
 ---
-reference: html-javascript
+reference: html-w3schools-html-javascript
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '26'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_scripts.asp
 layout: tutorials
+slug: html-javascript
 ---

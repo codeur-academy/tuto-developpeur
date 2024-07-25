@@ -1,5 +1,5 @@
 ---
-reference: html-headings
+reference: html-w3schools-html-headings
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '7'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_headings.asp
 layout: tutorials
+slug: html-headings
 ---

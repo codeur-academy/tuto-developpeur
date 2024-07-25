@@ -12,4 +12,5 @@ ordre: '13'
 directory: apprendre-html/images-multimédia
 layout: concepts
 slug: attributs-image
+tutorials: ''
 ---

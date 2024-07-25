@@ -1,5 +1,5 @@
 ---
-reference: html-form-attributes
+reference: html-w3schools-html-form-attributes
 resource_categories: html-forms
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '42'
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
+slug: html-form-attributes
 ---

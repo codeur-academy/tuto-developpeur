@@ -13,4 +13,5 @@ ordre: '16'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: types-dentrées-de-formulaire
+tutorials: ''
 ---

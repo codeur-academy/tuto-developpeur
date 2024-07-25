@@ -12,4 +12,5 @@ ordre: '12'
 directory: apprendre-html/images-multimédia
 layout: concepts
 slug: intégration-images
+tutorials: ''
 ---

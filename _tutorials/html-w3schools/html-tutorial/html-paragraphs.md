@@ -1,5 +1,5 @@
 ---
-reference: html-paragraphs
+reference: html-w3schools-html-paragraphs
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '8'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_paragraphs.asp
 layout: tutorials
+slug: html-paragraphs
 ---

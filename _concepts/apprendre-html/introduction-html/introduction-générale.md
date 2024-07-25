@@ -12,6 +12,8 @@ learning_order: ''
 ordre: '1'
 directory: apprendre-html/introduction-html
 layout: concepts
+tutorials:
+- html-w3schools-html-introduction
 ---
 
 ## Résumé

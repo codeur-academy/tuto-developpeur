@@ -1,5 +1,5 @@
 ---
-reference: html-iframes
+reference: html-w3schools-html-iframes
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '25'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_iframe.asp
 layout: tutorials
+slug: html-iframes
 ---

@@ -1,5 +1,5 @@
 ---
-reference: html-attributes
+reference: html-w3schools-html-attributes
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '6'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_attributes.asp
 layout: tutorials
+slug: html-attributes
 ---

@@ -1,5 +1,5 @@
 ---
-reference: html-basic
+reference: html-w3schools-html-basic
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: introduction-générale-apprendre-html
@@ -11,4 +11,5 @@ ordre: '4'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_basic.asp
 layout: tutorials
+slug: html-basic
 ---

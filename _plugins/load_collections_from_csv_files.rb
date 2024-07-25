@@ -14,13 +14,44 @@ module Jekyll
         @base_url_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
       end
 
+      def parse_string_to_array(string)
+        # Remove square brackets
+        cleaned_string = string.gsub('[', '').gsub(']', '')
+      
+        # Split by hyphen
+        array = cleaned_string.split(',')
+      
+        return array
+      end
+
+      def convert_strings_to_arrays(hash)
+        hash.each do |key, value|
+          if value.is_a?(String) && value.start_with?('[')
+              pp value
+              hash[key] = parse_string_to_array("[html-w3schools-html-introduction]")
+          end
+        end
+        hash
+      end
+
       def csv_to_hash(filename)
         data = []
         CSV.foreach(filename, headers: true) do |row|
 
           row_hash = row.to_h
+
+          row_hash = convert_strings_to_arrays(row_hash)
+
+          pp row_hash if row_hash.key?('tutorials')
+          
+
           row_hash["order"] = row_hash["order"].to_i if row_hash.has_key?("order")
+
+
           data << row_hash
+
+
+
           
          end
         data

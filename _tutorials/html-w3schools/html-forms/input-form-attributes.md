@@ -1,5 +1,5 @@
 ---
-reference: input-form-attributes
+reference: html-w3schools-input-form-attributes
 resource_categories: html-forms
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '46'
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
+slug: input-form-attributes
 ---

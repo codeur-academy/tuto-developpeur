@@ -1,5 +1,5 @@
 ---
-reference: html-vs--xhtml
+reference: html-w3schools-html-vs--xhtml
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '39'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_xhtml.asp
 layout: tutorials
+slug: html-vs--xhtml
 ---

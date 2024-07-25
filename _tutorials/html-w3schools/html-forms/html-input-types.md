@@ -1,5 +1,5 @@
 ---
-reference: html-input-types
+reference: html-w3schools-html-input-types
 resource_categories: html-forms
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '44'
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
+slug: html-input-types
 ---

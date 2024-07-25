@@ -13,4 +13,5 @@ ordre: '6'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: formatage-de-texte
+tutorials: ''
 ---

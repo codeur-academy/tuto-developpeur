@@ -1,5 +1,5 @@
 ---
-reference: html-head
+reference: html-w3schools-html-head
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '28'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_head.asp
 layout: tutorials
+slug: html-head
 ---

@@ -1,5 +1,5 @@
 ---
-reference: html-css
+reference: html-w3schools-html-css
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '14'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_css.asp
 layout: tutorials
+slug: html-css
 ---

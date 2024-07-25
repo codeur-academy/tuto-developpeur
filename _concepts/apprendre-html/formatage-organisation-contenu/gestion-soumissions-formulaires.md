@@ -12,4 +12,5 @@ ordre: '17'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: gestion-soumissions-formulaires
+tutorials: ''
 ---

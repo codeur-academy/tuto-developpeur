@@ -1,5 +1,5 @@
 ---
-reference: html-introduction
+reference: html-w3schools-html-introduction
 title: ''
 title_en: HTML Introduction
 description: 'HTML: The language that defines the structure and content of web pages.'
@@ -7,11 +7,12 @@ learning_order: '2'
 resource_categories: html-tutorial
 directory: html-w3schools/html-tutorial
 layout: tutorials
-link: https://www.w3schools.com/html/html_editors.asp
+link: https://www.w3schools.com/html/html_intro.asp
 ressource: html-w3schools
 language: en
 ordre: '2'
 concept: introduction-générale-apprendre-html
+slug: html-introduction
 ---
 
 

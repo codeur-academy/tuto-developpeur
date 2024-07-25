@@ -1,5 +1,5 @@
 ---
-reference: html-div
+reference: html-w3schools-html-div
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '22'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_div.asp
 layout: tutorials
+slug: html-div
 ---

@@ -1,5 +1,5 @@
 ---
-reference: html-images
+reference: html-w3schools-html-images
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '16'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_images.asp
 layout: tutorials
+slug: html-images
 ---

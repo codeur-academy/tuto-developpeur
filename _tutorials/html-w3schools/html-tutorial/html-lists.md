@@ -1,5 +1,5 @@
 ---
-reference: html-lists
+reference: html-w3schools-html-lists
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '20'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_lists.asp
 layout: tutorials
+slug: html-lists
 ---

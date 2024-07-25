@@ -1,5 +1,5 @@
 ---
-reference: html-charsets
+reference: html-w3schools-html-charsets
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '37'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_charset.asp
 layout: tutorials
+slug: html-charsets
 ---

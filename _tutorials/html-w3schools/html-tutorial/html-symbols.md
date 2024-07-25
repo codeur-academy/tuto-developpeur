@@ -1,5 +1,5 @@
 ---
-reference: html-symbols
+reference: html-w3schools-html-symbols
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '35'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_symbols.asp
 layout: tutorials
+slug: html-symbols
 ---

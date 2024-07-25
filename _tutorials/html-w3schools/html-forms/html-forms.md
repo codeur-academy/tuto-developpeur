@@ -1,5 +1,5 @@
 ---
-reference: html-forms
+reference: html-w3schools-html-forms
 resource_categories: html-forms
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '40'
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
+slug: html-forms
 ---

@@ -1,5 +1,5 @@
 ---
-reference: html-url-encode
+reference: html-w3schools-html-url-encode
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '38'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_urlencode.asp
 layout: tutorials
+slug: html-url-encode
 ---

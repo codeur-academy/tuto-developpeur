@@ -1,5 +1,5 @@
 ---
-reference: html-comments
+reference: html-w3schools-html-comments
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '12'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_comments.asp
 layout: tutorials
+slug: html-comments
 ---

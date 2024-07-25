@@ -1,5 +1,5 @@
 ---
-reference: html-editors
+reference: html-w3schools-html-editors
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '3'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_editors.asp
 layout: tutorials
+slug: html-editors
 ---

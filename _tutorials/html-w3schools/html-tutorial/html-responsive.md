@@ -1,5 +1,5 @@
 ---
-reference: html-responsive
+reference: html-w3schools-html-responsive
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '30'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_responsive.asp
 layout: tutorials
+slug: html-responsive
 ---

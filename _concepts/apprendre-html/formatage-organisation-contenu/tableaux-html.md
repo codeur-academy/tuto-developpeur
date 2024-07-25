@@ -12,4 +12,5 @@ ordre: '8'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: tableaux-html
+tutorials: ''
 ---

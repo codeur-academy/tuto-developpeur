@@ -1,5 +1,5 @@
 ---
-reference: html-emojis
+reference: html-w3schools-html-emojis
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '36'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_emojis.asp
 layout: tutorials
+slug: html-emojis
 ---

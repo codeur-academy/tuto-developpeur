@@ -1,5 +1,5 @@
 ---
-reference: html-entities
+reference: html-w3schools-html-entities
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '34'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_entities.asp
 layout: tutorials
+slug: html-entities
 ---

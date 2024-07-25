@@ -1,5 +1,5 @@
 ---
-reference: html-quotations
+reference: html-w3schools-html-quotations
 resource_categories: html-tutorial
 ressource: html-w3schools
 concept: ''
@@ -11,4 +11,5 @@ ordre: '11'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_quotation_elements.asp
 layout: tutorials
+slug: html-quotations
 ---
