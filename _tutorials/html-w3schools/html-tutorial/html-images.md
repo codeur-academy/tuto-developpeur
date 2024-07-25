@@ -1,14 +1,14 @@
 ---
 reference: html-images
+resource_categories: html-tutorial
+ressource: html-w3schools
+concept: ''
+language: en
 title: ''
 title_en: HTML Images
 description: ''
-learning_order: '16'
-resource_categories: html-tutorial
-directory: html-w3schools/html-tutorial
-layout: tutorials
-link: https://www.w3schools.com/html/html_images.asp
-ressource: html-w3schools
-language: en
 ordre: '16'
+directory: html-w3schools/html-tutorial
+link: https://www.w3schools.com/html/html_images.asp
+layout: tutorials
 ---

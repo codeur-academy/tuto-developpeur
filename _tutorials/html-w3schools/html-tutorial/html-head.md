@@ -1,14 +1,14 @@
 ---
 reference: html-head
+resource_categories: html-tutorial
+ressource: html-w3schools
+concept: ''
+language: en
 title: ''
 title_en: HTML Head
 description: ''
-learning_order: '28'
-resource_categories: html-tutorial
-directory: html-w3schools/html-tutorial
-layout: tutorials
-link: https://www.w3schools.com/html/html_head.asp
-ressource: html-w3schools
-language: en
 ordre: '28'
+directory: html-w3schools/html-tutorial
+link: https://www.w3schools.com/html/html_head.asp
+layout: tutorials
 ---

@@ -1,14 +1,14 @@
 ---
 reference: html-vs--xhtml
+resource_categories: html-tutorial
+ressource: html-w3schools
+concept: ''
+language: en
 title: ''
 title_en: HTML vs. XHTML
 description: ''
-learning_order: '39'
-resource_categories: html-tutorial
-directory: html-w3schools/html-tutorial
-layout: tutorials
-link: https://www.w3schools.com/html/html_xhtml.asp
-ressource: html-w3schools
-language: en
 ordre: '39'
+directory: html-w3schools/html-tutorial
+link: https://www.w3schools.com/html/html_xhtml.asp
+layout: tutorials
 ---

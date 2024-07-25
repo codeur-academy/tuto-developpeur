@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+{% assign path_parts = page.path | split: '/' %}
+{% assign collection_dir = path_parts[0] %}
+{% assign collection_name = collection_dir | remove_first: '_' %}
+
 <div class="page">       
     <div id="menu-bar-hover-placeholder"></div>
     <div id="menu-bar" class="menu-bar sticky bordered">
@@ -44,11 +49,15 @@ layout: default
     </div>
    
 
-    <div id="content" class="content">
+    <div id="content"
+     class="content">
         <main>
             {{ content }}
+           
+
         </main>
-        {%- include calculate-prevnext-chapter.html -%}
+
+        {%- include calculate-prevnext-chapter.html collection_name=collection_name -%}
        
         <nav class="nav-wrapper" aria-label="Page navigation">
             <!-- Mobile navigation buttons -->

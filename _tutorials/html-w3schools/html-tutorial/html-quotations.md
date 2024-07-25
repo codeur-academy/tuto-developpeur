@@ -1,14 +1,14 @@
 ---
 reference: html-quotations
+resource_categories: html-tutorial
+ressource: html-w3schools
+concept: ''
+language: en
 title: ''
 title_en: HTML Quotations
 description: ''
-learning_order: '11'
-resource_categories: html-tutorial
-directory: html-w3schools/html-tutorial
-layout: tutorials
-link: https://www.w3schools.com/html/html_quotation_elements.asp
-ressource: html-w3schools
-language: en
 ordre: '11'
+directory: html-w3schools/html-tutorial
+link: https://www.w3schools.com/html/html_quotation_elements.asp
+layout: tutorials
 ---

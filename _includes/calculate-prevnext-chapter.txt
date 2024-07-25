@@ -1,0 +1,78 @@
+collection_name : {{ include.collection_name }}
+category_order_key : {{page.category_order_key}}
+
+{%- comment -%}
+Trouver le chapter suivant et précédent du chapter en cours de lecture.
+Trouver les chapters de la part en cours
+{%- endcomment -%}
+
+{%- assign part_slug = page.categories[0] --%}
+{%- assign chapters_in_part = site[include.collection_name] | where: "categories", part_slug  | sort: "order"-%}
+
+
+{%- if chapters_in_part.size > 1 -%}
+  {%- comment -%}
+    Store the index position of the matching chapters_in_part
+  {%- endcomment -%}
+  {%- for item in chapters_in_part -%}
+    {%- if item.title == page.title -%}
+      {%- assign item_index = forloop.index -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {%- assign next_index  = item_index | plus: 1 -%}
+  {%- assign prev_index = item_index | minus: 1 -%}
+  
+  {%- for item in chapters_in_part -%}
+    {%- if forloop.index == prev_index -%}
+      {%- assign prev = item -%}
+    {%- endif -%}
+    {%- if forloop.index == next_index -%}
+      {%- assign next = item -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+ 
+
+{%- if  next == null or prev == null -%}
+  {%- comment -%} 
+    Trouver le premier chapter de la part suivant 
+  {%- endcomment -%}
+  {%- assign ordered_parts = site.parts | sort: "order"-%}
+  {%- comment -%} 
+    Trouver l'index de la part en cours
+  {%- endcomment -%}
+  {%- for part_item in ordered_parts -%}
+  {%- if part_item.slug == part_slug -%}
+    {%- assign part_item_index = forloop.index -%}
+  {%- endif -%}
+  {%- endfor -%}
+  {%- comment -%} 
+    Trouver la part suivant ou précédent
+  {%- endcomment -%}
+  {%- assign next_part_index  = part_item_index | plus: 1 -%}
+  {%- assign prev_part_index  = part_item_index | minus: 1 -%}
+  {%- for item in ordered_parts -%}
+  {%- if forloop.index == next_part_index -%}
+    {%- assign next_part = item -%}
+  {%- endif-%}
+  {%- if forloop.index == prev_part_index -%}
+  {%- assign prev_part = item -%}
+{%- endif-%}
+  {%- endfor -%}
+  {%- comment -%} 
+    Premier chapter de la part suivant
+  {%- endcomment -%}
+  {%- if next_part and next == null  -%}
+  {%- assign chapters_in_part_suivant = site.chapters | where: "categories", next_part.slug  | sort: "order"-%}
+  {%- assign next = chapters_in_part_suivant[0]  -%}
+  {%- endif-%} 
+
+  {%- if prev_part and prev == null -%}
+  {%- assign chapters_in_part_prev = site.chapters | where: "categories", prev_part.slug  | sort: "order"-%}
+  {%- assign last_chapter_index_in_prev_part = chapters_in_part_prev.size | minus: 1  -%}
+
+  {%- assign prev = chapters_in_part_prev[last_chapter_index_in_prev_part]  -%}
+  {%- endif-%}
+{%- endif-%}

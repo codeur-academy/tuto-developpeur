@@ -1,14 +1,14 @@
 ---
 reference: html-input-types
+resource_categories: html-forms
+ressource: html-w3schools
+concept: ''
+language: en
 title: ''
 title_en: HTML Input Types
 description: ''
-learning_order: '44'
-resource_categories: html-forms
-directory: html-w3schools/html-forms
-layout: tutorials
-link: ''
-ressource: html-w3schools
-language: en
 ordre: '44'
+directory: html-w3schools/html-forms
+link: ''
+layout: tutorials
 ---

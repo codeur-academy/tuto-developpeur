@@ -1,22 +1,32 @@
 ---
 layout : chapters
 ---
- 
+
+{% assign category_order_key =  "self_learning" %}
+
+
 <h1>{{page.title}}</h1>
+
 
 <h2>Tutoriels</h2>
 
-{% assign tutorials = site.tutorials %}
+{% assign tutorials = site.tutorials | where: "concept", page.reference  %}
 
-<ol>
+<ul class="tutorials">
 {% for tutorial in tutorials  %}
     <li>
-        {{tutorial.reference}}
+        {% assign tutoriel_title = tutorial.title_en || tutorial.title %}
+        <div>
+            <a href="{{tutorial.link}}" target="_blank">{{ tutoriel_title }}</a>
+            <p>Langue : {{tutorial.language}} </p>
+            <p>{{tutorial.description}}</p>
+        </div>
+       
     </li>
-
-
 {% endfor %}
-</ol>
+</ul>
 
+{% assign next_order = page.order + 1  %}
+{% assign next_page = site.concepts | where: "order", next_order %}
 
 {{content}}
