@@ -1,5 +1,5 @@
 ---
-reference: attributs-html
+reference: attributs-html-apprendre-html
 self_learning: apprendre-html
 concept_categories: éléments-base-structure
 title: Attributs HTML
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '5'
 directory: apprendre-html/éléments-base-structure
 layout: concepts
+slug: attributs-html
 ---

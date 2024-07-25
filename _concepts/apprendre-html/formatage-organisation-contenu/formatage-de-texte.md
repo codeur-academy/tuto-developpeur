@@ -1,5 +1,5 @@
 ---
-reference: formatage-de-texte
+reference: formatage-de-texte-apprendre-html
 self_learning: apprendre-html
 concept_categories: formatage-organisation-contenu
 title: Formatage de texte
@@ -12,4 +12,5 @@ learning_order: ''
 ordre: '6'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
+slug: formatage-de-texte
 ---

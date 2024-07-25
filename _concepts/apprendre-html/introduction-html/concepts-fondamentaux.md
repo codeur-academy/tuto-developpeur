@@ -1,5 +1,6 @@
 ---
-reference: concepts-fondamentaux
+reference: concepts-fondamentaux-apprendre-html
+slug: concepts-fondamentaux
 self_learning: apprendre-html
 concept_categories: introduction-html
 title: Concepts fondamentaux

@@ -1,5 +1,5 @@
 ---
-reference: intégration-images
+reference: intégration-images-apprendre-html
 self_learning: apprendre-html
 concept_categories: images-multimédia
 title: Intégration d'images
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '12'
 directory: apprendre-html/images-multimédia
 layout: concepts
+slug: intégration-images
 ---

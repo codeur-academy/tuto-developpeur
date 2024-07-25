@@ -1,5 +1,5 @@
 ---
-reference: éléments-html-essentiels
+reference: éléments-html-essentiels-apprendre-html
 self_learning: apprendre-html
 concept_categories: éléments-base-structure
 title: Éléments HTML essentiels
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '3'
 directory: apprendre-html/éléments-base-structure
 layout: concepts
+slug: éléments-html-essentiels
 ---

@@ -1,5 +1,5 @@
 ---
-reference: attributs-image
+reference: attributs-image-apprendre-html
 self_learning: apprendre-html
 concept_categories: images-multimédia
 title: Attributs d'image
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '13'
 directory: apprendre-html/images-multimédia
 layout: concepts
+slug: attributs-image
 ---

@@ -1,5 +1,5 @@
 ---
-reference: gestion-soumissions-formulaires
+reference: gestion-soumissions-formulaires-apprendre-html
 self_learning: apprendre-html
 concept_categories: formatage-organisation-contenu
 title: Gestion des soumissions de formulaires
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '17'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
+slug: gestion-soumissions-formulaires
 ---

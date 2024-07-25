@@ -1,5 +1,5 @@
 ---
-reference: navigation-sur-le-site-web
+reference: navigation-sur-le-site-web-apprendre-html
 self_learning: apprendre-html
 concept_categories: liens-navigation
 title: Navigation sur le site web
@@ -12,4 +12,5 @@ learning_order: ''
 ordre: '11'
 directory: apprendre-html/liens-navigation
 layout: concepts
+slug: navigation-sur-le-site-web
 ---

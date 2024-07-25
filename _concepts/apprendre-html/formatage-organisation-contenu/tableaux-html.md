@@ -1,5 +1,5 @@
 ---
-reference: tableaux-html
+reference: tableaux-html-apprendre-html
 self_learning: apprendre-html
 concept_categories: formatage-organisation-contenu
 title: Tableaux HTML
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '8'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
+slug: tableaux-html
 ---

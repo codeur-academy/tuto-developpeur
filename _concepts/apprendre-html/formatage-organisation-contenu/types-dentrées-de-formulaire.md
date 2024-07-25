@@ -1,5 +1,5 @@
 ---
-reference: types-dentrées-de-formulaire
+reference: types-dentrées-de-formulaire-apprendre-html
 self_learning: apprendre-html
 concept_categories: formatage-organisation-contenu
 title: Types d'entrées de formulaire
@@ -12,4 +12,5 @@ learning_order: ''
 ordre: '16'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
+slug: types-dentrées-de-formulaire
 ---

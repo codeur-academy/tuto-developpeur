@@ -1,5 +1,5 @@
 ---
-reference: éléments-multimédias
+reference: éléments-multimédias-apprendre-html
 self_learning: apprendre-html
 concept_categories: images-multimédia
 title: Éléments multimédias
@@ -12,4 +12,5 @@ learning_order: ''
 ordre: '14'
 directory: apprendre-html/images-multimédia
 layout: concepts
+slug: éléments-multimédias
 ---

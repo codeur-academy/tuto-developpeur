@@ -1,5 +1,5 @@
 ---
-reference: accessibilité-pour-les-utilisateurs-handicapés
+reference: accessibilité-pour-les-utilisateurs-handicapés-apprendre-html
 self_learning: apprendre-html
 concept_categories: sémantique-accessibilité
 title: Accessibilité pour les utilisateurs handicapés
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '19'
 directory: apprendre-html/sémantique-accessibilité
 layout: concepts
+slug: accessibilité-pour-les-utilisateurs-handicapés
 ---

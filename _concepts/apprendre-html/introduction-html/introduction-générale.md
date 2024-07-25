@@ -1,5 +1,6 @@
 ---
-reference: introduction-générale
+reference: introduction-générale-apprendre-html
+slug: introduction-générale
 self_learning: apprendre-html
 concept_categories: introduction-html
 title: Introduction générale
@@ -13,4 +14,3 @@ directory: apprendre-html/introduction-html
 layout: concepts
 ---
 
-## Résumé 

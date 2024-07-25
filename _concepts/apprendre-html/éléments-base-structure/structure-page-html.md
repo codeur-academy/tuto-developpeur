@@ -1,5 +1,5 @@
 ---
-reference: structure-page-html
+reference: structure-page-html-apprendre-html
 self_learning: apprendre-html
 concept_categories: éléments-base-structure
 title: Structure d'une page HTML
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '4'
 directory: apprendre-html/éléments-base-structure
 layout: concepts
+slug: structure-page-html
 ---

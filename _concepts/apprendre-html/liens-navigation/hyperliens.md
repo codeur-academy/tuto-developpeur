@@ -1,5 +1,5 @@
 ---
-reference: hyperliens
+reference: hyperliens-apprendre-html
 self_learning: apprendre-html
 concept_categories: liens-navigation
 title: Hyperliens
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '9'
 directory: apprendre-html/liens-navigation
 layout: concepts
+slug: hyperliens
 ---

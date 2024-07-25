@@ -1,5 +1,5 @@
 ---
-reference: éléments-html-sémantiques
+reference: éléments-html-sémantiques-apprendre-html
 self_learning: apprendre-html
 concept_categories: sémantique-accessibilité
 title: Éléments HTML sémantiques
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '18'
 directory: apprendre-html/sémantique-accessibilité
 layout: concepts
+slug: éléments-html-sémantiques
 ---

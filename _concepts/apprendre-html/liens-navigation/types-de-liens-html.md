@@ -1,5 +1,5 @@
 ---
-reference: types-de-liens-html
+reference: types-de-liens-html-apprendre-html
 self_learning: apprendre-html
 concept_categories: liens-navigation
 title: Types de liens HTML
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '10'
 directory: apprendre-html/liens-navigation
 layout: concepts
+slug: types-de-liens-html
 ---

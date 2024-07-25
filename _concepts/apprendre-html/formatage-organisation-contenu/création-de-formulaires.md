@@ -1,5 +1,5 @@
 ---
-reference: création-de-formulaires
+reference: création-de-formulaires-apprendre-html
 self_learning: apprendre-html
 concept_categories: formatage-organisation-contenu
 title: Création de formulaires
@@ -11,4 +11,5 @@ learning_order: ''
 ordre: '15'
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
+slug: création-de-formulaires
 ---

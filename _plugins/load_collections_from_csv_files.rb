@@ -88,9 +88,9 @@ module Jekyll
       def file_path(site,collection_name,directory,item)
 
         order = item.fetch("order",nil)
-
-        file_name = ""
-        file_name = "#{Jekyll::Utils.slugify(item["reference"])}.md"
+        
+        file_name = item["slug"] || item["reference"]
+        file_name = "#{Jekyll::Utils.slugify(file_name)}.md"
 
         # if order
         #   file_name =  "#{order}.#{Jekyll::Utils.slugify(item["reference"])}.md" 
