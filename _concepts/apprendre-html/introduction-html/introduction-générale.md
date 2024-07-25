@@ -12,3 +12,5 @@ ordre: '1'
 directory: apprendre-html/introduction-html
 layout: concepts
 ---
+
+## Résumé 
