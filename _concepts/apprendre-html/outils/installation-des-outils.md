@@ -18,6 +18,7 @@ tutorials:
 sujets:
 - éditeur de code HTML
 - configuration de windows pour un poste de développeur
+permalink: apprendre-html/installation-des-outils
 ---
 
 ## Installation et utilisation de VS Code

@@ -15,4 +15,5 @@ slug: gestion-soumissions-formulaires
 tutorials: ''
 Todo: ''
 sujets: Envoi des données vers le serveur
+permalink: apprendre-html/gestion-soumissions-formulaires
 ---

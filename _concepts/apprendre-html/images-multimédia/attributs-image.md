@@ -15,4 +15,5 @@ slug: attributs-image
 tutorials: ''
 Todo: ''
 sujets: Source, alternative textuelle, taille
+permalink: apprendre-html/attributs-image
 ---

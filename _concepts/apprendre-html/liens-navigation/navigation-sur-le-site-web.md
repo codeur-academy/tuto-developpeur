@@ -16,4 +16,5 @@ slug: navigation-sur-le-site-web
 tutorials: ''
 Todo: ''
 sujets: Menus, liens structurés
+permalink: apprendre-html/navigation-sur-le-site-web
 ---

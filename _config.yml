@@ -42,7 +42,7 @@ collections:
     permalink: /self_learnings/:title/
   concepts:
     output: true
-    permalink: /concepts/:title/
+    permalink: /:title/
   concept_categories:
     output: false
 

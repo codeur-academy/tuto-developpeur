@@ -25,6 +25,7 @@ sujets:
 - Un Document HTML Simple
 - Les Navigateurs Web
 - Historique du HTML
+permalink: apprendre-html/introduction-générale
 ---
 
 ## Résumé

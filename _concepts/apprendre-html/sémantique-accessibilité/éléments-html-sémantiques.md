@@ -15,4 +15,5 @@ slug: éléments-html-sémantiques
 tutorials: ''
 Todo: ''
 sujets: Améliorer l'accessibilité
+permalink: apprendre-html/éléments-html-sémantiques
 ---

@@ -22,6 +22,7 @@ description: Maîtriser les éléments HTML essentiels pour créer le contenu d'
 Todo: ''
 directory: apprendre-html/éléments-base-structure
 layout: concepts
+permalink: apprendre-html/éléments-html-essentiels
 ---
 
 ## Pratique 

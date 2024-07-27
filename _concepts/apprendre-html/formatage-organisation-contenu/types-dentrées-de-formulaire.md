@@ -16,4 +16,5 @@ slug: types-dentrées-de-formulaire
 tutorials: ''
 Todo: ''
 sujets: Texte, email, cases à cocher, etc.
+permalink: apprendre-html/types-dentrées-de-formulaire
 ---

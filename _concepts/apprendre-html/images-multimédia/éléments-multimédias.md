@@ -16,4 +16,5 @@ slug: éléments-multimédias
 tutorials: ''
 Todo: ''
 sujets: Vidéos, etc.
+permalink: apprendre-html/éléments-multimédias
 ---

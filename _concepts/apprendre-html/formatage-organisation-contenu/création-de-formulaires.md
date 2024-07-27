@@ -15,4 +15,5 @@ slug: création-de-formulaires
 tutorials: ''
 Todo: ''
 sujets: Collecter des données auprès des utilisateurs
+permalink: apprendre-html/création-de-formulaires
 ---

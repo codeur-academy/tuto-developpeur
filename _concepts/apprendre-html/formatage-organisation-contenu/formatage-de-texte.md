@@ -16,4 +16,5 @@ slug: formatage-de-texte
 tutorials: ''
 Todo: ''
 sujets: Gras, italique, souligné, couleurs
+permalink: apprendre-html/formatage-de-texte
 ---

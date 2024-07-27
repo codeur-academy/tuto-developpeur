@@ -15,4 +15,5 @@ slug: intégration-images
 tutorials: ''
 Todo: ''
 sujets: Élément <img>
+permalink: apprendre-html/intégration-images
 ---

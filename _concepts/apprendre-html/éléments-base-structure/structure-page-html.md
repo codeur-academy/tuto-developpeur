@@ -15,4 +15,5 @@ slug: structure-page-html
 tutorials: ''
 Todo: ''
 sujets: "<head>, <body>, <div>"
+permalink: apprendre-html/structure-page-html
 ---

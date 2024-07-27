@@ -21,6 +21,7 @@ sujets:
 - Qu'est
 - ce qu'un Élément HTML ?
 - Structure d'une Page HTML
+permalink: apprendre-html/concepts-fondamentaux
 ---
 
 ## La structure de base d'une page HTML

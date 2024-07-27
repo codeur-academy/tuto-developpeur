@@ -15,4 +15,5 @@ slug: types-de-liens-html
 tutorials: ''
 Todo: ''
 sujets: Ancres, externes, etc.
+permalink: apprendre-html/types-de-liens-html
 ---

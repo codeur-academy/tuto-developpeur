@@ -15,4 +15,5 @@ slug: accessibilité-pour-les-utilisateurs-handicapés
 tutorials: ''
 Todo: ''
 sujets: Techniques adaptées
+permalink: apprendre-html/accessibilité-pour-les-utilisateurs-handicapés
 ---

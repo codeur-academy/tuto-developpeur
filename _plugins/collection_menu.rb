@@ -8,14 +8,13 @@ module Jekyll
       def generate(site)
 
         puts "plugun - génération de menu principale"
-        #  collection = ["posts", #<Jekyll::Collection @label=posts docs=[]>]
-        # pp site.collections
 
         # Les collection de l'application
         # chaque élément site.collections est un tableau de deux élément : 0 : label, 1 : collection
         chapters_collection  = site.collections.detect { |collection| collection[0] == "chapters" }[1]
         parts_collection  = site.collections.detect { |collection| collection[0] == "parts" }[1]
  
+
         # Array of menu items
         menu_items = chapters_collection.docs.map do |doc|
           {
@@ -33,27 +32,13 @@ module Jekyll
 
         # pp menu_items 
 
-        # # Ajouter les chapter depuis chapters.json
-        # menu_items.each do |reference_part, elements|
-        #   josn_chapters_part = site.data[reference_part] || {} 
-        #   josn_chapters_part.each do |element|
-        #       element["label"] ||= element["title"]
-        #       element["part"] ||= reference_part
-        #       element["order"] ||= 100
-        #       element["url"] ||= "/" + element["reference"]
-        #   end
-        #   if !josn_chapters_part.nil? && !josn_chapters_part.empty?
-        #     elements = elements.concat(josn_chapters_part)
-        #   end
-        # end
-
-        # pp menu_items 
-
         # Trier les éléments de chaque part par order croissant
         menu_items.each do |part, elements|
           elements.sort_by! { |element| element["order"] }
         end
 
+
+        
 
         # enregistrement de menu dans site.data
         site.data["collection_menus"] ||= {}

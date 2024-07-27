@@ -15,4 +15,5 @@ slug: hyperliens
 tutorials: ''
 Todo: ''
 sujets: Lier des pages web ou des sections
+permalink: apprendre-html/hyperliens
 ---

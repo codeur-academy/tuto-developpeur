@@ -15,4 +15,5 @@ slug: attributs-html
 tutorials: ''
 Todo: ''
 sujets: Personnalisation des éléments
+permalink: apprendre-html/attributs-html
 ---

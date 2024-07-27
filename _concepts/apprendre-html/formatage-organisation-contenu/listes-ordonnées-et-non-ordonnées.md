@@ -15,4 +15,5 @@ slug: listes-ordonnées-et-non-ordonnées
 tutorials: ''
 Todo: ''
 sujets: Organisation du contenu
+permalink: apprendre-html/listes-ordonnées-et-non-ordonnées
 ---

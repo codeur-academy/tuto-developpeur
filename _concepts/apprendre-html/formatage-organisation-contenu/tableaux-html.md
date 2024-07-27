@@ -15,4 +15,5 @@ slug: tableaux-html
 tutorials: ''
 Todo: ''
 sujets: Présentation de données tabulaires
+permalink: apprendre-html/tableaux-html
 ---
