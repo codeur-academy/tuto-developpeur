@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Formatting
 description: ''
-ordre: '10'
+order: '20'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_formatting.asp
 layout: tutorials
 slug: html-formatting
+category: ''
+sujets: ''
+'': ''
+order: 20
 ---

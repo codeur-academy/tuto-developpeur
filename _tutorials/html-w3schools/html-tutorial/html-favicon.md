@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Favicon
 description: ''
-ordre: '17'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_favicon.asp
 layout: tutorials
 slug: html-favicon
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

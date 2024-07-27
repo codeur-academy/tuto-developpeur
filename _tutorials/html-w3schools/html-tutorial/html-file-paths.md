@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML File Paths
 description: ''
-ordre: '27'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_filepaths.asp
 layout: tutorials
 slug: html-file-paths
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

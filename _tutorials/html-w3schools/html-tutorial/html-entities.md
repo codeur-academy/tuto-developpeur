@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Entities
 description: ''
-ordre: '34'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_entities.asp
 layout: tutorials
 slug: html-entities
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

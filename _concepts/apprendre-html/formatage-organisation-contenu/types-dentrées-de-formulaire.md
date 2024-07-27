@@ -9,9 +9,11 @@ description: Découvrir les différents types d'entrées de formulaire HTML, tel
   les champs de texte, les champs email, les cases à cocher, les boutons radio et
   les menus déroulants.
 learning_order: ''
-ordre: '16'
+order: 17
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: types-dentrées-de-formulaire
 tutorials: ''
+Todo: ''
+sujets: Texte, email, cases à cocher, etc.
 ---

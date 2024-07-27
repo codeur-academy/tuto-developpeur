@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Forms
 description: ''
-ordre: '40'
+order: ''
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
 slug: html-forms
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

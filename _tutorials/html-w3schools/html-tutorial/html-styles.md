@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Styles
 description: ''
-ordre: '9'
+order: '30'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_styles.asp
 layout: tutorials
 slug: html-styles
+category: ''
+sujets: ''
+'': ''
+order: 30
 ---

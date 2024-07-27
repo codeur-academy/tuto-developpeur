@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Attributes
 description: ''
-ordre: '6'
+order: '12'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_attributes.asp
 layout: tutorials
 slug: html-attributes
+category: syntaxe
+sujets: ''
+'': ''
+order: 12
 ---

@@ -8,9 +8,11 @@ sujet: "<head>, <body>, <div>"
 description: Comprendre l'organisation d'une page HTML en utilisant les sections <head>
   et <body>, et découvrir l'élément <div> pour structurer le contenu de manière flexible.
 learning_order: ''
-ordre: '4'
+order: 5
 directory: apprendre-html/éléments-base-structure
 layout: concepts
 slug: structure-page-html
 tutorials: ''
+Todo: ''
+sujets: "<head>, <body>, <div>"
 ---

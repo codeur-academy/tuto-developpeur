@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Form Attributes
 description: ''
-ordre: '42'
+order: ''
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
 slug: html-form-attributes
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

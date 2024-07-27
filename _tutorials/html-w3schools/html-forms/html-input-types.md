@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Input Types
 description: ''
-ordre: '44'
+order: ''
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
 slug: html-input-types
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

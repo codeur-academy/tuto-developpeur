@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Responsive
 description: ''
-ordre: '30'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_responsive.asp
 layout: tutorials
 slug: html-responsive
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

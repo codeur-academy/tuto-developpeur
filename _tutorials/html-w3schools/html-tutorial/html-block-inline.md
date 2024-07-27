@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Block & Inline
 description: ''
-ordre: '21'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_blocks.asp
 layout: tutorials
 slug: html-block---inline
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

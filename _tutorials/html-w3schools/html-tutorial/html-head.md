@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Head
 description: ''
-ordre: '28'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_head.asp
 layout: tutorials
 slug: html-head
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

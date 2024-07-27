@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Layout
 description: ''
-ordre: '29'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_layout.asp
 layout: tutorials
 slug: html-layout
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Images
 description: ''
-ordre: '16'
+order: '21'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_images.asp
 layout: tutorials
 slug: html-images
+category: ''
+sujets: ''
+'': ''
+order: 21
 ---

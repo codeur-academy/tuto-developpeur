@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Comments
 description: ''
-ordre: '12'
+order: '30'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_comments.asp
 layout: tutorials
 slug: html-comments
+category: ''
+sujets: ''
+'': ''
+order: 30
 ---

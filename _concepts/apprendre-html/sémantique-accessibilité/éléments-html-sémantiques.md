@@ -8,9 +8,11 @@ sujet: Améliorer l'accessibilité
 description: Utiliser des éléments HTML sémantiques pour structurer le contenu de
   manière claire et accessible aux personnes handicapées et aux technologies d'assistance.
 learning_order: ''
-ordre: '18'
+order: 19
 directory: apprendre-html/sémantique-accessibilité
 layout: concepts
 slug: éléments-html-sémantiques
 tutorials: ''
+Todo: ''
+sujets: Améliorer l'accessibilité
 ---

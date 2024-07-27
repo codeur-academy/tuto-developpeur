@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Charsets
 description: ''
-ordre: '37'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_charset.asp
 layout: tutorials
 slug: html-charsets
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

@@ -9,9 +9,11 @@ description: Améliorer la navigation sur un site web en créant des menus clair
   en utilisant des liens structurés pour faciliter l'accès aux différentes sections
   du site.
 learning_order: ''
-ordre: '11'
+order: 12
 directory: apprendre-html/liens-navigation
 layout: concepts
 slug: navigation-sur-le-site-web
 tutorials: ''
+Todo: ''
+sujets: Menus, liens structurés
 ---

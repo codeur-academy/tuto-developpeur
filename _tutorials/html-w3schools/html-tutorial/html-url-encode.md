@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML URL Encode
 description: ''
-ordre: '38'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_urlencode.asp
 layout: tutorials
 slug: html-url-encode
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

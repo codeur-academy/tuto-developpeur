@@ -8,9 +8,11 @@ sujet: Techniques adaptées
 description: Mettre en œuvre des techniques d'accessibilité web pour rendre les pages
   HTML accessibles aux utilisateurs handicap
 learning_order: ''
-ordre: '19'
+order: 20
 directory: apprendre-html/sémantique-accessibilité
 layout: concepts
 slug: accessibilité-pour-les-utilisateurs-handicapés
 tutorials: ''
+Todo: ''
+sujets: Techniques adaptées
 ---

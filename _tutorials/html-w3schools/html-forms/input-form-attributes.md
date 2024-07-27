@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: Input Form Attributes
 description: ''
-ordre: '46'
+order: ''
 directory: html-w3schools/html-forms
 link: ''
 layout: tutorials
 slug: input-form-attributes
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

@@ -10,7 +10,6 @@ layout : chapters
 
 <h2>Tutoriels</h2>
 
-
 {% assign tutorials = page.tutorials  %}
 
 <ul>
@@ -18,14 +17,36 @@ layout : chapters
     <li>
       
         {% assign tutorial = site.tutorials | where: "reference", tutorial_reference | first   %}
-        {% assign tutoriel_title = tutorial.title_en || tutorial.title %}
+        {% assign tutoriel_title = tutorial.title_en  %}
         <div>
             <a href="{{tutorial.link}}" target="_blank">{{ tutoriel_title }}</a>
             <p>Langue : {{tutorial.language}} </p>
+            <p>Sujets : 
+                <ul>
+                    {% for sujet in tutorial.sujets %}
+                        <li>{{sujet}}</li>
+                    {% endfor %}
+                </ul>
+
+                
+            </p>
             <p>{{tutorial.description}}</p>
         </div>
        
     </li>
 {% endfor %}
 </ul>
+
+<h2>Sujets</h2>
+
+<p>
+    {{page.description}}
+</p>
+
+<ul>
+    {% for sujet in page.sujets %}
+        <li>{{sujet}}</li>
+    {% endfor %}
+</ul>
+
 {{content}}

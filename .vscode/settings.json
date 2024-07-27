@@ -23,6 +23,8 @@
         "_posts": true,
         "_sass": true,
         "_sections": true,
-        "docs": true
+        "docs": true,
+        "README.md": true,
+        "plan-formation-global.html": true
     }
 }

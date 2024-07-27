@@ -20,7 +20,7 @@ layout : chapters
 <ul>
     {% for concept in concepts %}
     <li>
-        <a href="{{site.baseurl}}{{concept.url}}"> {{concept.title}} </a>
+        <a href="{{site.baseurl}}{{concept.url}}">{{concept.order}} - {{concept.title}} </a>
     </li>
     {%- endfor -%}
 </ul>

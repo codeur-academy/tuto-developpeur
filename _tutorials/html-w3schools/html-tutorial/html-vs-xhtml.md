@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML vs. XHTML
 description: ''
-ordre: '39'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_xhtml.asp
 layout: tutorials
 slug: html-vs--xhtml
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

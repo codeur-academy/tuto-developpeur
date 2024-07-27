@@ -8,9 +8,11 @@ sujet: Élément <img>
 description: Insérer des images dans les pages HTML en utilisant l'élément <img> et
   apprendre à spécifier les attributs nécessaires pour une utilisation optimale.
 learning_order: ''
-ordre: '12'
+order: 13
 directory: apprendre-html/images-multimédia
 layout: concepts
 slug: intégration-images
 tutorials: ''
+Todo: ''
+sujets: Élément <img>
 ---

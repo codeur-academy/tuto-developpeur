@@ -8,9 +8,11 @@ sujet: Envoi des données vers le serveur
 description: Apprendre à gérer les soumissions de formulaires HTML pour envoyer les
   données saisies par les utilisateurs vers un serveur pour traitement.
 learning_order: ''
-ordre: '17'
+order: 18
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: gestion-soumissions-formulaires
 tutorials: ''
+Todo: ''
+sujets: Envoi des données vers le serveur
 ---

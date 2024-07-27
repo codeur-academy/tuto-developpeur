@@ -8,9 +8,11 @@ sujet: Organisation du contenu
 description: Structurer des listes de contenu textuel de manière claire et organisée
   en utilisant des listes ordonnées et non ordonnées.
 learning_order: ''
-ordre: '7'
+order: 8
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: listes-ordonnées-et-non-ordonnées
 tutorials: ''
+Todo: ''
+sujets: Organisation du contenu
 ---

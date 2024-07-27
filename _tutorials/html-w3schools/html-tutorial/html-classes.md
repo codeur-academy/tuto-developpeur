@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Classes
 description: ''
-ordre: '23'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_classes.asp
 layout: tutorials
 slug: html-classes
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

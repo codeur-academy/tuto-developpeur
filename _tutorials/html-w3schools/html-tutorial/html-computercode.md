@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Computercode
 description: ''
-ordre: '31'
+order: ''
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_computercode_elements.asp
 layout: tutorials
 slug: html-computercode
+category: ''
+sujets: ''
+'': ''
+order: 0
 ---

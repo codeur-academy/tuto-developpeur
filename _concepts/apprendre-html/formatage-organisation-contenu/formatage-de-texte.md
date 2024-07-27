@@ -9,9 +9,11 @@ description: Mettre en forme le texte des pages HTML en utilisant des styles tel
   que gras, italique, souligné et couleurs pour améliorer la lisibilité et l'attractivité
   du contenu.
 learning_order: ''
-ordre: '6'
+order: 7
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: formatage-de-texte
 tutorials: ''
+Todo: ''
+sujets: Gras, italique, souligné, couleurs
 ---

@@ -9,9 +9,11 @@ description: Intégrer des éléments multimédias tels que des vidéos et des s
   les pages HTML pour enrichir le contenu et offrir une expérience utilisateur plus
   interactive.
 learning_order: ''
-ordre: '14'
+order: 15
 directory: apprendre-html/images-multimédia
 layout: concepts
 slug: éléments-multimédias
 tutorials: ''
+Todo: ''
+sujets: Vidéos, etc.
 ---

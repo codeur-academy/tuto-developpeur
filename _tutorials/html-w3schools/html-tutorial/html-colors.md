@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML Colors
 description: ''
-ordre: '13'
+order: '21'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/html_colors.asp
 layout: tutorials
 slug: html-colors
+category: ''
+sujets: ''
+'': ''
+order: 21
 ---

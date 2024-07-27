@@ -8,9 +8,11 @@ sujet: Collecter des données auprès des utilisateurs
 description: Créer des formulaires HTML pour permettre aux utilisateurs de saisir
   des informations, telles que des noms, des emails, des commentaires ou des choix.
 learning_order: ''
-ordre: '15'
+order: 16
 directory: apprendre-html/formatage-organisation-contenu
 layout: concepts
 slug: création-de-formulaires
 tutorials: ''
+Todo: ''
+sujets: Collecter des données auprès des utilisateurs
 ---

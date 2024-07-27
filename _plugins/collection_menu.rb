@@ -49,7 +49,7 @@ module Jekyll
 
         # pp menu_items 
 
-        # Trier les éléments de chaque part par ordre croissant
+        # Trier les éléments de chaque part par order croissant
         menu_items.each do |part, elements|
           elements.sort_by! { |element| element["order"] }
         end

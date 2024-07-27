@@ -7,13 +7,20 @@ tutorials:
 - html-w3schools-html-introduction
 title: Concepts fondamentaux
 title_en: Fundamental Concepts
-sujet: Structure et syntaxe d'un document HTML
+sujet: |-
+  - Qu'est-ce qu'un Élément HTML ?
+  - Structure d'une Page HTML
 description: Apprendre les éléments de base d'un document HTML, tels que <html>, <head>
   et <body>, et comprendre la structure et la syntaxe du code HTML.
 learning_order: ''
-ordre: '2'
+order: 2
 directory: apprendre-html/introduction-html
 layout: concepts
+Todo: ''
+sujets:
+- Qu'est
+- ce qu'un Élément HTML ?
+- Structure d'une Page HTML
 ---
 
 ## La structure de base d'une page HTML

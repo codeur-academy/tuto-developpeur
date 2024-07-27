@@ -7,9 +7,13 @@ language: en
 title: ''
 title_en: HTML HOME
 description: ''
-ordre: '1'
+order: '1'
 directory: html-w3schools/html-tutorial
 link: https://www.w3schools.com/html/default.asp
 layout: tutorials
 slug: html-home
+category: introduction
+sujets: ''
+'': ''
+order: 1
 ---
