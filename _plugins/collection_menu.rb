@@ -28,7 +28,7 @@ module Jekyll
         menu_items = chapters_collection.docs.map do |doc|
           {
             "label" => doc.data["title"],
-            "part_reference" => doc.data["part"],
+            "part_reference" => doc.data["part_reference"],
             "order" => doc.data["order"],
             "url" => doc.url,
             "doc" => doc
@@ -87,15 +87,15 @@ module Jekyll
 # pp menu_items 
 # meu_item = {
 #   "introduction" => [
-#     { "label" => "Introduction", "part" => "introduction", "order" => 5, "url" => "/index.html" },
-#     { "label" => "Présentation du formateur", "part" => "introduction", "order" => 2, "url" => "/présentation-formateur.html" },
-#     { "label" => "Déroulement de la formation", "part" => "introduction", "order" => 3, "url" => "/déroulement-formation.html" },
-#     { "label" => "Plan du formation", "part" => "introduction", "order" => 4, "url" => "/plan-formation.html" }
+#     { "label" => "Introduction", "part_reference" => "introduction", "order" => 5, "url" => "/index.html" },
+#     { "label" => "Présentation du formateur", "part_reference" => "introduction", "order" => 2, "url" => "/présentation-formateur.html" },
+#     { "label" => "Déroulement de la formation", "part_reference" => "introduction", "order" => 3, "url" => "/déroulement-formation.html" },
+#     { "label" => "Plan du formation", "part_reference" => "introduction", "order" => 4, "url" => "/plan-formation.html" }
   #   ],
 #   "découvrir-langages-web" => [
-#     { "label" => "découvrir-langages-web", "part" => "découvrir-langages-web", "order" => 1, "url" => "/découvrir-langages-web.html" },
-#     { "label" => "Planning", "part" => "découvrir-langages-web", "order" => 2, "url" => "/planning.html" },
-#     { "label" => "Mini-projet", "part" => "découvrir-langages-web", "order" => 3, "url" => "/mini-projet-créer-portfolio-personnel.html" }
+#     { "label" => "découvrir-langages-web", "part_reference" => "découvrir-langages-web", "order" => 1, "url" => "/découvrir-langages-web.html" },
+#     { "label" => "Planning", "part_reference" => "découvrir-langages-web", "order" => 2, "url" => "/planning.html" },
+#     { "label" => "Mini-projet", "part_reference" => "découvrir-langages-web", "order" => 3, "url" => "/mini-projet-créer-portfolio-personnel.html" }
 #   ],
 #   # ... (autres sections du hash)
 # }

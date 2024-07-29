@@ -1,6 +1,6 @@
 ---
 layout : chapters
-part: auto-apprentissage
+part_reference: auto-apprentissage
 title : Apprendre HTML
 slug: apprendre-html
 order : 1

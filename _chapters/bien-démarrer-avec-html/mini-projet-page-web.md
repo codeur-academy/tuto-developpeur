@@ -5,7 +5,7 @@ concept: ''
 title: 'Mini-projet : page web'
 description: ''
 order: 5
-part: bien-démarrer-avec-html
+part_reference: bien-démarrer-avec-html
 directory: bien-démarrer-avec-html
 permalink: bien-démarrer-avec-html/mini-projet-page-web
 layout: chapters
