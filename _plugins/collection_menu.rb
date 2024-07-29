@@ -1,48 +1,83 @@
-
-# Il permet d'afficher la strcutre d'un objet dans la console : pp objet
 require 'pp'
 
 module Jekyll
+    # Création de menu principale
     class CollectionMenu < Jekyll::Generator
+
+      def debug(message)
+        puts message
+      end
 
       def generate(site)
 
-        puts "plugun - génération de menu principale"
+        debug("plugin - génération de menu principale")
 
-        # Les collection de l'application
         # chaque élément site.collections est un tableau de deux élément : 0 : label, 1 : collection
         chapters_collection  = site.collections.detect { |collection| collection[0] == "chapters" }[1]
         parts_collection  = site.collections.detect { |collection| collection[0] == "parts" }[1]
  
+       
+        # Add data to chaptyer 
+        chapters_collection.docs.each do |chapter|
+          chapter.data["next_chapter"]  = "next chapter php"
+          chapter.data["previous_chapter"]  = "next chapter php"
+        end
+
 
         # Array of menu items
         menu_items = chapters_collection.docs.map do |doc|
           {
             "label" => doc.data["title"],
-            "part" => doc.data["part"],
+            "part_reference" => doc.data["part"],
             "order" => doc.data["order"],
-            "url" => doc.url
+            "url" => doc.url,
+            "doc" => doc
           }
         end
-  
+
+        part_items = parts_collection.docs.map do |part|
+          {
+            "reference" => part.data["reference"],
+            "title" => part.data["title"],
+            "order" => part.data["order"],
+            "url" => part.url
+          }
+        end
+        part_items.sort_by! {|item| item["order"]}
+
+        # Add menu_items to part_items
+        part_items.each do |part|
+          part_menu_items = menu_items.select { |menu_item| menu_item["part_reference"] == part["reference"] }
+          part_menu_items.sort_by! { |menu_item| menu_item["order"] }
+          part["menu_items"] = part_menu_items
+        end
+        
+        # pp part_items
 
 
-        # Groupe by menu items par part
-        menu_items = menu_items.group_by { |item| item["part"] }
-
-        # pp menu_items 
-
-        # Trier les éléments de chaque part par order croissant
-        menu_items.each do |part, elements|
-          elements.sort_by! { |element| element["order"] }
+        # Calculate : previous_chapter
+        previous_chapter = nil
+        part_items.each_with_index do |part, part_index|
+          part["menu_items"].each do |menu_item|
+            menu_item["doc"].data["previous_chapter"] = previous_chapter
+            previous_chapter = menu_item
+          end
         end
 
+        next_chapter = nil
+        part_items.reverse_each do |part|
+          part["menu_items"].reverse_each do |menu_item|
+            menu_item["doc"].data["next_chapter"] = next_chapter
+            next_chapter = menu_item
+          end
+        end
 
-        
+         
+
 
         # enregistrement de menu dans site.data
-        site.data["collection_menus"] ||= {}
-        site.data["collection_menus"] = menu_items
+        site.data["part_items"] ||= {}
+        site.data["part_items"] = part_items
       end
     end
   end

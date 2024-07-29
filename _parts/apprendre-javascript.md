@@ -2,7 +2,7 @@
 reference: apprendre-javascript
 title: Programmation Web avec JavaScript
 description: ''
-image: "../images/image.png"
+image: ''
 in_book: 'true'
 order: 4
 module: base-javascript

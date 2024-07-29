@@ -2,7 +2,7 @@
 reference: apprendre-css
 title: Développement de Sites Web Statiques avec CSS
 description: ''
-image: "../images/image.png"
+image: ''
 in_book: 'true'
 order: 3
 module: base-css

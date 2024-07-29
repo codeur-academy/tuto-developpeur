@@ -6,32 +6,27 @@
     </a>
   
     <ol class="chapter">
-        {%- assign chapter_number = 1 -%}
-        {%- assign parts = site.parts | where: "in_book" , true -%}
-        {% for part in site.data["collection_menus"] %}
 
-        {%- assign chapters = part[1]  -%}
+        {% for part in site.data["part_items"] %}
+
+        {%- assign chapters = part["menu_items"]  -%}
        
-     
         <li class="chapter-item expanded affix"></li>
-        <li class="part-title"> {{part[0]}}</li>
+        <li class="part-title"> {{part["title"]}}</li>
             {% for chapter in chapters %}
-        <li class="chapter-item expanded">
-            <a href="{{site.baseurl}}{{chapter.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
-                <strong aria-hidden="true">{{chapter_number}}.</strong>  
-                {%- if chapter.title_in_part -%}
-                {{ chapter.title_in_part | escape }}
-                {%- else -%}
-                {{ chapter.label | escape }}
-                {%- endif -%}
-            </a>
-        </li>  
-        {%- assign chapter_number = chapter_number | plus: 1 -%}  
-        
-
+            <li class="chapter-item expanded">
+                <a href="{{site.baseurl}}{{chapter.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
+                    <strong aria-hidden="true"></strong>  
+                    {%- if chapter.title_in_part -%}
+                    {{ chapter.title_in_part | escape }}
+                    {%- else -%}
+                    {{ chapter.label | escape }}
+                    {%- endif -%}
+                </a>
+            </li>  
             {%- endfor -%}
         {%- endfor -%}
     </ol>
     </div>
        <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
-    </nav>
+</nav>
