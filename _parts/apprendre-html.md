@@ -4,7 +4,8 @@ title: Développement de Sites Web Statiques avec HTML
 description: ''
 image: ''
 in_book: 'true'
-order: 2
+order: 3
 module: base-html
 layout: parts
+published: true
 ---

@@ -32,6 +32,14 @@ module Jekyll
               hash[key] = array
           end
 
+          if value.is_a?(String) && value == 'TRUE'
+            hash[key] = true
+          end
+          if value.is_a?(String) && value == 'FALSE'
+            hash[key] = false
+          end
+
+
         end
         hash
       end

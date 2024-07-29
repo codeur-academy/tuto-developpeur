@@ -25,50 +25,42 @@ module Jekyll
 
 
         # Array of menu items
-        menu_items = chapters_collection.docs.map do |doc|
-          {
-            "label" => doc.data["title"],
-            "part_reference" => doc.data["part_reference"],
-            "order" => doc.data["order"],
-            "url" => doc.url,
-            "doc" => doc
-          }
-        end
+        chapter_items = chapters_collection.docs
+        part_items = parts_collection.docs
+        part_items = part_items.select { |part| part.data["published"] == true}
+        part_items.sort_by! {|item| item.data["order"]}
 
-        part_items = parts_collection.docs.map do |part|
-          {
-            "reference" => part.data["reference"],
-            "title" => part.data["title"],
-            "order" => part.data["order"],
-            "url" => part.url
-          }
-        end
-        part_items.sort_by! {|item| item["order"]}
-
-        # Add menu_items to part_items
+        # Add chapter_items to part_items
         part_items.each do |part|
-          part_menu_items = menu_items.select { |menu_item| menu_item["part_reference"] == part["reference"] }
-          part_menu_items.sort_by! { |menu_item| menu_item["order"] }
-          part["menu_items"] = part_menu_items
+          
+          part_chapter_items = chapter_items.select { |chapter_item| chapter_item.data["part_reference"] == part.data["reference"] }
+          part_chapter_items.sort_by! { |chapter_item| chapter_item.data["order"] }
+
+          first_chapter_in_part = part_chapter_items[0]
+          part_chapter_items.each do |chapter_item|
+            chapter_item.data["part"] = part
+            chapter_item.data["first_chapter_in_part"] = first_chapter_in_part
+          end
+          part.data["chapter_items"] = part_chapter_items
         end
         
-        # pp part_items
-
+     
 
         # Calculate : previous_chapter
         previous_chapter = nil
         part_items.each_with_index do |part, part_index|
-          part["menu_items"].each do |menu_item|
-            menu_item["doc"].data["previous_chapter"] = previous_chapter
-            previous_chapter = menu_item
+          part.data["chapter_items"].each do |chapter_item|
+            chapter_item.data["previous_chapter"] = previous_chapter
+            previous_chapter = chapter_item
           end
         end
 
+        # Calculate : next_chapter
         next_chapter = nil
         part_items.reverse_each do |part|
-          part["menu_items"].reverse_each do |menu_item|
-            menu_item["doc"].data["next_chapter"] = next_chapter
-            next_chapter = menu_item
+          part.data["chapter_items"].reverse_each do |chapter_item|
+            chapter_item.data["next_chapter"] = next_chapter
+            next_chapter = chapter_item
           end
         end
 
@@ -84,7 +76,7 @@ module Jekyll
   
 
 
-# pp menu_items 
+# pp chapter_items 
 # meu_item = {
 #   "introduction" => [
 #     { "label" => "Introduction", "part_reference" => "introduction", "order" => 5, "url" => "/index.html" },

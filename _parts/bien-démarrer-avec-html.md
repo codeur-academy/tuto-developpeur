@@ -8,4 +8,5 @@ in_book: 'true'
 order: 1
 module: introduction-programmation-web
 layout: parts
+published: true
 ---

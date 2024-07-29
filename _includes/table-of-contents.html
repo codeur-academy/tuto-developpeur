@@ -9,7 +9,7 @@
 
         {% for part in site.data["part_items"] %}
 
-        {%- assign chapters = part["menu_items"]  -%}
+        {%- assign chapters = part["chapter_items"]  -%}
        
         <li class="chapter-item expanded affix"></li>
         <li class="part-title"> {{part["title"]}}</li>
@@ -20,7 +20,7 @@
                     {%- if chapter.title_in_part -%}
                     {{ chapter.title_in_part | escape }}
                     {%- else -%}
-                    {{ chapter.label | escape }}
+                    {{ chapter.title | escape }}
                     {%- endif -%}
                 </a>
             </li>  
