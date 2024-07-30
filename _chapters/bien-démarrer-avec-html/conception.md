@@ -1,13 +1,13 @@
 ---
-reference: conslusion-bien-démarrer-avec-html
-slug: conslusion
+reference: conception-bien-démarrer-avec-html
+slug: conception
 concept: ''
-title: Conslusion
+title: Conception
 description: ''
-order: 11
+order: 8
 part_reference: bien-démarrer-avec-html
 directory: bien-démarrer-avec-html
-permalink: bien-démarrer-avec-html/conslusion
+permalink: bien-démarrer-avec-html/conception
 layout: chapters
 phase: ''
 ---

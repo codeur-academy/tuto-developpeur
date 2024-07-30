@@ -55,10 +55,15 @@ layout: default
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                   <li class="breadcrumb-item"><a href="{{site.baseurl}}{{page.first_chapter_in_part.url}}">{{page.part.title}}</a></li>
+                  {% if page.phase != '' %}
+                   
+                  {% assign chapter_phase = site.chapters | where: 'reference', page.phase | first:  %}
+                  <li class="breadcrumb-item"><a href="{{site.baseurl}}{{chapter_phase.url}}">{{chapter_phase.title}}</a></li>
+                  {% endif %}
                   <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
                 </ol>
               </nav>
-            {% include concertps_in_chapter.html %}
+            {% include concepts_in_chapter.html %}
             {{ content }}
         </main>
 

@@ -4,9 +4,10 @@ slug: installation-des-outils
 concept: installation-des-outils-apprendre-html
 title: Installation des outils
 description: ''
-order: 4
+order: 6
 part_reference: bien-démarrer-avec-html
 directory: bien-démarrer-avec-html
 permalink: bien-démarrer-avec-html/installation-des-outils
 layout: chapters
+phase: apprentissage-bien-démarrer-avec-html
 ---
