@@ -11,7 +11,7 @@ module Jekyll
       
       def initialize()
         @data_directory = "_data/collections"
-        @base_url_sheet = "https://docs.google.com/spreadsheets/d/1cqSXFUiT1bo4jhnm8WYTd_uMM3gOg2a6h9ixlz3mA9E/gviz/tq?tqx=out:csv&sheet="
+        @base_url_sheet = "https://docs.google.com/spreadsheets/d/1z_kyk6ZUFuHoEvKAxw-Vrk6oRQjj-q4OkgapUAbgA4o/gviz/tq?tqx=out:csv&sheet="
       end
 
       def convert_strings_to_arrays(hash)
