@@ -70,6 +70,7 @@ module Jekyll
         # enregistrement de menu dans site.data
         site.data["part_items"] ||= {}
         site.data["part_items"] = part_items
+        pp part_items
       end
     end
   end

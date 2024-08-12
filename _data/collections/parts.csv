@@ -1,0 +1,78 @@
+"reference","unit_reference","module_reference","title","description","porposition_projet","topics","skill_level_reference","image","published","order"
+"introduction-informatique","introduction-informatique-web","informatique-web","Introduction à l'informatique","Comprendre les concepts de base de l'informatique et le fonctionnement des ordinateurs","","- Concepts de base de l'informatique
+- Fonctionnement de l'ordinateur
+- Rôle des langages de programmation","","","TRUE","1"
+"introduction-web","introduction-informatique-web","informatique-web","Introduction au Web","Comprendre les fondamentaux du Web, d'Internet et  le rôle des langages HTML, CSS, JS","Création d'une page web simple affichant un message de bienvenue","- Définition de Web et Internet
+- Définition de HTML, CSS, et JavaScript
+- Concepts de base : client/serveur, requête, réponse
+- Définition de HTTP
+","","","TRUE","2"
+"environnement-développement","introduction-informatique-web","informatique-web","Environnement de développement","Configurer un environnement de développement web efficace","Installer et configurer VS Code","- Installation d'un éditeur de code (VS Code)
+- Configuration de l'éditeur et des extensions utiles","","","TRUE","3"
+"variable-affectation","base-programmation-js","programmation","Variable et affectation","","","","","","TRUE","4"
+"structures-contrôle","base-programmation-js","programmation","Structures de contrôle","","","","","","","5"
+"fonctions","base-programmation-js","programmation","Fonctions","","","","","","","6"
+"html-fondamentaux ","html-css-js-bases","page-web","Fondamentaux HTML","Comprendre les bases du langage, structurer une page web simple et l'afficher dans un navigateur.","- Créer une page web avec des titres, paragraphes, images, liens et listes
+","Structure de base: <!DOCTYPE html>, <html>, <head>, <body>.
+Éléments de base: <h1> à <h6>, <p>, <a>, <img>, <ul>, <ol>, <li>.
+Attributs essentiels: href, src, alt.","html-débutant","","TRUE","7"
+"html-contenu ","html-css-js-bases","page-web","Contenu HTML","","- Créer une page personnelle simple avec votre nom, une photo et une brève présentation.
+- Construire une liste de liens vers vos sites web préférés","","html-débutant","","","8"
+"css-fondamentaux ","html-css-js-bases","page-web","Fondamentaux CSS","Comprendre les bases du CSS, styliser des éléments HTML de manière simple et créer des mises en page de base.","- Styliser la page web créée précédemment en utilisant les sélecteurs et les propriétés de base du CSS
+- Créer une mise en page à deux colonnes.
+- Centrer du texte et des images.","Sélecteurs: id, class, éléments, attributs.
+Propriétés de base: color, font-size, background-color, width, height, margin, padding.
+Boîte CSS: Comprendre le modèle de boîte (box model).
+Mises en page simples: Utiliser les floats ou les positions pour organiser les éléments.","css-débutant","","TRUE","9"
+"js-fondamentaux ","html-css-js-bases","page-web","Initiation à DOM avec JavaScript","Manipuler le DOM avec JavaScript et gérer les événements","- Ajouter des interactions simples à la page web, comme changer la couleur du texte au clic d'un bouton
+- Créer un compteur de clics.
+- Faire apparaître ou disparaître un élément au survol.","DOM: Document Object Model, accéder et modifier les éléments HTML.
+Événements: onclick, onmouseover, etc.
+Fonctions: Définir et appeler des fonctions.","js-débutant","","TRUE","10"
+"projet-base-html-css-js","html-css-js-bases","page-web","Projet 1 : CV en ligne","Intégrer les compétences acquises en HTML, CSS et JavaScript","Créer une page web simple présentant votre parcours (CV en ligne)","Intégrer les compétences acquises en HTML, CSS et JavaScript","","","TRUE","11"
+"structure-de-données","algorithme","logique-programmation","Structure de données","Comprendre les structures de données ","","","","","TRUE","12"
+"algorithmique","algorithme","logique-programmation","Algorithmique","développer des algorithmes efficaces","","","","","TRUE","13"
+"html-intermédiaire","html-css-js-maîtrise","page-web","HTML intermédiaire","Approfondir les connaissances en HTML, créer des structures plus complexes et maîtriser les tableaux, les formulaires et les iframes.","Créer un formulaire de contact avec validation des données.
+Construire une page web dynamique avec des onglets.
+Intégrer une carte interactive à l'aide d'un iframe.","Tables: <table>, <tr>, <td>, <th>.
+Formulaires: <form>, <input>, <select>, <textarea>.
+Iframes: <iframe>.
+Sémantique: Utiliser les éléments HTML5 pour améliorer le référencement et l'accessibilité (ex : header, nav, section, article, footer).","html-intermédiaire","","TRUE","14"
+"css-intermédiaire","html-css-js-maîtrise","page-web","CSS intermédiaire","Approfondir les connaissances en CSS, créer des mises en page plus complexes et maîtriser les concepts de flexbox et de grid.","- Créer une mise en page complexe en utilisant Flexbox et Grid
+- Créer une carte de visite interactive.
+- Construire un formulaire stylisé.
+- Développer un header et un footer réutilisables","Flexbox: Créer des mises en page responsives et flexibles.
+Grid: Organiser des éléments dans une grille.
+Positionnement: position, top, bottom, left, right.
+Typographie: Utiliser les propriétés avancées de font-family, font-weight, line-height.
+Pseudo-classes et pseudo-éléments: :hover, :active, ::before, ::after.","css-intermédiaire","","TRUE","15"
+"js-intermédiaire","html-css-js-maîtrise","page-web","JavaScript intermédiaire","- Approfondir les concepts de JavaScript, travailler avec les objets, manipuler les tableaux, et réaliser des opérations asynchrones.","Objets: Créer et utiliser des objets.
+Tableaux: Manipuler des collections de données.
+Asynchronisme: setTimeout, setInterval, async/await.
+DOM avancé: Traverser le DOM, manipuler les attributs et les styles.","Objets: Créer et utiliser des objets.
+Tableaux: Manipuler des collections de données.
+Asynchronisme: setTimeout, setInterval, async/await.
+DOM avancé: Traverser le DOM, manipuler les attributs et les styles.","js-intermédiaire","","TRUE","16"
+"projet-html-css-js-intermédiaire","html-css-js-maîtrise","page-web","Projet 2 : Quiz interactif","Intégrer les compétences intermédiaire en HTML, CSS et JavaScript","Créer un quiz interactif avec fonctionnalités avancées (suivi des scores, personnalisation)
+","","","","TRUE","17"
+"git","git","Initiation-git","Initiation à la gestion de version","","","","","","TRUE","18"
+"poo-js","poo-js","poo-js","Programmation orienté objet avec Javascript","","","","","","",""
+"html-avancée","html-css-js-avancée","site-web","Optimisation et accessibilité HTML","Optimiser les pages web pour la performance, l'accessibilité et le SEO","Optimiser une page web existante pour améliorer ses performances et son accessibilité","Optimisation: Minimiser le code, utiliser un CDN, améliorer le temps de chargement.
+Accessibilité: Respecter les normes WCAG.","html-avancé","","TRUE","19"
+"css-animations ","html-css-js-avancée","site-web","CSS pour animations et transitions","Maîtriser les techniques avancées de CSS, créer des animations et des effets visuels, et optimiser le code pour les performances.","- Créer un slider d'images animé.
+- Développer un portfolio avec des effets de parallaxe.
+- Construire un site web entièrement personnalisé avec un design unique","Préprocesseurs: Sass, Less.
+Animations CSS: transition, animation.
+Médias queries: Créer des sites web responsives.
+Optimisation: Minimiser le code CSS, utiliser des sprites.
+Frameworks CSS: Bootstrap, Foundation.","css-avancé","","TRUE","20"
+"css-responsive-design","html-css-js-avancée","site-web","","Responsive design","","","","","",""
+"js-avancée","html-css-js-avancée","site-web","JavaScript pour applications web modernes","Maîtriser les concepts avancés de JavaScript, développer des applications web complexes, et utiliser des frameworks JavaScript.","Utiliser Fetch pour récupérer des données d'une API et les afficher sur une page web","Programmation orientée objet: Classes, héritage, polymorphisme.
+AJAX: Asynchronous JavaScript and XML, communiquer avec des serveurs.
+Bibliothèques: jQuery, Lodash.","js-avancé","","TRUE","21"
+"projet-html-css-js-avancée","html-css-js-avancée","site-web","Projet 3 : Application web interactive","Développer une application web interactive complète","Développer une application web interactive (todo list, quiz, jeu simple)","","","","TRUE","22"
+"optimisation-performances","spécialisation-création-site-web","site-web","Optimisation des performances","Optimiser les performances des sites web","Utiliser Webpack pour optimiser une application web","1. Techniques d'optimisation
+   - Minification, compression, lazy loading
+2. Gestion de build
+   - Introduction à Webpack et Parcel","","","TRUE","23"
+"projet-final-base-frent-end","spécialisation-création-site-web","site-web","Projet final","Intégrer toutes les compétences acquises pour créer un site web complet et optimisé","Créer un site web complet intégrant toutes les connaissances et compétences acquises pour un site optimisé et performant","","","","TRUE","24"

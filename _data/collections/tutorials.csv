@@ -1,0 +1,73 @@
+"reference","slug","order","part","concept_reference","title","description","sujets","resource_categories","ressource","language","directory","link"
+"html-w3schools-html-home","html-home","1","","","HTML HOME","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/default.asp"
+"html-w3schools-html-introduction","html-introduction","2","","","HTML Introduction","HTML: The language that defines the structure and content of web pages.","- Qu'est-ce que le HTML ?
+- Un Document HTML Simple
+- Qu'est-ce qu'un Élément HTML ?
+- Les Navigateurs Web
+- Structure d'une Page HTML
+- Historique du HTML","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_intro.asp"
+"html-w3schools-html-editors","html-editors","3","","","HTML Editors","","- Ouvrir le Bloc-notes.
+- Écrire du code HTML.
+- Enregistrer en .html.
+- Ouvrir dans un navigateur.","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_editors.asp"
+"html-w3schools-html-basic","html-basic","4","","","HTML Basic","","- Documents HTML
+- Déclaration DOCTYPE
+- Titres HTML
+- Paragraphes HTML
+- Liens HTML
+- Images HTML
+- Comment voir le code source HTML
+    - Voir le code source HTML
+    - Inspecter un élément HTML
+- Exercices HTML ","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_basic.asp"
+"html-w3schools-html-elements","html-elements","5","","","HTML Elements","","- HTML Elements
+- Nested HTML Elements
+- Never Skip the End Tag
+- Empty HTML Elements
+- HTML is Not Case Sensitive","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_elements.asp"
+"html-w3schools-html-attributes","html-attributes","6","","","HTML Attributes","","- HTML Attributes
+- The href Attribute
+- The src Attribute
+- The width and height Attributes
+- The alt Attribute
+- The title Attribute
+- We Suggest: Always Quote Attribute Values","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_attributes.asp"
+"html-w3schools-html-headings","html-headings","7","","","HTML Headings","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_headings.asp"
+"html-w3schools-html-paragraphs","html-paragraphs","8","","","HTML Paragraphs","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_paragraphs.asp"
+"html-w3schools-html-links","html-links","9","","","HTML Links","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_links.asp"
+"html-w3schools-html-formatting","html-formatting","10","","","HTML Formatting","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_formatting.asp"
+"html-w3schools-html-styles","html-styles","11","","","HTML Styles","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_styles.asp"
+"html-w3schools-html-images","html-images","12","","","HTML Images","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_images.asp"
+"html-w3schools-html-colors","html-colors","13","","","HTML Colors","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_colors.asp"
+"html-w3schools-html-comments","html-comments","14","","","HTML Comments","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_comments.asp"
+"html-w3schools-html-quotations","html-quotations","15","","","HTML Quotations","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_quotation_elements.asp"
+"html-w3schools-html-css","html-css","16","","","HTML CSS","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_css.asp"
+"html-w3schools-html-favicon","html-favicon","17","","","HTML Favicon","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_favicon.asp"
+"html-w3schools-html-page-title","html-page-title","18","","","HTML Page Title","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_page_title.asp"
+"html-w3schools-html-tables","html-tables","19","","","HTML Tables","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_tables.asp"
+"html-w3schools-html-lists","html-lists","20","","","HTML Lists","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_lists.asp"
+"html-w3schools-html-block---inline","html-block---inline","21","","","HTML Block & Inline","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_blocks.asp"
+"html-w3schools-html-div","html-div","22","","","HTML Div","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_div.asp"
+"html-w3schools-html-classes","html-classes","23","","","HTML Classes","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_classes.asp"
+"html-w3schools-html-id","html-id","24","","","HTML Id","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_id.asp"
+"html-w3schools-html-iframes","html-iframes","25","","","HTML Iframes","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_iframe.asp"
+"html-w3schools-html-javascript","html-javascript","26","","","HTML JavaScript","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_scripts.asp"
+"html-w3schools-html-file-paths","html-file-paths","27","","","HTML File Paths","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_filepaths.asp"
+"html-w3schools-html-head","html-head","28","","","HTML Head","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_head.asp"
+"html-w3schools-html-layout","html-layout","29","","","HTML Layout","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_layout.asp"
+"html-w3schools-html-responsive","html-responsive","30","","","HTML Responsive","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_responsive.asp"
+"html-w3schools-html-computercode","html-computercode","31","","","HTML Computercode","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_computercode_elements.asp"
+"html-w3schools-html-semantics","html-semantics","32","","","HTML Semantics","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html5_semantic_elements.asp"
+"html-w3schools-html-style-guide","html-style-guide","33","","","HTML Style Guide","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html5_syntax.asp"
+"html-w3schools-html-entities","html-entities","34","","","HTML Entities","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_entities.asp"
+"html-w3schools-html-symbols","html-symbols","35","","","HTML Symbols","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_symbols.asp"
+"html-w3schools-html-emojis","html-emojis","36","","","HTML Emojis","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_emojis.asp"
+"html-w3schools-html-charsets","html-charsets","37","","","HTML Charsets","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_charset.asp"
+"html-w3schools-html-url-encode","html-url-encode","38","","","HTML URL Encode","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_urlencode.asp"
+"html-w3schools-html-vs--xhtml","html-vs--xhtml","39","","","HTML vs. XHTML","","","html-tutorial","html-w3schools","en","html-w3schools/html-tutorial","https://www.w3schools.com/html/html_xhtml.asp"
+"html-w3schools-html-forms","html-forms","40","","","HTML Forms","","","html-forms","html-w3schools","en","html-w3schools/html-forms",""
+"html-w3schools-html-form-attributes","html-form-attributes","41","","","HTML Form Attributes","","","html-forms","html-w3schools","en","html-w3schools/html-forms",""
+"html-w3schools-html-form-elements","html-form-elements","42","","","HTML Form Elements","","","html-forms","html-w3schools","en","html-w3schools/html-forms",""
+"html-w3schools-html-input-types","html-input-types","43","","","HTML Input Types","","","html-forms","html-w3schools","en","html-w3schools/html-forms",""
+"html-w3schools-html-input-attributes","html-input-attributes","44","","","HTML Input Attributes","","","html-forms","html-w3schools","en","html-w3schools/html-forms",""
+"html-w3schools-input-form-attributes","input-form-attributes","45","","","Input Form Attributes","","","html-forms","html-w3schools","en","html-w3schools/html-forms",""
