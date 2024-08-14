@@ -1,5 +1,5 @@
 ---
-reference: 'html-fondamentaux '
+reference: html-fondamentaux
 unit_reference: html-css-js-bases
 module_reference: page-web
 title: Fondamentaux HTML
@@ -14,6 +14,6 @@ topics: |-
 skill_level_reference: html-débutant
 image: ''
 published: true
-order: 7
+order: 8
 layout: parts
 ---

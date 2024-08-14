@@ -10,6 +10,6 @@ topics: "1. Techniques d'optimisation\r\n   - Minification, compression, lazy lo
 skill_level_reference: ''
 image: ''
 published: true
-order: 23
+order: 26
 layout: parts
 ---

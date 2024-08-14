@@ -1,5 +1,5 @@
 ---
-reference: 'css-fondamentaux '
+reference: css-fondamentaux
 unit_reference: html-css-js-bases
 module_reference: page-web
 title: Fondamentaux CSS
@@ -18,6 +18,6 @@ topics: |-
 skill_level_reference: css-débutant
 image: ''
 published: true
-order: 9
+order: 10
 layout: parts
 ---

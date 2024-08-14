@@ -1,5 +1,5 @@
 ---
-reference: 'css-animations '
+reference: css-animations
 unit_reference: html-css-js-avancée
 module_reference: site-web
 title: CSS pour animations et transitions
@@ -18,6 +18,6 @@ topics: |-
 skill_level_reference: css-avancé
 image: ''
 published: true
-order: 20
+order: 22
 layout: parts
 ---

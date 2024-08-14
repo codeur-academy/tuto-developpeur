@@ -14,6 +14,6 @@ topics:
 skill_level_reference: ''
 image: ''
 published: true
-order: 2
+order: 3
 layout: parts
 ---

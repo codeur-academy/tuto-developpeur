@@ -1,5 +1,5 @@
 ---
-reference: 'html-contenu '
+reference: html-contenu
 unit_reference: html-css-js-bases
 module_reference: page-web
 title: Contenu HTML
@@ -11,6 +11,6 @@ topics: ''
 skill_level_reference: html-débutant
 image: ''
 published: ''
-order: 8
+order: 9
 layout: parts
 ---

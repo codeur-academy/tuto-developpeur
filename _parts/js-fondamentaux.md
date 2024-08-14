@@ -1,5 +1,5 @@
 ---
-reference: 'js-fondamentaux '
+reference: js-fondamentaux
 unit_reference: html-css-js-bases
 module_reference: page-web
 title: Initiation à DOM avec JavaScript
@@ -16,6 +16,6 @@ topics: |-
 skill_level_reference: js-débutant
 image: ''
 published: true
-order: 10
+order: 11
 layout: parts
 ---
