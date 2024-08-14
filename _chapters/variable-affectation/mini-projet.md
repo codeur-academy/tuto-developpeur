@@ -7,7 +7,7 @@ concept: ''
 title: Mini-projet
 description: ''
 order: 2
-global_order: '19'
+global_order: '20'
 directory: variable-affectation
 permalink: variable-affectation/mini-projet
 layout: chapters

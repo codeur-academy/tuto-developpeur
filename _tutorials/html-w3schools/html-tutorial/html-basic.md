@@ -6,17 +6,10 @@ part: ''
 concept_reference: ''
 title: HTML Basic
 description: ''
-sujets:
-- Documents HTML
-- Déclaration DOCTYPE
-- Titres HTML
-- Paragraphes HTML
-- Liens HTML
-- Images HTML
-- Comment voir le code source HTML
-- Voir le code source HTML
-- Inspecter un élément HTML
-- Exercices HTML
+sujets: "- Documents HTML\r\n- Déclaration DOCTYPE\r\n- Titres HTML\r\n- Paragraphes
+  HTML\r\n- Liens HTML\r\n- Images HTML\r\n- Comment voir le code source HTML\r\n
+  \   - Voir le code source HTML\r\n    - Inspecter un élément HTML\r\n- Exercices
+  HTML \r"
 resource_categories: html-tutorial
 ressource: html-w3schools
 language: en

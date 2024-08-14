@@ -7,7 +7,7 @@ concept: concepts-client-serveur
 title: 'Concepts de base : client/serveur, requête, réponse'
 description: ''
 order: 4
-global_order: '10'
+global_order: '11'
 directory: introduction-web
 permalink: introduction-web/concepts-client-serveur
 layout: chapters

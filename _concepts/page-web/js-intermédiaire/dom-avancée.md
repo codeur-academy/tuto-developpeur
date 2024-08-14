@@ -7,8 +7,7 @@ unit_reference: html-css-js-maîtrise
 part: js-intermédiaire
 concept_categories: ''
 title: Manipulation avancée du DOM
-topics:
-- Techniques avancées pour manipuler le DOM
+topics: "- Techniques avancées pour manipuler le DOM"
 description: ''
 tutorials: ''
 Todo: ''

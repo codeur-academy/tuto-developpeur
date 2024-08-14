@@ -7,7 +7,7 @@ concept: ''
 title: Introduction
 description: ''
 order: 1
-global_order: '26'
+global_order: '27'
 directory: structures-contrôle
 permalink: structures-contrôle/introduction
 layout: chapters

@@ -7,7 +7,7 @@ concept: ''
 title: Apprentissage
 description: ''
 order: 3
-global_order: '28'
+global_order: '29'
 directory: structures-contrôle
 permalink: structures-contrôle/apprentissage
 layout: chapters

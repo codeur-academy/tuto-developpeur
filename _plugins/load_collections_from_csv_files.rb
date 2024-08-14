@@ -24,9 +24,9 @@ module Jekyll
               hash[key] = array
           end
 
-          if value.is_a?(String) && value.start_with?('-') 
+          if value.is_a?(String) && value.start_with?('*') 
 
-              array = value.split('-')
+              array = value.split('*')
               array.shift
               array = array.map(&:strip)
               hash[key] = array

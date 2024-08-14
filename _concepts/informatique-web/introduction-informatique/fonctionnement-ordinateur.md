@@ -7,8 +7,10 @@ unit_reference: introduction-informatique-web
 part: introduction-informatique
 concept_categories: introduction-informatique
 title: Fonctionnement de l'ordinateur
-topics: "   - Définition de l'ordinateur\r\n   - Matériel (hardware) vs logiciel (software)\r\n
-  \  - Les composants principaux d'un ordinateur (CPU, RAM, disque dur, etc.)"
+topics:
+- Définition de l'ordinateur
+- Matériel (hardware) vs logiciel (software)
+- Les composants principaux d'un ordinateur (CPU, RAM, disque dur, etc.)
 description: ''
 tutorials: ''
 Todo: ''

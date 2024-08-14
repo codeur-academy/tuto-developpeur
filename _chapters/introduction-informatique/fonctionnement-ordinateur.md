@@ -6,8 +6,8 @@ part_reference: introduction-informatique
 concept: fonctionnement-ordinateur
 title: Fonctionnement de l'ordinateur
 description: ''
-order: 4
-global_order: '4'
+order: 5
+global_order: '5'
 directory: introduction-informatique
 permalink: introduction-informatique/fonctionnement-ordinateur
 layout: chapters

@@ -7,7 +7,7 @@ concept: ''
 title: variables-types-données
 description: ''
 order: 5
-global_order: '22'
+global_order: '23'
 directory: variable-affectation
 permalink: variable-affectation/variables-types-données
 layout: chapters

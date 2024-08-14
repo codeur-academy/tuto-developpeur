@@ -7,7 +7,7 @@ concept: définition-http
 title: Définition de HTTP
 description: ''
 order: 5
-global_order: '11'
+global_order: '12'
 directory: introduction-web
 permalink: introduction-web/définition-http
 layout: chapters

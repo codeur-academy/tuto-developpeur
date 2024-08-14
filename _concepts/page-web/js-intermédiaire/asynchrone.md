@@ -7,8 +7,7 @@ unit_reference: html-css-js-maîtrise
 part: js-intermédiaire
 concept_categories: ''
 title: Asynchrone
-topics:
-- Utilisation des promesses et de async/await
+topics: "- Utilisation des promesses et de async/await"
 description: ''
 tutorials: ''
 Todo: ''

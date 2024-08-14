@@ -5,10 +5,10 @@ module_reference: site-web
 title: CSS pour animations et transitions
 description: Maîtriser les techniques avancées de CSS, créer des animations et des
   effets visuels, et optimiser le code pour les performances.
-porposition_projet:
-- Créer un slider d'images animé.
-- Développer un portfolio avec des effets de parallaxe.
-- Construire un site web entièrement personnalisé avec un design unique
+porposition_projet: |-
+  - Créer un slider d'images animé.
+  - Développer un portfolio avec des effets de parallaxe.
+  - Construire un site web entièrement personnalisé avec un design unique
 topics: |-
   Préprocesseurs: Sass, Less.
   Animations CSS: transition, animation.

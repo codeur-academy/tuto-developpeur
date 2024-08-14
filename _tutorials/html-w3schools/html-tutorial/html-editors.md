@@ -6,12 +6,8 @@ part: ''
 concept_reference: ''
 title: HTML Editors
 description: ''
-sujets:
-- Ouvrir le Bloc
-- notes.
-- Écrire du code HTML.
-- Enregistrer en .html.
-- Ouvrir dans un navigateur.
+sujets: "- Ouvrir le Bloc-notes.\r\n- Écrire du code HTML.\r\n- Enregistrer en .html.\r\n-
+  Ouvrir dans un navigateur."
 resource_categories: html-tutorial
 ressource: html-w3schools
 language: en

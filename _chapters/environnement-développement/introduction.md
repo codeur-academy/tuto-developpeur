@@ -7,7 +7,7 @@ concept: ''
 title: Introduction
 description: ''
 order: 1
-global_order: '13'
+global_order: '14'
 directory: environnement-développement
 permalink: environnement-développement/introduction
 layout: chapters

@@ -7,7 +7,7 @@ concept: ''
 title: Conception
 description: ''
 order: 6
-global_order: '31'
+global_order: '32'
 directory: structures-contrôle
 permalink: structures-contrôle/conception
 layout: chapters

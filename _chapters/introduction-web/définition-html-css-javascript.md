@@ -7,7 +7,7 @@ concept: définition-html-css-javascript
 title: Définition de HTML, CSS, et JavaScript
 description: ''
 order: 3
-global_order: '9'
+global_order: '10'
 directory: introduction-web
 permalink: introduction-web/définition-html-css-javascript
 layout: chapters

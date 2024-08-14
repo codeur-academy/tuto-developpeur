@@ -7,7 +7,7 @@ concept: ''
 title: 'Mini-projet : page web'
 description: ''
 order: 2
-global_order: '27'
+global_order: '28'
 directory: structures-contrôle
 permalink: structures-contrôle/mini-projet-page-web
 layout: chapters

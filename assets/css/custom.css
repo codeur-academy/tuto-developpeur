@@ -94,3 +94,8 @@ em{
 .rouge-table td {
     vertical-align: top;
 }
+
+h1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

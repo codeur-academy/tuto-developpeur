@@ -6,8 +6,8 @@ part_reference: introduction-informatique
 concept: concepts-base-informatique
 title: Concepts de base de l'informatique
 description: ''
-order: 3
-global_order: '3'
+order: 4
+global_order: '4'
 directory: introduction-informatique
 permalink: introduction-informatique/concepts-base-informatique
 layout: chapters

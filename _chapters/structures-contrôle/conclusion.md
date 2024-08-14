@@ -7,7 +7,7 @@ concept: ''
 title: Conclusion
 description: ''
 order: 8
-global_order: '33'
+global_order: '34'
 directory: structures-contrôle
 permalink: structures-contrôle/conclusion
 layout: chapters

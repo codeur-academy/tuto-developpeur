@@ -6,7 +6,7 @@
                 {{concept.description}}
             </p>
             <ul>
-                {% for sujet in concept.sujets %}
+                {% for sujet in concept.topics %}
                     <li>{{sujet}}</li>
                 {% endfor %}
             </ul>
@@ -16,7 +16,7 @@
             {% for tutorial_reference in tutorials  %}
                 <li>
                     {% assign tutorial = site.tutorials | where: "reference", tutorial_reference | first   %}
-                    {% assign tutoriel_title = tutorial.title_en  %}
+                    {% assign tutoriel_title = tutorial.title  %}
                     <div>
                         <a href="{{tutorial.link}}" target="_blank">{{ tutoriel_title }}</a>
                         <p>Langue : {{tutorial.language}} </p>
@@ -26,4 +26,4 @@
             {% endfor %}
             </ul>
                 <p>{{concept.content | markdownify}}</p>
-²{% endif %}
+{% endif %}

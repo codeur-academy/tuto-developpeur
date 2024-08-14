@@ -6,12 +6,12 @@ part: ''
 concept_reference: ''
 title: HTML Elements
 description: ''
-sujets:
-- HTML Elements
-- Nested HTML Elements
-- Never Skip the End Tag
-- Empty HTML Elements
-- HTML is Not Case Sensitive
+sujets: |-
+  - HTML Elements
+  - Nested HTML Elements
+  - Never Skip the End Tag
+  - Empty HTML Elements
+  - HTML is Not Case Sensitive
 resource_categories: html-tutorial
 ressource: html-w3schools
 language: en

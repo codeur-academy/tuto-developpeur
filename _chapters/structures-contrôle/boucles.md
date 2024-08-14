@@ -7,7 +7,7 @@ concept: boucles
 title: Structures de contrôle - boucles
 description: ''
 order: 5
-global_order: '30'
+global_order: '31'
 directory: structures-contrôle
 permalink: structures-contrôle/boucles
 layout: chapters

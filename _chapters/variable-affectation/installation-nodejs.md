@@ -7,7 +7,7 @@ concept: ''
 title: installation-nodejs
 description: ''
 order: 4
-global_order: '21'
+global_order: '22'
 directory: variable-affectation
 permalink: variable-affectation/installation-nodejs
 layout: chapters

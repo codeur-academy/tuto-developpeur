@@ -7,7 +7,7 @@ concept: ''
 title: Conclusion
 description: Tutorat - questions
 order: 5
-global_order: '17'
+global_order: '18'
 directory: environnement-développement
 permalink: environnement-développement/conclusion
 layout: chapters

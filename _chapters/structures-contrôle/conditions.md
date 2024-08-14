@@ -7,7 +7,7 @@ concept: conditions
 title: Structures de contrôle - conditions
 description: ''
 order: 4
-global_order: '29'
+global_order: '30'
 directory: structures-contrôle
 permalink: structures-contrôle/conditions
 layout: chapters

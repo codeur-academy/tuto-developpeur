@@ -6,8 +6,8 @@ part_reference: introduction-informatique
 concept: rôle-langages-programmation
 title: Rôle des langages de programmation
 description: ''
-order: 5
-global_order: '5'
+order: 6
+global_order: '6'
 directory: introduction-informatique
 permalink: introduction-informatique/rôle-langages-programmation
 layout: chapters

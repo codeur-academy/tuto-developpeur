@@ -1,9 +1,9 @@
 "reference","slug","order","module_reference","unit_reference","part","concept_categories","title","topics","description","tutorials","Todo","directory","permalink"
-"concepts-base-informatique","concepts-base-informatique","1","informatique-web","introduction-informatique-web","introduction-informatique","introduction-informatique","Concepts de base de l'informatique","   - Définition de l'informatique
-   - Importance de l'informatique dans le monde moderne","","","","informatique-web/introduction-informatique","informatique-web/concepts-base-informatique"
-"fonctionnement-ordinateur","fonctionnement-ordinateur","2","informatique-web","introduction-informatique-web","introduction-informatique","introduction-informatique","Fonctionnement de l'ordinateur","   - Définition de l'ordinateur
-   - Matériel (hardware) vs logiciel (software)
-   - Les composants principaux d'un ordinateur (CPU, RAM, disque dur, etc.)","","","","informatique-web/introduction-informatique","informatique-web/fonctionnement-ordinateur"
+"concepts-base-informatique","concepts-base-informatique","1","informatique-web","introduction-informatique-web","introduction-informatique","introduction-informatique","Concepts de base de l'informatique","* Définition de l'informatique
+* Importance de l'informatique dans le monde moderne","","[codeur-academy-algorithme-cest-quoi-linformatique]","","informatique-web/introduction-informatique","informatique-web/concepts-base-informatique"
+"fonctionnement-ordinateur","fonctionnement-ordinateur","2","informatique-web","introduction-informatique-web","introduction-informatique","introduction-informatique","Fonctionnement de l'ordinateur","* Définition de l'ordinateur
+* Matériel (hardware) vs logiciel (software)
+* Les composants principaux d'un ordinateur (CPU, RAM, disque dur, etc.)","","","","informatique-web/introduction-informatique","informatique-web/fonctionnement-ordinateur"
 "rôle-langages-programmation","rôle-langages-programmation","3","informatique-web","introduction-informatique-web","introduction-informatique","introduction-informatique","Rôle des langages de programmation","   - Langages de haut niveau vs bas niveau
    - Introduction aux différents types de langages de programmation (interprétés, compilés, etc.)","","","","informatique-web/introduction-informatique","informatique-web/rôle-langages-programmation"
 "définition-web-internet","définition-web-internet","4","informatique-web","introduction-informatique-web","introduction-web","introduction-web","Définition de Web et Internet","   - Différence entre Web et Internet

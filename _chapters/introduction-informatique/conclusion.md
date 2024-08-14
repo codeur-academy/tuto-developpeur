@@ -6,8 +6,8 @@ part_reference: introduction-informatique
 concept: ''
 title: Conclusion
 description: ''
-order: 6
-global_order: '6'
+order: 7
+global_order: '7'
 directory: introduction-informatique
 permalink: introduction-informatique/conclusion
 layout: chapters

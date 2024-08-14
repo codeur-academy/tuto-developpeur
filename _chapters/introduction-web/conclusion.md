@@ -7,7 +7,7 @@ concept: ''
 title: Conclusion
 description: ''
 order: 6
-global_order: '12'
+global_order: '13'
 directory: introduction-web
 permalink: introduction-web/conclusion
 layout: chapters
