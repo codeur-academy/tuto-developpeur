@@ -1,0 +1,14 @@
+---
+reference: structures-contrôle-conception
+slug: conception
+module_reference: programmation
+part_reference: structures-contrôle
+concept: ''
+title: Conception
+description: ''
+order: 6
+global_order: '31'
+directory: structures-contrôle
+permalink: structures-contrôle/conception
+layout: chapters
+---

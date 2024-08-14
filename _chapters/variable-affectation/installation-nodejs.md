@@ -6,8 +6,8 @@ part_reference: variable-affectation
 concept: ''
 title: installation-nodejs
 description: ''
-order: 0
-global_order: ''
+order: 4
+global_order: '21'
 directory: variable-affectation
 permalink: variable-affectation/installation-nodejs
 layout: chapters

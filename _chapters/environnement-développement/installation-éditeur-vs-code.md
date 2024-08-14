@@ -6,8 +6,8 @@ part_reference: environnement-développement
 concept: installation-éditeur-vs-code
 title: Installation d'un éditeur de code (VS Code)
 description: ''
-order: 0
-global_order: '16'
+order: 2
+global_order: '14'
 directory: environnement-développement
 permalink: environnement-développement/installation-éditeur-vs-code
 layout: chapters

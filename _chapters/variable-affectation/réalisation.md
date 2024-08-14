@@ -6,8 +6,8 @@ part_reference: variable-affectation
 concept: ''
 title: Réalisation
 description: ''
-order: 0
-global_order: ''
+order: 7
+global_order: '24'
 directory: variable-affectation
 permalink: variable-affectation/réalisation
 layout: chapters

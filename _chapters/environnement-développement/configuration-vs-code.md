@@ -6,8 +6,8 @@ part_reference: environnement-développement
 concept: configuration-vs-code
 title: Configuration de l'éditeur et des extensions utiles
 description: ''
-order: 0
-global_order: '17'
+order: 3
+global_order: '15'
 directory: environnement-développement
 permalink: environnement-développement/configuration-vs-code
 layout: chapters

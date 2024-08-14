@@ -6,8 +6,8 @@ part_reference: variable-affectation
 concept: ''
 title: variables-types-données
 description: ''
-order: 0
-global_order: ''
+order: 5
+global_order: '22'
 directory: variable-affectation
 permalink: variable-affectation/variables-types-données
 layout: chapters

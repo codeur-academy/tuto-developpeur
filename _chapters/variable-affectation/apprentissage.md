@@ -6,8 +6,8 @@ part_reference: variable-affectation
 concept: ''
 title: Apprentissage
 description: ''
-order: 0
-global_order: ''
+order: 3
+global_order: '20'
 directory: variable-affectation
 permalink: variable-affectation/apprentissage
 layout: chapters

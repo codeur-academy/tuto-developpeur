@@ -1,14 +1,14 @@
 ---
-reference: variable-affectation-conslusion
-slug: conslusion
+reference: variable-affectation-conclusion
+slug: conclusion
 module_reference: programmation
 part_reference: variable-affectation
 concept: ''
-title: Conslusion
+title: Conclusion
 description: ''
-order: 0
-global_order: ''
+order: 8
+global_order: '25'
 directory: variable-affectation
-permalink: variable-affectation/conslusion
+permalink: variable-affectation/conclusion
 layout: chapters
 ---

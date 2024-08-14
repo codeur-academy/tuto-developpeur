@@ -34,7 +34,7 @@
 "sélecteurs","sélecteurs","27","page-web","html-css-js-bases","css-fondamentaux","Les base de CSS","Sélecteurs"," id, class, élément","Sélecteurs par tag, classe, ID","","","page-web/css-fondamentaux","page-web/sélecteurs"
 "propriétés-base","propriétés-base","28","page-web","html-css-js-bases","css-fondamentaux","Les base de CSS","Propriétés de base"," color, font-size, background, etc.","Couleurs, polices, tailles","","","page-web/css-fondamentaux","page-web/propriétés-base"
 "boîte-css","boîte-css","29","page-web","html-css-js-bases","css-fondamentaux","Les base de CSS","Boîte CSS ","box-model","Modèle de boîte CSS, marges, bordures, paddings, contenus","","","page-web/css-fondamentaux","page-web/boîte-css"
-"positionnement","positionnement","30","page-web","html-css-js-bases","css-fondamentaux","Les base de CSS","Positionnement ","position, float, clear","Utilisation et gestion des flottants","","","page-web/css-fondamentaux","page-web/positionnement"
+"positionnement-float","positionnement-float","30","page-web","html-css-js-bases","css-fondamentaux","Les base de CSS","Positionnement float","position, float, clear","Utilisation et gestion des flottants","","","page-web/css-fondamentaux","page-web/positionnement-float"
 "manipulation-dom","manipulation-dom","31","page-web","html-css-js-bases","js-fondamentaux","DOM","Manipulation du DOM ","   - Sélection d'éléments DOM
    - Modification du contenu et des attributs","","","","page-web/js-fondamentaux","page-web/manipulation-dom"
 "événements","événements","32","page-web","html-css-js-bases","js-fondamentaux","Événements","Événements","   - Gestion des événements (clic, survol, etc.)
@@ -50,7 +50,7 @@
 "positionnement","positionnement","39","page-web","html-css-js-maîtrise","css-intermédiaire","","Positionnement ","Positionnement absolu, relatif, fixe","","","","page-web/css-intermédiaire","page-web/positionnement"
 "flexbox","flexbox","40","page-web","html-css-js-maîtrise","css-intermédiaire","","Flexbox","Création de mises en page flexibles avec Flexbox","","","","page-web/css-intermédiaire","page-web/flexbox"
 "grid","grid","41","page-web","html-css-js-maîtrise","css-intermédiaire","","Grid","Création de grilles complexes avec CSS Grid","","","","page-web/css-intermédiaire","page-web/grid"
-"événements","événements","42","page-web","html-css-js-maîtrise","js-intermédiaire","","Événements","Gestion avancée des événements","","","","page-web/js-intermédiaire","page-web/événements"
+"événements-avancée","événements-avancée","42","page-web","html-css-js-maîtrise","js-intermédiaire","","Événements","Gestion avancée des événements","","","","page-web/js-intermédiaire","page-web/événements-avancée"
 "asynchrone","asynchrone","43","page-web","html-css-js-maîtrise","js-intermédiaire","","Asynchrone","- Utilisation des promesses et de async/await","","","","page-web/js-intermédiaire","page-web/asynchrone"
 "dom-avancée","dom-avancée","44","page-web","html-css-js-maîtrise","js-intermédiaire","","Manipulation avancée du DOM","- Techniques avancées pour manipuler le DOM","","","","page-web/js-intermédiaire","page-web/dom-avancée"
 "initiation-gestion-de-version","initiation-gestion-de-version","45","Initiation-git","git","git","","Initiation à la gestion de version","","","","","Initiation-git/git","Initiation-git/initiation-gestion-de-version"
@@ -74,6 +74,3 @@
 "frameworks-css","frameworks-css","61","","spécialisation-création-site-web","optimisation-performances","","Frameworks CSS","Bootstrap, Foundation","","","","/optimisation-performances","/frameworks-css"
 "techniques-doptimisation","techniques-doptimisation","62","site-web","spécialisation-création-site-web","optimisation-performances","","Techniques d'optimisation","Minification, compression, lazy loading","","","","site-web/optimisation-performances","site-web/techniques-doptimisation"
 "gestion-de-build","gestion-de-build","63","site-web","spécialisation-création-site-web","optimisation-performances","","Gestion de build","Introduction à Webpack et Parcel","","","","site-web/optimisation-performances","site-web/gestion-de-build"
-"","","","","","","","","validation, envoi","","","","",""
-"","","","","","","","","Asynchronous JavaScript and XML","","","","",""
-"","","","","","","","","audio, video, source","","","","",""

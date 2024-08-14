@@ -1,14 +1,14 @@
 ---
-reference: environnement-développement-conslusion
-slug: conslusion
+reference: environnement-développement-conclusion
+slug: conclusion
 module_reference: informatique-web
 part_reference: environnement-développement
 concept: ''
-title: Conslusion
+title: Conclusion
 description: Tutorat - questions
-order: 0
-global_order: '23'
+order: 5
+global_order: '17'
 directory: environnement-développement
-permalink: environnement-développement/conslusion
+permalink: environnement-développement/conclusion
 layout: chapters
 ---

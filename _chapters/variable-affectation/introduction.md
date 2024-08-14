@@ -8,8 +8,8 @@ title: Introduction
 description:
 - introduction au module
 - introduction à la partie
-order: 0
-global_order: '24'
+order: 1
+global_order: '18'
 directory: variable-affectation
 permalink: variable-affectation/introduction
 layout: chapters

@@ -6,8 +6,8 @@ part_reference: variable-affectation
 concept: ''
 title: Mini-projet
 description: ''
-order: 0
-global_order: ''
+order: 2
+global_order: '19'
 directory: variable-affectation
 permalink: variable-affectation/mini-projet
 layout: chapters

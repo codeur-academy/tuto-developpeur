@@ -1,6 +1,6 @@
 ---
-reference: événements
-slug: événements
+reference: événements-avancée
+slug: événements-avancée
 order: 42
 module_reference: page-web
 unit_reference: html-css-js-maîtrise
@@ -12,6 +12,6 @@ description: ''
 tutorials: ''
 Todo: ''
 directory: page-web/js-intermédiaire
-permalink: page-web/événements
+permalink: page-web/événements-avancée
 layout: concepts
 ---

@@ -30,7 +30,7 @@ collections:
     permalink: /tutorials/:path/
   modules:
     output: true
-    permalink: /parts/:title
+    permalink: /modules/:title
   parts:
     output: true
     permalink: /parts/:title
