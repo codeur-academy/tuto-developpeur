@@ -24,6 +24,13 @@
         "_sections": true,
         "docs": true,
         "README.md": true,
-        "plan-formation-global.html": true
+        "plan-formation-global.html": true,
+        "_config.yml": true,
+        "assets": true,
+        ".jekyll-cache": true,
+        "_docs_development": true,
+        "_concept_categories": true,
+        "_resource_categories": true,
+        "_resources": true
     }
 }

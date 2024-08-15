@@ -5,11 +5,9 @@ module_reference: informatique-web
 part_reference: introduction-informatique
 concept: ''
 title: Introduction à l'informatique
-description:
-- introduction au module
-- introduction à la partie
-order: 1
-global_order: '1'
+description: introduction à la partie
+order: 2
+global_order: '2'
 directory: introduction-informatique
 permalink: introduction-informatique/introduction
 layout: chapters
