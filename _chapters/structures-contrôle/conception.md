@@ -3,7 +3,7 @@ reference: structures-contrôle-conception
 slug: conception
 module_reference: programmation
 part_reference: structures-contrôle
-concept: ''
+concept_reference: ''
 title: Conception
 description: ''
 order: 6

@@ -3,7 +3,7 @@ reference: structures-contrôle-conclusion
 slug: conclusion
 module_reference: programmation
 part_reference: structures-contrôle
-concept: ''
+concept_reference: ''
 title: Conclusion
 description: ''
 order: 8

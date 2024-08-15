@@ -3,7 +3,7 @@ reference: introduction-informatique-introduction-module
 slug: introduction-module
 module_reference: informatique-web
 part_reference: introduction-informatique
-concept: ''
+concept_reference: ''
 title: 'Module : Initiation à l''information et web'
 description: 'introduction au module : Initiation à l''information et web
 
@@ -14,6 +14,8 @@ directory: introduction-informatique
 permalink: introduction-informatique/introduction-module
 layout: chapters
 ---
+
+# Module : Initiation à l'information et le web
 
 Votre premier pas dans le monde de l'informatique et du Web
 

@@ -3,7 +3,7 @@ reference: introduction-informatique-apprentissage
 slug: apprentissage
 module_reference: informatique-web
 part_reference: introduction-informatique
-concept: ''
+concept_reference: ''
 title: Apprentissage
 description: ''
 order: 3

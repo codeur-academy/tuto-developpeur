@@ -10,5 +10,6 @@ order: 6
 global_order: '6'
 directory: introduction-informatique
 permalink: introduction-informatique/rôle-langages-programmation
-layout: chapters
+layout: chapter_with_concept
+concept_reference: rôle-langages-programmation
 ---

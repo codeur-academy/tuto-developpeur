@@ -3,7 +3,7 @@ reference: introduction-informatique-conclusion
 slug: conclusion
 module_reference: informatique-web
 part_reference: introduction-informatique
-concept: ''
+concept_reference: ''
 title: Conclusion
 description: ''
 order: 7

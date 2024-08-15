@@ -3,7 +3,7 @@ reference: structures-contrôle-apprentissage
 slug: apprentissage
 module_reference: programmation
 part_reference: structures-contrôle
-concept: ''
+concept_reference: ''
 title: Apprentissage
 description: ''
 order: 3

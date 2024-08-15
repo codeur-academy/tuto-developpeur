@@ -1,7 +1,14 @@
-{% if page.concept != '' and page.concept != nil %}
-            {% assign concept = site.concepts | where: "reference",page.concept | first %}
+{% if page.concept_reference != '' and page.concept_reference != nil %}
+            {% assign concept = site.concepts | where: "reference",page.concept_reference | first %}
+            {% assign topics_size =  concept.topics | size %}
             <h1>{{concept.title}}</h1>
-            <h2>Sujets</h2>
+            <h2> 
+                {% if topics_size > 1 %}
+                Concepts à apprendre
+                {% else %}
+                Concept à apprendre
+                {% endif %}
+            </h2>
             <p>
                 {{concept.description}}
             </p>

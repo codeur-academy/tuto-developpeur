@@ -11,19 +11,20 @@ module Jekyll
       
       def initialize()
         @data_directory = "_data/collections"
-        @base_url_sheet = "https://docs.google.com/spreadsheets/d/1z_kyk6ZUFuHoEvKAxw-Vrk6oRQjj-q4OkgapUAbgA4o/gviz/tq?tqx=out:csv&sheet="
+        @google_sheet_id = "1z_kyk6ZUFuHoEvKAxw-Vrk6oRQjj-q4OkgapUAbgA4o"
+        @base_url_sheet = "https://docs.google.com/spreadsheets/d/#{@google_sheet_id}/gviz/tq?tqx=out:csv&sheet="
       end
 
+      # Conversion d'une chaîne de caractère au hash table
       def convert_strings_to_arrays(hash)
+   
         hash.each do |key, value|
-
           if value.is_a?(String) && value.start_with?('[') 
               # pp value
               cleaned_string = value.gsub('[', '').gsub(']', '')
               array = cleaned_string.split(',')
               hash[key] = array
           end
-
           if value.is_a?(String) && value.start_with?('*') 
 
               array = value.split('*')
@@ -31,77 +32,57 @@ module Jekyll
               array = array.map(&:strip)
               hash[key] = array
           end
-
           if value.is_a?(String) && value == 'TRUE'
             hash[key] = true
           end
           if value.is_a?(String) && value == 'FALSE'
             hash[key] = false
           end
-
-
         end
         hash
       end
 
+      # Convert csv file to hash table
       def csv_to_hash(filename)
         data = []
         CSV.foreach(filename, headers: true) do |row|
-
           row_hash = row.to_h
-
           row_hash = convert_strings_to_arrays(row_hash)
-
-          # pp row_hash if row_hash.key?('tutorials')
-          
-
+          # Convert order clone to integer
           row_hash["order"] = row_hash["order"].to_i if row_hash.has_key?("order")
-
-
           data << row_hash
-
-
-
-          
          end
         data
       end
 
 
+      # Téléchargement de tous les fichier csv et mettre à jour les collections
       def populate(site)
-
         puts "plugin : mettre à jour des collections"
-
         menu_csv_data = download_all_collection_csv_files_if_notexist
-
         menu_csv_data.each do |item|
           collection_name = item[0]
-        
           csv_file_name = "#{@data_directory}/#{collection_name}.csv"
           data = csv_to_hash(csv_file_name)
-
           update_data_to_files(site,data,collection_name)
-
         end
-        
-    
       end
 
+      # Mettre à jour une collection
       def  update_data_to_files(site,data,collection_name)
 
         data.each do |item|
 
-          
           # Chemin de l'enregistrement de fichier
           directory = item["directory"] || ""
 
-          # Solution de problème de lien Hypertexte
-          # Convert Roo::Link to string
-          item.each do |key, value|
-            if value.is_a?(Roo::Link)
-              item[key] = value.href  # Access and store the link's href (URL)
-            end
-          end
+          # # Solution de problème de lien Hypertexte
+          # # Convert Roo::Link to string
+          # item.each do |key, value|
+          #   if value.is_a?(Roo::Link)
+          #     item[key] = value.href  # Access and store the link's href (URL)
+          #   end
+          # end
           
         
           # Chemin de fichier
@@ -111,10 +92,25 @@ module Jekyll
           full_directory = File.join(site.source, "_#{collection_name}", directory)
           create_directory_path(full_directory)
         
+          # Détermination de layout
+          # Par défaut le layout  = collection_name
           # Add layout attribut if collection layout exist
           if site.layouts.key?(collection_name)
             item = item.merge({'layout' => collection_name})
           end
+          # Si le chapitre avoir une concept, layout = chapter_concept
+       
+          if collection_name == "chapters"
+            
+
+     
+            if item['concept_reference'] != ""
+              
+              item['layout'] = 'chapter_with_concept'
+            end 
+          end
+
+
 
           # Création ou mettre de fichier
           if File.exist?(path) 

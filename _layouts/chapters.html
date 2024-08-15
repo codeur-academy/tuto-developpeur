@@ -30,7 +30,7 @@ layout: default
             </button>
             
         </div>
-        <h1 class="menu-title">{{site.title}}</h1>
+        <span class="menu-title">{{site.title}}</span>
         <div class="right-buttons">
             <!-- <a href="print.html" title="Print this book" aria-label="Print this book">
                 <i id="print-button" class="fa fa-print"></i>
@@ -59,11 +59,8 @@ layout: default
                   <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
                 </ol>
             </nav>
-            {% include concepts_in_chapter.html %}
-            <h1>{{page.title}}</h1>
             {{ content }}
         </main>
-
 
         {% assign next = page["next_chapter"] %}
         {% assign prev = page["previous_chapter"] %}

@@ -3,7 +3,7 @@ reference: structures-contrôle-mini-projet-page-web
 slug: mini-projet-page-web
 module_reference: programmation
 part_reference: structures-contrôle
-concept: ''
+concept_reference: ''
 title: 'Mini-projet : page web'
 description: ''
 order: 2

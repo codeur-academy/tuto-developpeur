@@ -3,7 +3,7 @@ reference: environnement-développement-conclusion
 slug: conclusion
 module_reference: informatique-web
 part_reference: environnement-développement
-concept: ''
+concept_reference: ''
 title: Conclusion
 description: Tutorat - questions
 order: 5

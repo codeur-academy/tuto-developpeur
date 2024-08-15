@@ -3,7 +3,7 @@ reference: variable-affectation-conclusion
 slug: conclusion
 module_reference: programmation
 part_reference: variable-affectation
-concept: ''
+concept_reference: ''
 title: Conclusion
 description: ''
 order: 8

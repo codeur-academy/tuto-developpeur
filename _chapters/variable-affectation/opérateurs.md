@@ -3,7 +3,7 @@ reference: variable-affectation-opérateurs
 slug: opérateurs
 module_reference: programmation
 part_reference: variable-affectation
-concept: ''
+concept_reference: ''
 title: opérateurs
 description: ''
 order: 6

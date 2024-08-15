@@ -3,7 +3,7 @@ reference: variable-affectation-apprentissage
 slug: apprentissage
 module_reference: programmation
 part_reference: variable-affectation
-concept: ''
+concept_reference: ''
 title: Apprentissage
 description: ''
 order: 3

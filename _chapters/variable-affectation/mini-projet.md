@@ -3,7 +3,7 @@ reference: variable-affectation-mini-projet
 slug: mini-projet
 module_reference: programmation
 part_reference: variable-affectation
-concept: ''
+concept_reference: ''
 title: Mini-projet
 description: ''
 order: 2
