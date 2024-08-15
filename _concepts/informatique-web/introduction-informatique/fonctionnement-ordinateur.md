@@ -12,7 +12,8 @@ topics:
 - Matériel (hardware) vs logiciel (software)
 - Les composants principaux d'un ordinateur (CPU, RAM, disque dur, etc.)
 description: ''
-tutorials: ''
+tutorials:
+- codeur-academy-algorithme-cest-quoi-lordinateur
 Todo: ''
 directory: informatique-web/introduction-informatique
 permalink: informatique-web/fonctionnement-ordinateur
